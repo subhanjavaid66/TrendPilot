@@ -1,4 +1,4 @@
-# TrendPilot
+﻿# TrendPilot
 
 TrendPilot is a local Ollama-powered agent that turns a topic into platform-specific social content. It plans a workflow, generates content angles, writes and reviews a caption, creates hashtags, optionally creates a short-video script, and saves the result.
 
@@ -76,4 +76,5 @@ See:
 - [Final report](report/final_report.pdf)
 - [Screenshots](screenshots/)
 
-Screenshots of the local Ollama session, generated output, and saved-file path are included. The project owner must still upload the project and add its GitHub/Drive URL before external submission.
+Screenshots of the local Ollama session, generated output, and saved-file path are included. Repository: https://github.com/subhanjavaid66/TrendPilot
+
