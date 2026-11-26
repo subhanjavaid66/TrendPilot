@@ -22,3 +22,4 @@ The live LinkedIn Post + Reel Script run also exposed a scoring issue: the capti
 - The analyzer is a transparent heuristic, not a guarantee of virality or factual accuracy.
 - The project is publicly available at https://github.com/subhanjavaid66/TrendPilot.
 
+
