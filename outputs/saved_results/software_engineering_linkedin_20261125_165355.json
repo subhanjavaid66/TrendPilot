@@ -1,0 +1,98 @@
+{
+  "plan": {
+    "topic": "Software Engineering",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identifies five potential content angles related to software engineering."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggests relevant hashtags for a LinkedIn software engineering post."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluates the caption based on pre-defined professional writing standards."
+      }
+    ]
+  },
+  "topic": "Software Engineering",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "output_type": "Post",
+  "content_idea": "What's the biggest challenge you consistently face in your software engineering work – and how does it shape your approach to problem-solving?",
+  "hook": "---",
+  "research": {
+    "topic": "Software Engineering",
+    "platform": "LinkedIn",
+    "angles": [
+      "A seasoned software engineer recounts a pivotal moment where a seemingly minor code change unexpectedly exposed a critical security vulnerability, highlighting the importance of thorough testing.",
+      "The myth of the 'perfect' software engineer is debunked: it’s about relentless learning and adaptation within the ever-evolving landscape of software engineering.",
+      "Consider this lesson: prioritizing robust documentation alongside code is a foundational investment in a sustainable software engineering career.",
+      "Take a peek behind the scenes of a complex software build, revealing the intricate process of collaboration and meticulous attention to detail that delivers a functional product.",
+      "What's the biggest challenge you consistently face in your software engineering work – and how does it shape your approach to problem-solving?"
+    ],
+    "best_angle": "What's the biggest challenge you consistently face in your software engineering work – and how does it shape your approach to problem-solving?",
+    "trends": [
+      "A seasoned software engineer recounts a pivotal moment where a seemingly minor code change unexpectedly exposed a critical security vulnerability, highlighting the importance of thorough testing.",
+      "The myth of the 'perfect' software engineer is debunked: it’s about relentless learning and adaptation within the ever-evolving landscape of software engineering.",
+      "Consider this lesson: prioritizing robust documentation alongside code is a foundational investment in a sustainable software engineering career.",
+      "Take a peek behind the scenes of a complex software build, revealing the intricate process of collaboration and meticulous attention to detail that delivers a functional product.",
+      "What's the biggest challenge you consistently face in your software engineering work – and how does it shape your approach to problem-solving?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-25",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Software Engineering",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#SoftwareEngineering",
+      "#CodeRefactoring",
+      "#SystemDesign",
+      "#Microservices"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "---\n\nIt’s a humbling truth in software engineering: the most significant challenges aren’t always the complex algorithms, but the unforeseen consequences of seemingly minor code changes. Recently, a simple refactoring effort exposed a critical security vulnerability – a stark reminder that meticulous testing isn’t a luxury, it’s a bedrock principle.\n\nLet’s dispel a myth – the idea of the “perfect” engineer simply doesn’t hold up. Sustainable development demands recognizing our limitations and prioritizing continuous learning. We recently avoided a two-week delay by having detailed API documentation readily available, demonstrating the power of proactive documentation alongside code.\n\nTake a peek behind the scenes of a complex build – the collaborative effort, the meticulous attention to detail – and you’ll see it’s a testament to careful planning and execution. But it’s not just about the process; it’s about how that process informs our approach.\n\nWhat's one documentation practice that’s dramatically improved *your* workflow, and how has it shaped your problem-solving process? Share your insights below!\n\n#SoftwareEngineering #CodeRefactoring #SystemDesign #Microservices",
+  "reel_script": null,
+  "title": "Engineering Challenges: Solving Them",
+  "thumbnail_text": "Problem solving tips",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 169,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 1,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 95,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Use hashtags that are more closely related to the topic."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 95/100\n\nStrengths:\n- The caption effectively uses a professional tone suitable for LinkedIn and the software engineering topic.\n- The inclusion of a relevant call to action (“Share your insights below!”) encourages engagement.\n- The content provides valuable observations about code refactoring, documentation, and collaborative development – key concepts for software engineers.\n\nIssues:\n- The phrasing “doesn’t hold up” regarding the “perfect” engineer could be perceived as slightly critical and might benefit from softening.\n- While the content is informative, it leans towards a slightly theoretical discussion; grounding it with a brief, relatable example (even a hypothetical one) could increase impact.\n- The hashtag selection, while present, could be refined for greater specificity and relevance to trending topics within software engineering.\n\nSuggestions:\n- Rephrase “doesn’t hold up” to something like “demands continuous adaptation” or “requires ongoing refinement.”\n- Add a sentence briefly illustrating the API documentation’s impact – e.g., “For example, quickly resolving a dependency issue saved us…”\n- Replace #Microservices with #SoftwareDevelopment or #DevOps to broaden reach and align with current trends.\n- Use hashtags that are more closely related to the topic.",
+  "revisions": 1
+}

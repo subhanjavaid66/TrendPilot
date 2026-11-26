@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Artificial Intelligence in Education",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identifies five potential content angles for AI in education."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggests relevant hashtags to maximize LinkedIn reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluates the caption based on professional content guidelines."
+      }
+    ]
+  },
+  "topic": "Artificial Intelligence in Education",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "The myth that AI will replace teachers is simply untrue; it’s about augmenting their abilities and unlocking personalized learning experiences.",
+  "hook": "The future of education isn’t about replacing teachers – it’s about empowering them.",
+  "research": {
+    "topic": "Artificial Intelligence in Education",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a classroom where every student learns at their own pace, guided by AI – is this a futuristic dream or a rapidly approaching reality?",
+      "The myth that AI will replace teachers is simply untrue; it’s about augmenting their abilities and unlocking personalized learning experiences.",
+      "Let’s consider the student struggling with algebra – could an AI tutor provide the immediate, targeted support they desperately need?",
+      "A quick peek into the design process of an AI-powered learning platform reveals the incredible attention to detail and pedagogical research involved.",
+      "What if AI could identify knowledge gaps *before* they impact a student's overall understanding – how would that change the approach to curriculum design?"
+    ],
+    "best_angle": "The myth that AI will replace teachers is simply untrue; it’s about augmenting their abilities and unlocking personalized learning experiences.",
+    "trends": [
+      "Imagine a classroom where every student learns at their own pace, guided by AI – is this a futuristic dream or a rapidly approaching reality?",
+      "The myth that AI will replace teachers is simply untrue; it’s about augmenting their abilities and unlocking personalized learning experiences.",
+      "Let’s consider the student struggling with algebra – could an AI tutor provide the immediate, targeted support they desperately need?",
+      "A quick peek into the design process of an AI-powered learning platform reveals the incredible attention to detail and pedagogical research involved.",
+      "What if AI could identify knowledge gaps *before* they impact a student's overall understanding – how would that change the approach to curriculum design?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Artificial Intelligence in Education",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#EdTechAI",
+      "#LearningAnalytics",
+      "#AIpedagogy",
+      "#IntelligentTutoring"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The future of education isn’t about replacing teachers – it’s about empowering them. The narrative that Artificial Intelligence will supplant educators is a myth. Instead, AI’s true potential lies in augmenting teaching abilities and unlocking truly personalized learning experiences.\n\nImagine an AI tutor providing immediate, targeted support to a student struggling with a complex concept, or a learning platform proactively identifying knowledge gaps *before* they impact a student’s understanding. This isn’t about automation; it’s about freeing up educators to focus on fostering critical thinking, creativity, and social-emotional development.\n\nBy leveraging AI’s analytical capabilities, we can design curricula that adapt to individual student needs and optimize the learning journey.\n\nWhat innovative ways do you envision AI transforming the classroom?\n\n#EdTechAI #LearningAnalytics #AIpedagogy #IntelligentTutoring",
+  "reel_script": "Hook (0-3s): “The future of education is collaborative.”\n\nScene 1 | Visual: A split screen – one side shows a teacher working with a small group of students, the other side shows an AI tutor interacting with a single student on a tablet.\n| Voiceover: “The narrative that AI will replace teachers is a myth. It’s about augmenting their abilities.”\n\nScene 2 | Visual: Close-up shot of a student struggling with a math problem, then a quick transition to the AI tutor instantly providing targeted support and explaining the concept clearly.\n| Voiceover: “AI’s true potential unlocks personalized learning experiences, like immediate, targeted support for students.”\n\nScene 3 | Visual: A teacher smiling, engaging in a discussion with students, fostering critical thinking.\n| Voiceover: “Freeing educators to focus on what matters most: developing critical thinking, creativity, and social-emotional skills.”\n\nClosing line: “Let’s build a smarter, more personalized learning journey – together.”",
+  "title": "AI & Educators: A Team",
+  "thumbnail_text": "Augmenting Teaching Now",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 124,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\n\nStrengths:\n- The content effectively addresses the topic of AI in education and counters a common misconception.\n- The tone is professional and optimistic, aligning with TrendPilot’s brand.\n- The use of examples (AI tutor, learning platform) clearly illustrates the potential benefits of AI in education.\n- The call to action (“What innovative ways do you envision AI transforming the classroom?”) encourages engagement.",
+  "revisions": 0
+}

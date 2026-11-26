@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + hashtags",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring five potential angles for content around YOLOv8 helmet detection."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generating relevant hashtags for maximizing LinkedIn reach on this topic."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's quality based on professional content guidelines."
+      }
+    ]
+  },
+  "topic": "YOLOv8 helmet detection",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "Imagine a world where every cyclist is automatically protected – that's the potential of YOLOv8 helmet detection.",
+  "hook": "Imagine a world where every cyclist is automatically protected – that's the potential of YOLOv8 helmet detection.",
+  "research": {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a world where every cyclist is automatically protected – that's the potential of YOLOv8 helmet detection.",
+      "Let's debunk the myth that helmet detection is only for professional athletes; it’s increasingly relevant for everyday riders.",
+      "The core principle of YOLOv8 helmet detection isn’t just about spotting a helmet, it’s about proactively reducing risk.",
+      "A glimpse into the development process reveals how YOLOv8’s accuracy is continuously refined through real-world testing scenarios.",
+      "If improved safety is your priority, could YOLOv8 helmet detection be the missing piece in your transportation strategy?"
+    ],
+    "best_angle": "Imagine a world where every cyclist is automatically protected – that's the potential of YOLOv8 helmet detection.",
+    "trends": [
+      "Imagine a world where every cyclist is automatically protected – that's the potential of YOLOv8 helmet detection.",
+      "Let's debunk the myth that helmet detection is only for professional athletes; it’s increasingly relevant for everyday riders.",
+      "The core principle of YOLOv8 helmet detection isn’t just about spotting a helmet, it’s about proactively reducing risk.",
+      "A glimpse into the development process reveals how YOLOv8’s accuracy is continuously refined through real-world testing scenarios.",
+      "If improved safety is your priority, could YOLOv8 helmet detection be the missing piece in your transportation strategy?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#YOLOv8HelmetDetection",
+      "#ObjectDetection",
+      "#HelmetSafety",
+      "#YOLOv8"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Imagine a world where every cyclist is automatically protected – that's the potential of YOLOv8 helmet detection.\n\nThis innovative technology is rapidly transforming how we approach safety in cycling. YOLOv8 offers a powerful solution for real-time helmet detection, providing a crucial layer of protection and enabling proactive safety measures. A key insight is the ability to integrate this technology into smart helmets or wearable devices, creating a feedback loop for both cyclists and safety systems.\n\nThe accuracy and speed of YOLOv8 are remarkable, opening doors to a future where near-miss incidents are automatically flagged, and intervention can be initiated instantaneously.\n\nWhat strategies do you envision for effectively deploying YOLOv8 helmet detection to maximize cyclist safety and reduce accidents?\n\n#YOLOv8HelmetDetection #ObjectDetection #HelmetSafety #YOLOv8",
+  "reel_script": "Hook (0-3s): Imagine a world…\n\nScene 1 | Visual: Close-up of a cyclist wearing a helmet, blurred background. Transition to a computer screen displaying a bounding box highlighting the helmet. | Voiceover: “Every cyclist deserves protection, but manual monitoring is impossible.”\n\nScene 2 | Visual: Animated graphic showing YOLOv8 algorithm processing video footage in real-time, accurately identifying helmets. | Voiceover: “YOLOv8’s advanced object detection offers unparalleled speed and accuracy in identifying helmets.”\n\nScene 3 | Visual: Montage of diverse cyclists wearing helmets, overlaid with subtle data visualizations representing processing speed and precision. | Voiceover: “This technology unlocks proactive safety solutions and reduces risk.”\n\nClosing line: “Explore the possibilities of intelligent safety. Learn more about YOLOv8 helmet detection today.”",
+  "title": "YOLOv8: Smart Helmet Safety",
+  "thumbnail_text": "Automatic helmet detection",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 118,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with a relatable vision.\n- Clearly explains the core benefit of YOLOv8 for helmet detection.\n- Includes relevant hashtags.\n\nIssues:\n- Lacks a specific call to action beyond the question.\n- Could benefit from quantifying the accuracy or speed of YOLOv8.\n- The phrasing “crucial layer of protection” is somewhat hyperbolic.\n\nSuggestions:\n- Replace “What strategies do you envision…” with a more direct call to action, such as “Share your ideas for integrating YOLOv8 into cyclist safety systems!”\n- Add a quantifiable detail, e.g., “YOLOv8 achieves 95% accuracy in real-time helmet detection.”\n- Modify “crucial layer of protection” to “significant safety enhancement.”",
+  "revisions": 0
+}

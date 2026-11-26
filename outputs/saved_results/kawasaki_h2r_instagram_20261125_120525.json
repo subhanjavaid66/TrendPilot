@@ -1,0 +1,106 @@
+{
+  "plan": {
+    "topic": "Kawasaki H2r",
+    "platform": "Instagram",
+    "tone": "Casual",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending Kawasaki H2R content for optimal engagement ideas."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generating relevant hashtags to expand your H2r reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing the caption for clarity and alignment with the brief."
+      }
+    ]
+  },
+  "topic": "Kawasaki H2r",
+  "platform": "Instagram",
+  "tone": "Casual",
+  "output_type": "Post",
+  "content_idea": "Share a captivating slow-motion video of the H2R’s exhaust expanding, highlighting its signature sound.",
+  "hook": "**(Image: Slow-motion video of the H2R exhaust expanding)**",
+  "research": {
+    "topic": "Kawasaki H2r",
+    "platform": "Instagram",
+    "angles": [
+      "Share a captivating slow-motion video of the H2R’s exhaust expanding, highlighting its signature sound.",
+      "Debunk the myth that the H2R’s power delivery is unpredictable – show a controlled display of its acceleration.",
+      "Offer a ‘rider’s lesson’ illustrating the importance of precision throttle control for optimal H2R performance.",
+      "Give a brief, unfiltered look at the meticulous maintenance process required to keep an H2R in top condition.",
+      "Ask followers what they find most intimidating or exciting about the H2R’s aggressive design and sound."
+    ],
+    "best_angle": "Share a captivating slow-motion video of the H2R’s exhaust expanding, highlighting its signature sound.",
+    "trends": [
+      "Share a captivating slow-motion video of the H2R’s exhaust expanding, highlighting its signature sound.",
+      "Debunk the myth that the H2R’s power delivery is unpredictable – show a controlled display of its acceleration.",
+      "Offer a ‘rider’s lesson’ illustrating the importance of precision throttle control for optimal H2R performance.",
+      "Give a brief, unfiltered look at the meticulous maintenance process required to keep an H2R in top condition.",
+      "Ask followers what they find most intimidating or exciting about the H2R’s aggressive design and sound."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-25",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Kawasaki H2r",
+    "platform": "Instagram",
+    "hashtags": [
+      "#KawasakiH2r",
+      "#H2R",
+      "#NinjaH2R",
+      "#KawasakiH2R",
+      "#Supercharged",
+      "#TrackDay"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "**(Image: Slow-motion video of the H2R exhaust expanding)**\n\n“Feel the pulse. This isn’t just a motorcycle; it’s a controlled eruption. Witness the H2R’s signature exhaust expansion – a raw display of that supercharged fury. Forget the rumors of unpredictable power; this is about mastering a machine.\n\nPrecision throttle control is *everything* with the H2R. A tiny adjustment can unleash a wave of acceleration that’ll redefine your perception of speed. It’s not about overwhelming force, it’s about surgical precision.\n\nMaintaining this beast demands respect – regular valve checks, custom fluid changes, and a dedication to keeping every component firing on all cylinders. It's a partnership built on meticulous care.\n\nSeriously, what’s the first thing that grabs you about the H2R’s design? Is it the aggressive stance, the insane sound, or the sheer potential? Share your thoughts below – let’s talk H2R! 👇\n\n#KawasakiH2r #H2R #NinjaH2R #Supercharged #TrackDay",
+  "reel_script": null,
+  "title": "H2R Soundwave Reveal",
+  "thumbnail_text": "Epic Exhaust Flow",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 146,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 5,
+    "total_hashtag_mentions": 5,
+    "relevant_hashtag_count": 1,
+    "relevance_score": 20,
+    "relevance_percent": 80,
+    "quality_score": 84,
+    "checks": {
+      "relevance": 20,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 10,
+      "readability": 9,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Make the connection to the requested topic clearer.",
+      "Use hashtags that are more closely related to the topic.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 84/100\n\nStrengths:\n- Topic Relevance: The content is perfectly aligned with the Kawasaki H2R and its key features (supercharged exhaust, precision throttle).\n- Appropriate Length for Instagram: The caption is concise and well-suited for Instagram’s character limit.\n- Clear Call to Action: The question at the end (“Seriously, what’s the first thing that grabs you about the H2R’s design…”) effectively encourages engagement.\n- Tone Matching: The “casual” tone is well-executed, using phrases like “controlled eruption” and “surgical precision” in a way that feels approachable.\n\nSuggestions:\n- Make the connection to the requested topic clearer.\n- Use hashtags that are more closely related to the topic.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 1
+}

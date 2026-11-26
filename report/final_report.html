@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>TrendPilot - AIRI Team PITB AI Internship Task 2</title>
+<style>
+@page { size: A4; margin: 20mm 18mm; }
+body { color: #172033; font: 10.5pt/1.5 Arial, sans-serif; }
+h1 { color: #263b78; font-size: 26pt; margin-bottom: 4pt; }
+h2 { color: #263b78; font-size: 16pt; margin-top: 20pt; border-bottom: 1px solid #d5dced; padding-bottom: 4pt; }
+h3 { color: #33466f; font-size: 12pt; margin-bottom: 2pt; }
+.subtitle { color: #52617b; font-size: 13pt; margin-top: 0; }
+.callout { background: #eef3ff; border-left: 4px solid #596fd0; padding: 10px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 8.5pt; }
+th, td { border: 1px solid #cbd3e1; padding: 6px; vertical-align: top; text-align: left; }
+th { background: #eef3ff; }
+code { font-family: Consolas, monospace; font-size: 9pt; }
+li { margin: 3px 0; }
+.page-break { page-break-before: always; }
+.small { color: #5b667a; font-size: 9pt; }
+</style>
+</head>
+<body>
+<h1>TrendPilot</h1>
+<p class="subtitle">Local Agentic AI Assistant for Social Content Planning</p>
+<p><b>AIRI Team PITB - AI Internship Task 2</b><br>
+Project: TrendPilot &nbsp; | &nbsp; Model configured: Ollama <code>gemma3:4b</code><br>
+Report date: 25 November 2026</p>
+
+<h2>1. Project Overview</h2>
+<p>TrendPilot takes a topic, platform, writing tone, and output type, then produces social content through a local Ollama-backed workflow. It plans tool steps, researches content angles, writes a caption, generates hashtags, scores and reviews the draft, optionally creates a short-video script and title/thumbnail, then saves the result.</p>
+<p class="callout"><b>Important scope:</b> TrendPilot generates content angles locally; it does not fetch or verify real-time social-media trends. Generated factual claims still need human verification.</p>
+
+<h2>2. Requirements Checklist</h2>
+<table>
+<tr><th>Assignment requirement</th><th>Evidence / status</th></tr>
+<tr><td>Ollama local LLM; Gemma 3:4B recommended</td><td>Implemented in <code>agent/ollama_client.py</code>; default model is <code>gemma3:4b</code>. Local Ollama API responded during this audit and listed the model.</td></tr>
+<tr><td>Agentic workflow and at least three tools</td><td>Planning, tool execution, caption generation, review/revision, and saving in <code>main.py</code>. Tools include trend ideas, hashtags, analyzer, reviewer, reel script, title/thumbnail, memory, and file saver.</td></tr>
+<tr><td>Memory / saved outputs</td><td><code>memory/history.json</code> contains 81 generation records. The project has 64 saved JSON results and 64 Markdown outputs under <code>outputs/</code>.</td></tr>
+<tr><td>CLI or Streamlit demo</td><td>Both <code>python main.py</code> and <code>streamlit run app.py</code> are available. The Streamlit UI includes inputs, generation, result display, and a full-result download button.</td></tr>
+<tr><td>At least 10 input scenarios and recorded results</td><td>10 assignment scenarios and their historical Ollama run records are in <code>tests/test_cases.md</code> and <code>tests/test_results.json</code>. The runner now checks for expected generated outputs and saved files.</td></tr>
+<tr><td>At least five saved outputs</td><td>64 JSON saved results were present, exceeding the minimum of five.</td></tr>
+<tr><td>Failure analysis of at least five weak results</td><td>Five real historical low-scoring outputs, causes, fixes, and remaining limitations are documented in <code>tests/error_analysis.md</code>.</td></tr>
+<tr><td>README and dependency manifest</td><td>Added root <code>README.md</code>, <code>requirements.txt</code>, and a safe <code>.env.example</code>.</td></tr>
+<tr><td>Screenshots, final report, repository/Drive link</td><td>This report and genuine local-run screenshots are provided under <code>screenshots/</code>. The external GitHub/Drive URL remains an owner-submission item.</td></tr>
+</table>
+
+<h2>3. Agent Workflow and Tools</h2>
+<ol>
+<li>User submits topic, platform, tone, and output type.</li>
+<li>Planner creates a short execution plan using Ollama.</li>
+<li>Trend-idea tool creates five angles; the hashtag tool produces platform-aware tags.</li>
+<li>Caption writer follows platform and tone instructions.</li>
+<li>Content analyzer scores relevance, length, hashtags, CTA, readability, and originality.</li>
+<li>AI reviewer evaluates the draft; feedback can trigger up to the configured number of revisions.</li>
+<li>Optional reel/video script and title/thumbnail are generated according to output type.</li>
+<li>Memory and file saver persist the final Markdown and JSON results; the UI and CLI return the result.</li>
+</ol>
+<p>Tool names are logged during execution. The planner’s steps are deterministic and the model supplies their topic-specific purposes; the workflow is not an autonomous tool-selection framework.</p>
+
+<h2>4. Testing and Changes</h2>
+<p>The project contains 10 assignment scenarios, 81 memory-history records, and 64 saved JSON/Markdown output pairs. The historical 10-case report shows all ten as approved with 100/100, but those results predate the output-contract checks added in this audit and should not be treated as proof that all outputs are perfect.</p>
+<p>A live local run for “YOLOv8 helmet detection project” (LinkedIn, Professional, Post + Reel Script) produced and saved both outputs. It exposed two scoring bugs: the caption writer included a reel script that was also generated separately, so the analyzer counted both sections as 296 words; and the analyzer did not recognize the caption’s valid “Explore how...” call to action. The workflow now extracts and scores only the post, preserves hashtags, and recognizes “explore” as an action. Re-scoring the saved run yields a 134-word caption and 100/100 under the rule-based rubric, with 100% topic relevance. This is a rubric score, not a guarantee of factual accuracy or virality; the report screenshots show the original run that exposed these bugs.</p>
+<p>Changes made during the audit:</p>
+<ul>
+<li>Normalize assignment labels (“Reel script”, “Video script”, “Short post”, etc.) to supported output modes.</li>
+<li>Require the test runner to check requested captions/scripts and verify saved-file paths.</li>
+<li>Make the generator mention the requested topic early to improve topic specificity.</li>
+<li>Fix topic alias matching for “AI Education” and false formatting flags on ordinary words/hashtags.</li>
+<li>Preserve CamelCase hashtag text while deduplicating case-insensitively.</li>
+<li>Separate the social post from a bundled reel script before analysis and recognize an “Explore how...” action as a valid CTA.</li>
+<li>Add the Streamlit full-result save/download control and show the server-side saved path.</li>
+</ul>
+<p>Focused regression tests: <code>python -m unittest test_content_analyzer test_main_output_types</code>. Historical failures and fixes are listed in <code>tests/error_analysis.md</code>.</p>
+
+<h2>5. Failure Analysis Summary</h2>
+<p>Five historical weak outputs ranged from 65 to 76 points. Observed causes included missing topic terms or CTA, platform length mismatch, a misspelled topic, unrecognized CamelCase hashtags, an unsupported topic alias, and false-positive formatting rules. The analyzer/prompt/test-runner fixes are recorded with source output files in <code>tests/error_analysis.md</code>. Hashtag semantic matching remains heuristic, and the person submitting the project should manually review model claims and outputs.</p>
+
+<h2>6. Setup and Demo</h2>
+<p>Install Python 3.10+, install Ollama, then run <code>ollama pull gemma3:4b</code>. Install project packages with <code>pip install -r requirements.txt</code>. Start the demo using <code>streamlit run app.py</code> or <code>python main.py</code>. Detailed setup and test commands are in the root README.</p>
+<p>Evidence screenshots: <code>screenshots/ollama_running.png</code>, <code>screenshots/demo_output.png</code>, and <code>screenshots/saved_file_output.png</code>.</p>
+
+<h2>7. Learning and Future Improvements</h2>
+<ul>
+<li>Learned to connect a local LLM with a planned, multi-tool workflow.</li>
+<li>Added persistent JSON history and Markdown/JSON file output.</li>
+<li>Added platform-aware prompting, review feedback, and regression tests.</li>
+<li>Future work: verified live trend/search source, richer semantic relevance evaluation, user feedback loop, and stronger output-contract/integration tests.</li>
+</ul>
+<p class="small">Submission note: upload the completed project to GitHub or Google Drive and add its URL to the final submission. No external repository was created from this workspace.</p>
+</body>
+</html>

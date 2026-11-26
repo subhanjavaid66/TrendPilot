@@ -1,0 +1,100 @@
+{
+  "plan": {
+    "topic": "Ai TOOLS",
+    "platform": "Instagram",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "Ai TOOLS",
+  "platform": "Instagram",
+  "tone": "Professional",
+  "output_type": "Post",
+  "content_idea": "Launch a poll asking followers what specific creative challenge they’d like an AI tool to solve for them.",
+  "hook": "Feeling creatively blocked?",
+  "research": {
+    "topic": "Ai TOOLS",
+    "platform": "Instagram",
+    "angles": [
+      "Share a visually compelling ‘before-and-after’ showcasing a complex task dramatically simplified by an AI tool.",
+      "Present a short, animated myth explaining the rapid evolution and increasing capabilities of AI tools.",
+      "Offer a quick, actionable lesson on how to frame your requests to an AI tool for optimal results.",
+      "Provide a brief, stylized ‘behind-the-scenes’ glimpse into the human-AI collaboration process during a typical task.",
+      "Launch a poll asking followers what specific creative challenge they’d like an AI tool to solve for them."
+    ],
+    "best_angle": "Launch a poll asking followers what specific creative challenge they’d like an AI tool to solve for them.",
+    "trends": [
+      "Share a visually compelling ‘before-and-after’ showcasing a complex task dramatically simplified by an AI tool.",
+      "Present a short, animated myth explaining the rapid evolution and increasing capabilities of AI tools.",
+      "Offer a quick, actionable lesson on how to frame your requests to an AI tool for optimal results.",
+      "Provide a brief, stylized ‘behind-the-scenes’ glimpse into the human-AI collaboration process during a typical task.",
+      "Launch a poll asking followers what specific creative challenge they’d like an AI tool to solve for them."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Ai TOOLS",
+    "platform": "Instagram",
+    "hashtags": [
+      "#AiTOOLS",
+      "#ArtificialIntelligence",
+      "#AIInnovation",
+      "#MachineLearning",
+      "#FutureOfAI",
+      "#ShareVisuallyCompelling"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "Feeling creatively blocked? Let’s face it, staring at a blank canvas (or screen) can be a major hurdle. AI tools are rapidly changing how we approach creative challenges, and we want to know – what’s *your* biggest creative struggle?\n\nImagine a world where complex illustrations, detailed music scores, or even entire marketing campaigns are generated with a simple prompt. Recent advancements in AI aren’t just about automation; they’re about amplifying human creativity. Think of it like this: you’re providing the vision, and the AI is helping you realize it with incredible speed and precision.\n\nWant to generate stunning product mockups for your designs? Need help crafting the perfect tagline for your brand? Or perhaps you’re struggling to visualize a complex architectural concept? We’re curious – what specific creative task are you hoping an AI tool could solve for you?\n\nTap the poll in our stories to tell us! We’re building a community around exploring the potential of AI in creative workflows, and your input will help us understand exactly what you need. Let’s unlock some serious innovation together!\n\n#AiTOOLS #ArtificialIntelligence #AIInnovation #MachineLearning #FutureOfAI #ShareVisuallyCompelling",
+  "reel_script": null,
+  "title": "Launch a poll asking followers what specific creative challenge...",
+  "thumbnail_text": "AI TOOLS",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 185,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 6,
+    "total_hashtag_mentions": 6,
+    "relevant_hashtag_count": 3,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 90,
+    "checks": {
+      "relevance": 25,
+      "length": 10,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Reduce content length to around 150 words for Instagram."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 90/100\n\nStrengths:\n- The caption effectively poses a question to encourage audience engagement.\n- The use of relatable scenarios (creative block) is a good hook.\n- The explanation of AI tools as “amplifying human creativity” is a reasonable and accessible framing.\n\nIssues:\n- The content length (185 words) is too long for an effective Instagram caption. The analyzer’s suggestion to reduce it to 150 words is crucial.\n- The phrasing “unlock some serious innovation together!” feels slightly cliché and overly enthusiastic for a professional tone.\n- The list of potential creative tasks feels somewhat generic and could benefit from more specific examples relevant to the target audience.\n\nSuggestions:\n- Trim the caption to approximately 150 words, focusing on the core question and a concise explanation of AI’s role.\n- Replace “unlock some serious innovation together!” with a more measured call to action, such as “Share your biggest creative challenge in the comments!”\n- Include 1-2 more targeted examples of creative tasks AI tools could address (e.g., “Generating variations of a logo design” or “Creating initial drafts of social media copy”).\n- Reduce content length to around 150 words for Instagram.",
+  "revisions": 0
+}

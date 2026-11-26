@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generated 5 funny angles for a Python learning journey reel."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identified relevant hashtags for a Python learning content post."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Scored the caption for humor and engagement based on rules."
+      }
+    ]
+  },
+  "topic": "Python learning journey",
+  "platform": "Instagram",
+  "tone": "Funny",
+  "content_idea": "Present a short, animated myth-style video explaining why indentation matters in Python (think a tiny, frustrated Python character struggling with spacing).",
+  "hook": "“Python’s got a serious spacing problem!” 🐍",
+  "research": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "angles": [
+      "Share a relatable meme about staring blankly at a Python tutorial, letting viewers know they’re not alone.",
+      "Present a short, animated myth-style video explaining why indentation matters in Python (think a tiny, frustrated Python character struggling with spacing).",
+      "Offer a 'Python Tip of the Day' format – a single, instantly actionable line of code that solves a common beginner problem, styled as a quick lesson.",
+      "Post a 'Behind-the-Scenes' story showing your messy coding environment and a slightly panicked, but determined, face, captioned with 'Just debugging... again.'",
+      "Create a poll asking followers: ‘What’s the most confusing part about learning Python for you?’"
+    ],
+    "best_angle": "Present a short, animated myth-style video explaining why indentation matters in Python (think a tiny, frustrated Python character struggling with spacing).",
+    "trends": [
+      "Share a relatable meme about staring blankly at a Python tutorial, letting viewers know they’re not alone.",
+      "Present a short, animated myth-style video explaining why indentation matters in Python (think a tiny, frustrated Python character struggling with spacing).",
+      "Offer a 'Python Tip of the Day' format – a single, instantly actionable line of code that solves a common beginner problem, styled as a quick lesson.",
+      "Post a 'Behind-the-Scenes' story showing your messy coding environment and a slightly panicked, but determined, face, captioned with 'Just debugging... again.'",
+      "Create a poll asking followers: ‘What’s the most confusing part about learning Python for you?’"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "hashtags": [
+      "#PythonLearningJourney",
+      "#PythonPath",
+      "#CodeJourney",
+      "#DataSkills",
+      "#ScriptingLife",
+      "#PythonGrowth"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "“Python’s got a serious spacing problem!” 🐍\n\nWatch till the end to see why indentation is the *real* villain in your Python learning journey.\n\nMeet Pip, a tiny Python character who just wants to code, but gets utterly frustrated with inconsistent spacing. 🤯\n\nIt’s not just about making things look pretty – Python *needs* it! Incorrect indentation throws the whole program into chaos.\n\nSwipe to see Pip’s epic struggle with a single misplaced space.\n\nSeriously, get your spacing right or your code will break!\n\nWhat’s the trickiest part of learning Python for you? Let us know in the comments!\n\n#PythonLearningJourney #PythonPath #CodeJourney #DataSkills #ScriptingLife #PythonGrowth",
+  "reel_script": "Hook (0-3s): “Python’s got a serious problem…”\n\nScene 1 | Visual: A tiny, pixelated Python character (Pip) frantically adjusting spaces, looking increasingly stressed. He’s surrounded by error messages floating around him. | Voiceover: “Pip was building a beautiful program, but he kept getting… errors!”\n\nScene 2 | Visual: Pip tries to add a line of code with a single space, then another, then a huge gap. The error messages multiply and start bouncing off him. | Voiceover: “See, in Python, it’s not *what* you write, it’s *where* you write it! Indentation is key.”\n\nScene 3 | Visual: Pip suddenly understands, and flawlessly adds the final line of code. The error messages disappear, and he beams. | Voiceover: “Consistent spacing tells Python exactly what to do. Now his program runs perfectly!”\n\nClosing line: “Start your Python journey today – it’s all about the spaces!”",
+  "title": "Python's Spacing Rage!",
+  "thumbnail_text": "Indentation Explained Now",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 99,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the initial statement and emoji.\n- Clearly explains the importance of indentation in Python.\n- Uses a relatable and engaging character (Pip) to illustrate the concept.\n\nIssues:\n- The “epic struggle” phrasing is a bit over the top and might not resonate with all viewers.\n- The call to action (\"What’s the trickiest part...\") is generic and could be more specific to the content.\n- The caption is slightly lengthy for Instagram and could be more concise.\n\nSuggestions:\n- Replace “epic struggle” with a more measured description, such as “Pip’s frustration.”\n- Suggest a specific question related to the video, like “What’s the most confusing aspect of Python indentation?”\n- Shorten the caption to approximately 125 characters or less, focusing on the core message. Consider removing “Seriously, get your spacing right or your code will break!”",
+  "revisions": 0
+}

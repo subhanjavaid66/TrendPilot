@@ -1,0 +1,102 @@
+{
+  "plan": {
+    "topic": "AI Education",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 trending angles for AI education content."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to maximize LinkedIn reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for optimal motivational impact."
+      }
+    ]
+  },
+  "topic": "AI Education",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "The myth of AI replacing *all* jobs is crumbling; instead, it's reshaping roles and demanding new skills.",
+  "hook": "The narrative that AI will replace *all* jobs is rapidly changing.",
+  "research": {
+    "topic": "AI Education",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a future where every professional understands the potential of AI – let’s make that vision a reality through education.",
+      "The myth of AI replacing *all* jobs is crumbling; instead, it's reshaping roles and demanding new skills.",
+      "Learning about AI isn’t just about coding; it’s about understanding how technology fundamentally alters problem-solving.",
+      "A quick peek into a classroom where students are building their own AI projects, sparking curiosity and innovation.",
+      "If you're hesitant about AI’s impact, what’s the single biggest question you need answered to feel confident?"
+    ],
+    "best_angle": "The myth of AI replacing *all* jobs is crumbling; instead, it's reshaping roles and demanding new skills.",
+    "trends": [
+      "Imagine a future where every professional understands the potential of AI – let’s make that vision a reality through education.",
+      "The myth of AI replacing *all* jobs is crumbling; instead, it's reshaping roles and demanding new skills.",
+      "Learning about AI isn’t just about coding; it’s about understanding how technology fundamentally alters problem-solving.",
+      "A quick peek into a classroom where students are building their own AI projects, sparking curiosity and innovation.",
+      "If you're hesitant about AI’s impact, what’s the single biggest question you need answered to feel confident?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI Education",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#AIEducation",
+      "#AIEdTech",
+      "#MachineLearningSkills",
+      "#DataLiteracy"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The narrative that AI will replace *all* jobs is rapidly changing. Instead of displacement, we’re witnessing a profound reshaping of roles – demanding new skills and a fundamentally different approach to problem-solving.\n\nAI isn’t about eliminating tasks; it’s about augmenting human capabilities and unlocking unprecedented levels of innovation. Learning about AI now isn’t solely about coding; it’s about understanding how technology is altering the very core of strategic thinking and decision-making.\n\nLet’s embrace this evolution. What’s the one critical question you need answered to confidently navigate the opportunities presented by AI in your field? Share your thoughts below!\n\n#AIEducation #AIEdTech #MachineLearningSkills #DataLiteracy",
+  "reel_script": "Hook (0-3s): “The future of work is being rewritten.”\n\nScene 1 | Visual: Dynamic montage of diverse professionals – a marketer analyzing data, a designer using AI-powered tools, a lawyer researching with AI assistance – all looking focused and engaged.\n| Voiceover: “For too long, we’ve heard AI will replace *all* jobs. That’s simply not happening.”\n\nScene 2 | Visual: Split screen – one side shows a traditional, repetitive task being performed manually, the other side shows the same task being streamlined by AI.\n| Voiceover: “Instead, AI is reshaping roles, demanding new skills – strategic thinking, data literacy, and a collaborative approach.”\n\nScene 3 | Visual: Close-up of a professional thoughtfully considering a complex problem, overlaid with subtle AI visualization elements.\n| Voiceover: “It’s about augmenting our abilities, unlocking innovation. What’s the one critical question you need answered to confidently navigate this evolution?”\n\nClosing line: “Let’s talk about the future. Share your thoughts below!”",
+  "title": "AI Skills: Adapt or Fall Behind",
+  "thumbnail_text": "Futureproof your career",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 104,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 2,
+    "relevance_score": 0,
+    "relevance_percent": 0,
+    "quality_score": 69,
+    "checks": {
+      "relevance": 0,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 9,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Include the main topic naturally in the caption body.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 69/100\nAI reviewer verdict: APPROVED (advisory)\n\nStrengths:\n- Topic Relevance: The content directly addresses the timely and important topic of AI education and its impact on the workforce.\n- Motivational Tone: The overall message is positive and encouraging, framing AI as an opportunity for growth and innovation.\n- Clear Call to Action: The question posed at the end effectively encourages engagement and sparks conversation.\n\nSuggestions:\n- Include the main topic naturally in the caption body.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 2
+}

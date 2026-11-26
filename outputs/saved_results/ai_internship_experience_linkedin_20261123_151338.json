@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for AI internship experiences on LinkedIn."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags for AI internship content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's motivational tone and clarity."
+      }
+    ]
+  },
+  "topic": "AI internship experience",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "If you’re considering an AI internship, what’s the *one* thing you’re most excited to learn?",
+  "hook": "Seriously, if you're dreaming of a career in Artificial Intelligence, an AI internship could be the launchpad you’ve been waiting for.",
+  "research": {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "angles": [
+      "My AI internship shifted my perspective on problem-solving, revealing a whole new kind of creative exploration.",
+      "Forget the myths – working with AI isn't about replacing humans, it’s about amplifying our potential.",
+      "The biggest surprise of my AI internship wasn’t the technology itself, but the importance of asking truly insightful questions.",
+      "A peek behind the curtain: navigating the collaborative dance between human intuition and AI algorithms was fascinating.",
+      "If you’re considering an AI internship, what’s the *one* thing you’re most excited to learn?"
+    ],
+    "best_angle": "If you’re considering an AI internship, what’s the *one* thing you’re most excited to learn?",
+    "trends": [
+      "My AI internship shifted my perspective on problem-solving, revealing a whole new kind of creative exploration.",
+      "Forget the myths – working with AI isn't about replacing humans, it’s about amplifying our potential.",
+      "The biggest surprise of my AI internship wasn’t the technology itself, but the importance of asking truly insightful questions.",
+      "A peek behind the curtain: navigating the collaborative dance between human intuition and AI algorithms was fascinating.",
+      "If you’re considering an AI internship, what’s the *one* thing you’re most excited to learn?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#AIInternshipExperience",
+      "#AIInternship",
+      "#MachineLearning",
+      "#DataScienceJourney"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Seriously, if you're dreaming of a career in Artificial Intelligence, an AI internship could be the launchpad you’ve been waiting for.\n\nThe most impactful thing I’ve experienced so far during my AI internship experience is the realization that data isn't just numbers – it's a story waiting to be uncovered. Learning how to frame questions and interpret results from complex datasets has been truly eye-opening. It’s about understanding the *why* behind the algorithms.\n\nDon't underestimate the power of asking “what if?” and challenging assumptions. Experimentation is key in this field.\n\nWhat’s the biggest learning opportunity *you* see for someone embarking on an AI internship?\n\n#AIInternshipExperience #AIInternship #MachineLearning #DataScienceJourney",
+  "reel_script": "Hook (0-3s): Ready to build the future?\n\nScene 1 | Visual: Fast-paced montage of coding, data visualizations, and a diverse team collaborating. | Voiceover: “The AI world is exploding – and it’s more exciting than ever.”\n\nScene 2 | Visual: Close-up of someone thoughtfully reviewing a complex algorithm on a screen. | Voiceover: “If you’re eyeing an AI internship, there’s one thing you *need* to focus on: truly understanding how models learn.”\n\nScene 3 | Visual: A smiling person presents a small, impactful project to a small group. | Voiceover: “It’s about uncovering the secrets behind intelligent systems – and shaping them for real-world impact.”\n\nClosing line: Don’t just observe the future, help build it. Start exploring AI internships today.",
+  "title": "AI Internship Dreams?",
+  "thumbnail_text": "Learn AI Now",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 104,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook – “Seriously, if you’re dreaming…” immediately engages the reader.\n- Clear articulation of a key learning – data is a “story.”\n- Encourages a proactive mindset – “asking ‘what if?’ and challenging assumptions.”\n\nIssues:\n- Lacks a strong call to action beyond a question. It’s passive.\n- Could benefit from more specific details to enhance the motivational tone.\n- The phrasing “launchpad you’ve been waiting for” is slightly cliché.\n\nSuggestions:\n- Add a sentence encouraging people to pursue internships: “Take the leap – an AI internship can be the first step to a rewarding career.”\n- Replace “it’s about understanding the why behind the algorithms” with a more impactful statement, such as “It’s about transforming data into actionable insights.”\n- Adjust hashtags: #AIInternshipExperience #AIInternship #MachineLearning #DataScience #CareerDevelopment",
+  "revisions": 0
+}

@@ -1,0 +1,96 @@
+{
+  "plan": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "AI in Education",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "output_type": "Post",
+  "content_idea": "The myth: AI will replace teachers; the reality is a powerful partnership unlocking human educators’ time for deeper engagement.",
+  "hook": "AI is poised to reshape education, but the most impactful shift isn’t about replacing teachers – it’s about empowering them.",
+  "research": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a classroom where every student receives a truly personalized learning path – that's the potential of AI in education.",
+      "The myth: AI will replace teachers; the reality is a powerful partnership unlocking human educators’ time for deeper engagement.",
+      "Consider this: AI-powered feedback tools can identify areas of struggle *before* a student falls behind, offering targeted support.",
+      "A quick peek inside a university research lab – AI is being used to analyze vast datasets of student performance, revealing hidden patterns and insights.",
+      "What if we could design curricula that adapt in real-time to student understanding? Let's discuss the role of AI in dynamic learning."
+    ],
+    "best_angle": "The myth: AI will replace teachers; the reality is a powerful partnership unlocking human educators’ time for deeper engagement.",
+    "trends": [
+      "Imagine a classroom where every student receives a truly personalized learning path – that's the potential of AI in education.",
+      "The myth: AI will replace teachers; the reality is a powerful partnership unlocking human educators’ time for deeper engagement.",
+      "Consider this: AI-powered feedback tools can identify areas of struggle *before* a student falls behind, offering targeted support.",
+      "A quick peek inside a university research lab – AI is being used to analyze vast datasets of student performance, revealing hidden patterns and insights.",
+      "What if we could design curricula that adapt in real-time to student understanding? Let's discuss the role of AI in dynamic learning."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#Education",
+      "#FutureOfLearning",
+      "#DigitalEducation",
+      "#LearningAndDevelopment"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "AI is poised to reshape education, but the most impactful shift isn’t about replacing teachers – it’s about empowering them. The persistent myth of AI as a wholesale substitute for human educators overlooks a powerful opportunity: a strategic partnership. Imagine a classroom where AI-powered tools, like those analyzing student performance data to identify early struggles, free up educators to spend more time fostering deeper engagement with individual students.\n\nResearch labs are already utilizing AI to uncover hidden patterns within vast datasets, informing the design of truly adaptive curricula. This capability allows us to move beyond a one-size-fits-all approach and create learning experiences that genuinely respond to a student's evolving understanding.\n\nHow can we best leverage these advancements to prioritize personalized learning and maximize the unique strengths of both AI and human educators?\n\n#Education #FutureOfLearning #DigitalEducation #LearningAndDevelopment",
+  "reel_script": null,
+  "title": "The myth: AI will replace teachers; the reality is a powerful...",
+  "thumbnail_text": "AI IN EDUCATION",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 133,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\n\nStrengths:\n- The content effectively frames AI in education as a partnership, avoiding the common “replacing teachers” narrative.\n- It provides a concrete example of AI’s potential – analyzing student data to identify struggles – which is highly relevant and understandable for a LinkedIn audience.\n- The concluding question encourages thoughtful engagement and sparks discussion about personalized learning.\n\nSuggestions:\n- Consider adding a brief mention of potential ethical considerations surrounding data privacy within AI-driven education.\n- While the language is professional, slightly tightening the phrasing could enhance clarity (e.g., “free up educators to spend more focused time”).\n- The call to action, while present, could be slightly more direct – perhaps suggesting readers share their thoughts on specific AI tools they’ve seen used effectively.",
+  "revisions": 0
+}

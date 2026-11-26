@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Portfolio post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to final year projects for insights."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to maximize project visibility."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's quality based on established criteria."
+      }
+    ]
+  },
+  "topic": "Final year project",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "The biggest myth about final year projects is that everyone has a brilliant idea; it’s often about meticulous execution.",
+  "hook": "The biggest myth about final year projects is that everyone has a brilliant idea; it’s often about meticulous execution.",
+  "research": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "angles": [
+      "My final year project felt like scaling Everest – a relentless climb of challenges and late nights.",
+      "The biggest myth about final year projects is that everyone has a brilliant idea; it’s often about meticulous execution.",
+      "I learned that the most valuable part of a final year project wasn’t the finished product, but the problem-solving skills I developed.",
+      "A glimpse into the chaos: navigating scope creep, unexpected technical hurdles, and the constant juggle of deadlines.",
+      "What’s the most daunting aspect of your final year project – is it the pressure, the complexity, or something else entirely?"
+    ],
+    "best_angle": "The biggest myth about final year projects is that everyone has a brilliant idea; it’s often about meticulous execution.",
+    "trends": [
+      "My final year project felt like scaling Everest – a relentless climb of challenges and late nights.",
+      "The biggest myth about final year projects is that everyone has a brilliant idea; it’s often about meticulous execution.",
+      "I learned that the most valuable part of a final year project wasn’t the finished product, but the problem-solving skills I developed.",
+      "A glimpse into the chaos: navigating scope creep, unexpected technical hurdles, and the constant juggle of deadlines.",
+      "What’s the most daunting aspect of your final year project – is it the pressure, the complexity, or something else entirely?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#FinalYearProject",
+      "#CapstoneProject",
+      "#FinalDesign",
+      "#ResearchOutput"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The biggest myth about final year projects is that everyone has a brilliant idea; it’s often about meticulous execution.\n\nSpending months developing a groundbreaking concept is fantastic, but realistically, a significant portion of success hinges on the quality of your delivery. It’s not about the initial ‘aha!’ moment, but the consistent, dedicated effort you put into refining, testing, and documenting your work.\n\nFocus on building a robust framework, rigorously tracking your progress, and proactively addressing challenges – these details can make or break a project.\n\nWhat strategies have you found most crucial for ensuring the successful completion of a final year project?\n\n#FinalYearProject #CapstoneProject #FinalDesign #ResearchOutput",
+  "reel_script": "Hook (0-3s): “Forget the ‘brilliant idea’ myth.”\n\nScene 1 | Visual: Close-up shot of hands meticulously sketching diagrams, then transitioning to a clean spreadsheet. | Voiceover: “The reality of a final year project is often about relentless execution. It’s about refining, iterating, and pushing through the details.”\n\nScene 2 | Visual: Montage of shots: someone debugging code, someone carefully assembling a prototype, someone presenting data visually. | Voiceover: “It’s about mastering the process – research, testing, documentation, and presenting a polished, demonstrable outcome.”\n\nScene 3 | Visual: Shot of a graduate smiling confidently, holding a completed project. | Voiceover: “Don’t underestimate the power of disciplined work. A well-executed project speaks volumes.”\n\nClosing line: “Invest your time in meticulous preparation – it’s the key to success.”",
+  "title": "Execution Over Idea?",
+  "thumbnail_text": "Project Completion Focus",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 102,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook addressing a common misconception.\n- Clearly articulates the importance of execution over initial idea generation.\n- Includes a relevant call to action, prompting engagement.\n\nIssues:\n- The tone, while professional, could be slightly more engaging and less focused on a “myth.”\n- Lacks a specific call to action beyond the question; could encourage sharing experiences.\n- Hashtags could be refined for better reach.\n\nSuggestions:\n- Revise the opening to be more inviting, e.g., “Don’t let the idea overshadow the execution – a successful final year project often hinges on meticulous delivery.”\n- Add a sentence emphasizing the value of seeking feedback or mentorship.\n- Replace hashtags with more targeted options: #UniversityProject #EngineeringProject #ResearchProject #CapstoneDesign",
+  "revisions": 0
+}

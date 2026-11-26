@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "tone": "Funny",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for debugging FastAPI content on X."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generating relevant hashtags for debugging FastAPI discussions."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing the caption for humor and X-platform suitability."
+      }
+    ]
+  },
+  "topic": "Debugging FastAPI",
+  "platform": "X (Twitter)",
+  "tone": "Funny",
+  "content_idea": "Debugging FastAPI is like searching for a lost sock in a dryer full of code; eventually, you find it, but why?",
+  "hook": "Debugging FastAPI is like searching for a lost sock in a dryer full of code; eventually, you find it, but why?",
+  "research": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "angles": [
+      "My FastAPI project spent a week in a coma, only to wake up screaming about a missing semicolon – it was a surprisingly common debugging tale.",
+      "Debugging FastAPI is like searching for a lost sock in a dryer full of code; eventually, you find it, but why?",
+      "The secret to debugging FastAPI? Don’t stare at the screen for 8 hours straight; sometimes, a walk helps the logic flow.",
+      "Behind the scenes, every FastAPI developer has a shrine dedicated to 'TypeError: unsupported operand type(s) for +: 'str' and 'int'' – we’ve all been there.",
+      "Is your FastAPI app throwing errors you don't understand? Ask yourself, 'Did I actually *test* this?'"
+    ],
+    "best_angle": "Debugging FastAPI is like searching for a lost sock in a dryer full of code; eventually, you find it, but why?",
+    "trends": [
+      "My FastAPI project spent a week in a coma, only to wake up screaming about a missing semicolon – it was a surprisingly common debugging tale.",
+      "Debugging FastAPI is like searching for a lost sock in a dryer full of code; eventually, you find it, but why?",
+      "The secret to debugging FastAPI? Don’t stare at the screen for 8 hours straight; sometimes, a walk helps the logic flow.",
+      "Behind the scenes, every FastAPI developer has a shrine dedicated to 'TypeError: unsupported operand type(s) for +: 'str' and 'int'' – we’ve all been there.",
+      "Is your FastAPI app throwing errors you don't understand? Ask yourself, 'Did I actually *test* this?'"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#DebuggingFastAPI",
+      "#FastAPIdev"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Debugging FastAPI is like searching for a lost sock in a dryer full of code; eventually, you find it, but why? What mysteries lurk in your app? 🧐 Share your toughest debugging stories!\n\n#DebuggingFastAPI #FastAPIdev",
+  "reel_script": "Hook (0-3s): “FastAPI debugging? It’s a nightmare.”\n\nScene 1 | Visual: Rapid montage of scrolling code, a confused face, a magnifying glass over a terminal. | Voiceover: “It’s like searching for a lost sock in a dryer full of code.”\n\nScene 2 | Visual: Animated sock tumbling through a chaotic, brightly colored code stream. | Voiceover: “You spend hours, chasing down errors… and then you find it. But *why*?”\n\nScene 3 | Visual: Close-up of a smiling developer, dramatically pointing at the screen. | Voiceover: “Don’t panic! Learn to master FastAPI’s debugging tools. It’s easier than finding matching socks.”\n\nClosing line: “Level up your FastAPI skills today!”",
+  "title": "FastAPI Debugging: Sock Edition",
+  "thumbnail_text": "Lost in code",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 33,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook using a relatable analogy (lost sock).\n- Clearly communicates the frustration of debugging FastAPI.\n- Uses an appropriate emoji (🧐).\n\nIssues:\n- Length is slightly long for X (Twitter) – character limit is 280.\n- Could benefit from a more direct call to action.\n- “What mysteries lurk in your app?” feels a bit vague.\n\nSuggestions:\n- Shorten the first sentence: “Debugging FastAPI is a lost sock in a code dryer – frustrating, but solvable!”\n- Add a call to action: “Share your toughest #DebuggingFastAPI stories below!”\n- Consider replacing “What mysteries lurk in your app?” with a more specific question, like “Ever encounter unexpected errors?”",
+  "revisions": 0
+}

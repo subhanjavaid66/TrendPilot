@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to production failures for relevance."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize Instagram reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing caption for meme-style tone and clarity."
+      }
+    ]
+  },
+  "topic": "Model failed in production",
+  "platform": "Instagram",
+  "tone": "Meme style",
+  "content_idea": "The production fail myth: it's not about perfection, but about learning what *doesn't* work.",
+  "hook": "“When a model fails in production, it’s not a disaster.” 🤯",
+  "research": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "angles": [
+      "Imagine spending months preparing for your biggest moment, only for it to completely unravel – relatable.",
+      "The production fail myth: it's not about perfection, but about learning what *doesn't* work.",
+      "A model's career is like a carefully constructed tower; one wrong step and the whole thing collapses.",
+      "Here’s a peek behind the curtain of a shoot gone wrong, showing the unexpected chaos that can happen.",
+      "Is a production failure a career-ender or a crucial stepping stone? Let’s discuss the pressure."
+    ],
+    "best_angle": "The production fail myth: it's not about perfection, but about learning what *doesn't* work.",
+    "trends": [
+      "Imagine spending months preparing for your biggest moment, only for it to completely unravel – relatable.",
+      "The production fail myth: it's not about perfection, but about learning what *doesn't* work.",
+      "A model's career is like a carefully constructed tower; one wrong step and the whole thing collapses.",
+      "Here’s a peek behind the curtain of a shoot gone wrong, showing the unexpected chaos that can happen.",
+      "Is a production failure a career-ender or a crucial stepping stone? Let’s discuss the pressure."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "hashtags": [
+      "#ModelFailedInProduction",
+      "#ProductionFail",
+      "#ModelError",
+      "#SetDebacle",
+      "#ShootDown",
+      "#CreativeSetback"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "“When a model fails in production, it’s not a disaster.” 🤯\n\nWatch till the end to see the truth.\n\nIt’s actually a HUGE win!\n\nEvery stumble, every awkward angle, is data.\n\nIt’s showing us what *doesn’t* work.\n\nSeriously, perfect isn’t the goal.\n\nLearning what flops is.\n\nSwipe to see the chaotic beauty of the process.\n\nWhat's your biggest learning experience from a project gone slightly wrong?\n\n#ModelFailedInProduction #ProductionFail #ModelError #SetDebacle #ShootDown #CreativeSetback",
+  "reel_script": "Hook (0-3s): “That disastrous photoshoot?”\n\nScene 1 | Visual: Rapid montage of several “failed” photoshoots – blurry shots, awkward poses, a model covered in paint, a broken prop – all sped up and slightly chaotic. | Voiceover: “We’ve all been there. The one that looks… rough.”\n\nScene 2 | Visual: Slow-motion shot of a model laughing genuinely while covered in flour, a slightly crooked smile. | Voiceover: “But what if ‘failure’ isn’t about perfection?”\n\nScene 3 | Visual: Close-up of a stylist nodding thoughtfully, then a model adjusting a pose with a playful expression. | Voiceover: “It’s about identifying what *doesn’t* work. Learning. Growing. Getting a little messy.”\n\nClosing line: “Don’t fear the flop, embrace the discovery!”",
+  "title": "Fail Fast Learn Quick",
+  "thumbnail_text": "Production Isn't Perfect",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 66,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the initial emoji and question.\n- Clearly communicates the core message: failures are valuable data.\n- Uses relatable language (\"chaotic beauty,\" \"flops\").\n\nIssues:\n- The “Watch till the end to see the truth” feels a bit cliché for a meme style.\n- The caption is slightly short and could benefit from a more engaging detail.\n- Hashtags are a bit generic and could be more targeted.\n\nSuggestions:\n- Replace “Watch till the end to see the truth” with a more playful call to action, such as “Let’s dissect the chaos!”\n- Add a brief, specific example of what the data reveals (e.g., “Turns out, the sunset was always too harsh!”).\n- Refine hashtags to include more specific terms like #CreativeProcess #SetDesign #ProductionDesign #BehindTheScenes.",
+  "revisions": 0
+}

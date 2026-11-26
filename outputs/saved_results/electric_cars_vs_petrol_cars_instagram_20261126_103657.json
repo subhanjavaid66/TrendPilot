@@ -1,0 +1,100 @@
+{
+  "plan": {
+    "topic": "Electric cars vs petrol cars",
+    "platform": "Instagram",
+    "tone": "Exciting",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "Electric cars vs petrol cars",
+  "platform": "Instagram",
+  "tone": "Exciting",
+  "output_type": "Post",
+  "content_idea": "Poll: Are you prioritizing range or charging time when considering your next car – let us know your electric vs. petrol preference!",
+  "hook": "Ever feel like you’re stuck in a petrol rut?",
+  "research": {
+    "topic": "Electric cars vs petrol cars",
+    "platform": "Instagram",
+    "angles": [
+      "Imagine a future where the only sound you hear on your commute is the hum of electric power – let's explore that potential!",
+      "Myth: Petrol cars are inherently faster; we're debunking the speed myth with a quick comparison of acceleration.",
+      "The lesson is simple: choosing an electric car isn’t just about driving, it’s about investing in a sustainable future.",
+      "Swipe to see the surprisingly complex engineering that goes into both electric and petrol vehicles – it's more fascinating than you think!",
+      "Poll: Are you prioritizing range or charging time when considering your next car – let us know your electric vs. petrol preference!"
+    ],
+    "best_angle": "Poll: Are you prioritizing range or charging time when considering your next car – let us know your electric vs. petrol preference!",
+    "trends": [
+      "Imagine a future where the only sound you hear on your commute is the hum of electric power – let's explore that potential!",
+      "Myth: Petrol cars are inherently faster; we're debunking the speed myth with a quick comparison of acceleration.",
+      "The lesson is simple: choosing an electric car isn’t just about driving, it’s about investing in a sustainable future.",
+      "Swipe to see the surprisingly complex engineering that goes into both electric and petrol vehicles – it's more fascinating than you think!",
+      "Poll: Are you prioritizing range or charging time when considering your next car – let us know your electric vs. petrol preference!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Electric cars vs petrol cars",
+    "platform": "Instagram",
+    "hashtags": [
+      "#ElectricCarsVsPetrolCars",
+      "#ElectricCarsVs",
+      "#PetrolCars",
+      "#ImagineAFuture",
+      "#WhereTheOnly",
+      "#SoundYouHear"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "Ever feel like you’re stuck in a petrol rut? The future of driving is humming closer – and it’s seriously cool. Let’s talk electric vs. petrol cars, because choosing your next ride is a big decision.\n\nRight now, many drivers are debating the best way to power their journeys. The truth is, both electric and petrol cars have strengths. Petrol cars have a long history of speed and a familiar refueling experience. But electric cars are quietly revolutionizing the road with their instant torque and zero tailpipe emissions.\n\nBut here’s the thing: it’s not just about speed. Range anxiety is a real concern for electric vehicle owners, and charging times can still be a factor. Petrol cars offer significantly longer ranges and quicker refueling – a major advantage for longer trips.\n\nReady to see which side wins out for *you*? We’re diving into the key differences today. Tap your preference in the poll – are you prioritizing extended range or quicker charging when considering your next car? Let us know in the comments!\n\n#ElectricCarsVsPetrolCars #ElectricCarsVs #PetrolCars #ImagineAFuture #WhereTheOnly #SoundYouHear",
+  "reel_script": null,
+  "title": "Poll: Are you prioritizing range or charging time when...",
+  "thumbnail_text": "ELECTRIC CARS VS PETROL",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 176,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 6,
+    "total_hashtag_mentions": 6,
+    "relevant_hashtag_count": 3,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 90,
+    "checks": {
+      "relevance": 25,
+      "length": 10,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Reduce content length to around 150 words for Instagram."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 90/100\n\nStrengths:\n- The caption clearly outlines the key differences between electric and petrol cars.\n- The inclusion of a poll and question encourages audience engagement.\n- The tone is appropriately ‘exciting’ and uses engaging language like “seriously cool” and “revolutionizing the road.”\n\nIssues:\n- The content is slightly longer than ideal for Instagram (176 words). The analyzer’s suggestion to reduce to around 150 words is valid.\n- While mentioning range anxiety is relevant, the explanation feels a little basic and could benefit from a more compelling hook to immediately grab the reader’s attention.\n- The phrasing \"Ready to see which side wins out for you?\" feels slightly clunky and could be rephrased for a smoother flow.\n\nSuggestions:\n- Condense the paragraph discussing range anxiety and charging times to approximately 30-40 words, focusing on the key challenges for EV owners.\n- Revise the CTA to be more direct and benefit-oriented, such as “Tap your preference – are you ready to drive the future?”\n- Replace “Ready to see which side wins out for you?” with a more dynamic and engaging question, like “Which ride are you choosing?”\n- Reduce content length to around 150 words for Instagram.",
+  "revisions": 0
+}

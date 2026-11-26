@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to production failures for relevance."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize reach and engagement."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for meme-appropriate tone and clarity."
+      }
+    ]
+  },
+  "topic": "Model failed in production",
+  "platform": "Instagram",
+  "tone": "Meme style",
+  "content_idea": "POV: You're meticulously styled, hair is done, makeup is flawless, and then… the camera rolls and everything goes wrong – relatable.",
+  "hook": "POV: You’ve spent hours on this Model failed in production look.",
+  "research": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "angles": [
+      "Imagine spending months preparing for a runway show, only to have the lighting suddenly reveal your biggest flaw – it happens.",
+      "The Model Production Myth: Perfect doesn't exist, and sometimes 'perfect' just means a slightly awkward shoot.",
+      "A cautionary tale about trusting the brief: sometimes, the vision doesn’t align with the reality of a photoshoot.",
+      "POV: You're meticulously styled, hair is done, makeup is flawless, and then… the camera rolls and everything goes wrong – relatable.",
+      "What's the biggest production fail you've ever witnessed (or been involved in)? Share your stories!"
+    ],
+    "best_angle": "POV: You're meticulously styled, hair is done, makeup is flawless, and then… the camera rolls and everything goes wrong – relatable.",
+    "trends": [
+      "Imagine spending months preparing for a runway show, only to have the lighting suddenly reveal your biggest flaw – it happens.",
+      "The Model Production Myth: Perfect doesn't exist, and sometimes 'perfect' just means a slightly awkward shoot.",
+      "A cautionary tale about trusting the brief: sometimes, the vision doesn’t align with the reality of a photoshoot.",
+      "POV: You're meticulously styled, hair is done, makeup is flawless, and then… the camera rolls and everything goes wrong – relatable.",
+      "What's the biggest production fail you've ever witnessed (or been involved in)? Share your stories!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "hashtags": [
+      "#ModelFailedInProduction",
+      "#ProductionFail",
+      "#ModelError",
+      "#SetDebacle",
+      "#ShootDown",
+      "#CreativeSetback"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "POV: You’ve spent hours on this Model failed in production look. Hair is perfect, makeup is flawless, you’re ready to slay.\n\nWatch till the end to see the universe conspire against you.\n\nSuddenly, the lighting is *wrong*. Then the sound cuts out.\n\nIt’s a chaotic mess.\n\nSeriously, how does this even happen?!\n\nSwipe to see the full breakdown of the disaster.\n\nHave you ever experienced a production fail like this? Let me know in the comments!\n\n#ModelFailedInProduction #ProductionFail #ModelError #SetDebacle #ShootDown #CreativeSetback",
+  "reel_script": "Hook (0-3s): “Okay, let’s do this.”\n\nScene 1 | Visual: POV – Close up on perfectly styled hair, flawless makeup, a stunning outfit. A hand delicately adjusts a necklace. | Voiceover: “Just finished my biggest shoot yet. Feeling *amazing*.”\n\nScene 2 | Visual: Quick cut to the camera rolling. The stylist frantically adjusts the lighting. The model subtly grimaces. A rogue pigeon flies into view. | Voiceover: “Then… chaos. Like, *serious* chaos.”\n\nScene 3 | Visual: Montage of increasingly ridiculous fails – a sudden gust of wind, a dropped prop, a startled reaction from the model.  Fast cuts, slightly sped up. | Voiceover: “My face. My outfit. My *dreams*… gone.”\n\nClosing line: “Anyone else ever feel like this? Let me know in the comments!”",
+  "title": "Model Fail POV",
+  "thumbnail_text": "Production Gone Wrong",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 76,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook utilizing “POV” to immediately engage the audience.\n- Clearly communicates the scenario of a production failure.\n- Uses relatable language (“slay,” “chaotic mess”) fitting the meme style.\n\nIssues:\n- The caption is slightly lengthy for Instagram and could benefit from tighter wording.\n- The “Swipe to see the full breakdown” feels a bit clunky and could be more enticing.\n- The question at the end feels somewhat generic and doesn’t fully leverage the dramatic situation.\n\nSuggestions:\n- Shorten the caption to: “POV: You’ve spent hours on this Model failed in production look. Watch till the end to see the universe conspire against you. 🤯”\n- Replace “Swipe to see the full breakdown” with “See the full chaos unfold!”\n- Revise the call to action to: “Tag a friend who’s been there! 🤣”",
+  "revisions": 0
+}

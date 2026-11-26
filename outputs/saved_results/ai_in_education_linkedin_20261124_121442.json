@@ -1,0 +1,99 @@
+{
+  "plan": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 potential angles for AI in education content."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize LinkedIn reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for optimal motivational impact."
+      }
+    ]
+  },
+  "topic": "AI in Education",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "The myth of AI replacing teachers is overblown; it’s actually about empowering educators with powerful new tools to truly connect with students.",
+  "hook": "The future of education isn’t about robots replacing teachers – it’s about unlocking incredible potential.",
+  "research": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a classroom where every student learns at their own pace, guided by AI – that’s the potential unfolding before us.",
+      "The myth of AI replacing teachers is overblown; it’s actually about empowering educators with powerful new tools to truly connect with students.",
+      "Consider this: a single, well-designed AI application could unlock personalized learning pathways for thousands of students, fundamentally changing the educational landscape.",
+      "Behind the scenes, data scientists are meticulously crafting algorithms to support educators, ensuring fairness and equitable access to quality learning resources.",
+      "What if AI could identify the *root* causes of student struggle, providing early interventions that dramatically improve outcomes – wouldn’t that be revolutionary?"
+    ],
+    "best_angle": "The myth of AI replacing teachers is overblown; it’s actually about empowering educators with powerful new tools to truly connect with students.",
+    "trends": [
+      "Imagine a classroom where every student learns at their own pace, guided by AI – that’s the potential unfolding before us.",
+      "The myth of AI replacing teachers is overblown; it’s actually about empowering educators with powerful new tools to truly connect with students.",
+      "Consider this: a single, well-designed AI application could unlock personalized learning pathways for thousands of students, fundamentally changing the educational landscape.",
+      "Behind the scenes, data scientists are meticulously crafting algorithms to support educators, ensuring fairness and equitable access to quality learning resources.",
+      "What if AI could identify the *root* causes of student struggle, providing early interventions that dramatically improve outcomes – wouldn’t that be revolutionary?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#AIInEducation",
+      "#EdTechAI",
+      "#LearningAnalytics",
+      "#AIpedagogy"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The future of education isn’t about robots replacing teachers – it’s about unlocking incredible potential. The myth of AI replacing educators is overblown; it’s actually about empowering teachers with powerful new tools to truly connect with students.\n\nImagine a classroom where every student learns at their own pace, guided by AI-powered insights. A single application could unlock personalized learning pathways for thousands, allowing educators to focus on fostering critical thinking and individual growth.\n\nBehind the scenes, data scientists are developing algorithms to support educators, ensuring equitable access to resources and identifying the root causes of student struggles – leading to early interventions and dramatically improved outcomes.\n\nWhat role do you see AI playing in shaping the next generation of learners? Let’s discuss!\n\n#AIInEducation #EdTechAI #LearningAnalytics #AIpedagogy",
+  "reel_script": "Hook (0-3s): “Teachers are getting superpowers.”\n\nScene 1 | Visual: Fast-paced montage of diverse students engaged in learning activities – some using tablets, some collaborating with peers, all looking engaged and focused.\n| Voiceover: “The future of education isn’t about replacing teachers. It’s about empowering them.”\n\nScene 2 | Visual: Close-up shot of a teacher thoughtfully reviewing data visualizations on a tablet – highlighting student progress and potential challenges.\n| Voiceover: “AI-powered insights are unlocking personalized learning pathways, allowing educators to focus on what they do best: fostering critical thinking and individual growth.”\n\nScene 3 | Visual: Split screen – one side shows a teacher connecting with a student, the other shows data analysis supporting that connection.\n| Voiceover: “Data scientists are building tools to ensure every student gets the support they need – dramatically improving outcomes.”\n\nClosing line: “Let’s build a brighter future for learners, together.”",
+  "title": "AI: Empowering Educators",
+  "thumbnail_text": "Teachers and AI",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 124,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 0,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 82,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 0,
+      "readability": 15,
+      "originality": 12
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Use hashtags that are more closely related to the topic.",
+      "Add a call to action to encourage engagement.",
+      "Avoid repeating the same phrases."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 82/100\n\nStrengths:\n- The topic is highly relevant to current trends and interests within the education sector.\n- The message is motivational and optimistic about the role of AI in education, avoiding a dystopian narrative.\n- The content is clear and easy to understand, using accessible language for a broad audience.\n- The call to action (“Let’s discuss!”) encourages engagement.\n\nSuggestions:\n- Use hashtags that are more closely related to the topic.\n- Add a call to action to encourage engagement.\n- Avoid repeating the same phrases.",
+  "revisions": 0
+}

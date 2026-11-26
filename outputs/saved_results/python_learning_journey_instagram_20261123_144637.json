@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generated 5 funny angles for a Python learning journey reel."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identified relevant hashtags for a Python learning content post."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Scored the caption for humor and engagement based on rules."
+      }
+    ]
+  },
+  "topic": "Python learning journey",
+  "platform": "Instagram",
+  "tone": "Funny",
+  "content_idea": "Poll: What’s the most frustrating thing you’ve encountered on your Python learning journey – syntax errors or existential dread?",
+  "hook": "Is your Python learning journey feeling like a tangled mess of code?",
+  "research": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "angles": [
+      "Turn your coding anxieties into a Python-powered monster – it's actually kind of adorable.",
+      "Myth: Python is only for making robots; reality: it’s for automating everything from your coffee to your taxes.",
+      "Lesson: Don’t be afraid to mess up your first Python script; debugging is basically just learning to talk to your computer.",
+      "Behind-the-scenes look at my desk, mostly empty except for a mountain of Python tutorials and a questionable amount of coffee.",
+      "Poll: What’s the most frustrating thing you’ve encountered on your Python learning journey – syntax errors or existential dread?"
+    ],
+    "best_angle": "Poll: What’s the most frustrating thing you’ve encountered on your Python learning journey – syntax errors or existential dread?",
+    "trends": [
+      "Turn your coding anxieties into a Python-powered monster – it's actually kind of adorable.",
+      "Myth: Python is only for making robots; reality: it’s for automating everything from your coffee to your taxes.",
+      "Lesson: Don’t be afraid to mess up your first Python script; debugging is basically just learning to talk to your computer.",
+      "Behind-the-scenes look at my desk, mostly empty except for a mountain of Python tutorials and a questionable amount of coffee.",
+      "Poll: What’s the most frustrating thing you’ve encountered on your Python learning journey – syntax errors or existential dread?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "hashtags": [
+      "#PythonLearningJourney",
+      "#PythonPath",
+      "#CodeJourney",
+      "#DataSkills",
+      "#ScriptingLife",
+      "#PythonGrowth"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "Is your Python learning journey feeling like a tangled mess of code? 🤯\n\nLet’s be honest, diving into Python can be… intense. We’ve all been there, staring at a syntax error that makes you question your entire existence.\n\nWatch till the end to see if you agree with our poll!\n\nWe’re asking the big question: What’s the most frustrating thing you’ve encountered on your Python learning journey – syntax errors or existential dread? 🤔\n\nSwipe to see the results and let us know your thoughts!\n\nWhich one keeps you up at night? Let us know in the comments!\n\n#PythonLearningJourney #PythonPath #CodeJourney #DataSkills #ScriptingLife #PythonGrowth",
+  "reel_script": "Hook (0-3s): “Python: It’s supposed to be *easy*.”\n\nScene 1 | Visual: Rapid montage of someone staring intensely at a computer screen, furiously typing, then throwing their hands up in the air in frustration. | Voiceover: “Spent three hours debugging a single semicolon? We’ve all been there.”\n\nScene 2 | Visual: Close-up of a person looking deeply thoughtful, maybe with a slightly bewildered expression. | Voiceover: “Let’s be honest, sometimes it’s not the code… it’s the *realization* that you’re just a tiny speck in the vastness of the internet.”\n\nScene 3 | Visual: Split screen. One side shows a syntax error message. The other side shows a person dramatically clutching their head. | Voiceover: “So, quick poll! Is it syntax errors driving you insane, or is it the existential dread of writing code for a world that probably won’t notice?”\n\nClosing line: “Vote in our story and let’s commiserate together!”",
+  "title": "Python Struggles: Syntax vs. Void",
+  "thumbnail_text": "Error or Angst",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 98,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook using relatable humor (“tangled mess of code,” “question your entire existence”).\n- Clearly states the purpose of the post – engaging with the audience about their Python learning frustrations.\n- Uses relevant emojis to enhance the tone and visual appeal.\n\nIssues:\n- The “existential dread” element is a bit heavy-handed and might not resonate with all viewers.\n- The call to action (“Which one keeps you up at night? Let us know in the comments!”) is generic and could be more specific to drive engagement.\n- Swipe element is not fully utilized – the caption doesn’t clearly explain what viewers will find when they swipe.\n\nSuggestions:\n- Replace “existential dread” with a more lighthearted alternative, such as “debugging nightmares” or “spending hours on a single line.”\n- Suggest a specific action to encourage comments, like “Vote in our poll and tell us why it’s frustrating!”\n- Add a brief description of what viewers will find when they swipe (e.g., “Swipe to see the poll results and hilarious examples of Python errors!”)",
+  "revisions": 0
+}

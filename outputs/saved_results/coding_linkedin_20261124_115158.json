@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "coding",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identifies five potential content angles related to coding trends."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggests relevant hashtags for a LinkedIn coding content post."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluates the caption based on professional writing guidelines."
+      }
+    ]
+  },
+  "topic": "coding",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "What’s the single most rewarding moment you’ve experienced while successfully writing code?",
+  "hook": "The satisfaction of finally seeing a complex piece of code execute flawlessly – it’s a feeling that truly defines the rewarding moments in software development.",
+  "research": {
+    "topic": "coding",
+    "platform": "LinkedIn",
+    "angles": [
+      "A young coder’s initial frustration with debugging perfectly illustrates the iterative nature of learning to code.",
+      "The myth of ‘born’ coders is debunked: consistent practice and a growth mindset are the true keys to mastering any programming language.",
+      "Consider the elegant simplicity of a well-crafted algorithm – it’s a powerful reminder of the beauty in problem-solving through code.",
+      "Behind the lines of a successful software project, collaboration and clear communication are consistently the most critical factors.",
+      "What’s the single most rewarding moment you’ve experienced while successfully writing code?"
+    ],
+    "best_angle": "What’s the single most rewarding moment you’ve experienced while successfully writing code?",
+    "trends": [
+      "A young coder’s initial frustration with debugging perfectly illustrates the iterative nature of learning to code.",
+      "The myth of ‘born’ coders is debunked: consistent practice and a growth mindset are the true keys to mastering any programming language.",
+      "Consider the elegant simplicity of a well-crafted algorithm – it’s a powerful reminder of the beauty in problem-solving through code.",
+      "Behind the lines of a successful software project, collaboration and clear communication are consistently the most critical factors.",
+      "What’s the single most rewarding moment you’ve experienced while successfully writing code?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "coding",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#Coding",
+      "#CodeCraft",
+      "#AlgorithmDesign",
+      "#SoftwareDevOps"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The satisfaction of finally seeing a complex piece of code execute flawlessly – it’s a feeling that truly defines the rewarding moments in software development.\n\nIt’s more than just lines of logic; it’s the culmination of problem-solving, debugging, and refining your approach. Remember that initial frustration with a stubborn bug? That’s a critical part of the learning process, highlighting the iterative nature of coding and the importance of a growth mindset.\n\nWitnessing an algorithm you crafted run efficiently, or a feature you built seamlessly integrate into a larger system, is a powerful reminder of the elegance and potential within code.\n\nWhat’s the single most rewarding moment you’ve experienced while successfully writing code? Share your story in the comments!\n\n#Coding #CodeCraft #AlgorithmDesign #SoftwareDevOps",
+  "reel_script": "Hook (0-3s): “That ‘aha!’ moment.”\n\nScene 1 | Visual: Close-up shot of someone’s hands rapidly typing on a keyboard, interspersed with a screen displaying code compiling and running successfully.\n| Voiceover: “The satisfaction of finally seeing a complex piece of code execute flawlessly… it’s a feeling that truly defines rewarding moments in software development.”\n\nScene 2 | Visual: Slow-motion shot of a digital graph spiking upwards, representing data processing, then stabilizing.\n| Voiceover: “It’s the culmination of problem-solving, debugging, and refining your approach—a reminder of the iterative nature of coding.”\n\nScene 3 | Visual: Return to the hands typing, now with a satisfied expression on the coder’s face.\n| Voiceover: “What’s the single most rewarding moment *you’ve* experienced? Share your story in the comments.”\n\nClosing line: “Let’s celebrate those victories!”",
+  "title": "Code's Sweetest Victory",
+  "thumbnail_text": "Moments of Reward",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 123,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\n\nStrengths:\n- Topic Relevance: The content directly addresses the topic of coding and resonates with developers.\n- Clarity and Readability: The writing is clear, concise, and easy to understand for a professional audience. The use of descriptive language effectively conveys the rewarding aspects of coding.\n- Appropriate Length for LinkedIn: The post is of a suitable length for LinkedIn, avoiding excessive verbosity.\n- Tone Matching: The tone is professional and appreciative, aligning with the desired brand voice for TrendPilot.",
+  "revisions": 0
+}

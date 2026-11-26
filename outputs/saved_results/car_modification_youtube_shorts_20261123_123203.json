@@ -1,0 +1,96 @@
+{
+  "plan": {
+    "topic": "Car modification",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Analyze trending YouTube Shorts related to car modifications for optimal timing."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate a list of high-impact hashtags for car modification YouTube Shorts."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluate the script for excitement and engagement potential, suggesting improvements."
+      }
+    ]
+  },
+  "topic": "Car modification",
+  "platform": "YouTube Shorts",
+  "tone": "Exciting",
+  "content_idea": "Witness the birth of a beast – this Mustang’s transformation is pure fire!",
+  "hook": "Witness the birth of a beast – this Mustang’s transformation is pure fire!",
+  "research": {
+    "topic": "Car modification",
+    "platform": "YouTube Shorts",
+    "angles": [
+      "Witness the birth of a beast – this Mustang’s transformation is pure fire!",
+      "Legend says only those who truly *feel* the road deserve a custom exhaust.",
+      "Don’t be a newbie: learn the golden rule of wheel upgrades before you break your ride!",
+      "Shhh… we’re building a cyberpunk drift machine in my garage – you won’t believe what we’re using!",
+      "Would you swap a perfectly good engine for a turbo? Tell us your wildest modification dream!"
+    ],
+    "best_angle": "Witness the birth of a beast – this Mustang’s transformation is pure fire!",
+    "trends": [
+      "Witness the birth of a beast – this Mustang’s transformation is pure fire!",
+      "Legend says only those who truly *feel* the road deserve a custom exhaust.",
+      "Don’t be a newbie: learn the golden rule of wheel upgrades before you break your ride!",
+      "Shhh… we’re building a cyberpunk drift machine in my garage – you won’t believe what we’re using!",
+      "Would you swap a perfectly good engine for a turbo? Tell us your wildest modification dream!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Car modification",
+    "platform": "YouTube Shorts",
+    "hashtags": [
+      "#CarModification",
+      "#CarMods",
+      "#EngineBuild",
+      "#WheelUpgrade",
+      "#TurboKit"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "Witness the birth of a beast – this Mustang’s transformation is pure fire! 🔥 Level up your car obsession and learn the secrets to building a legendary ride. 🚀\n\n#CarModification #CarMods #EngineBuild #WheelUpgrade #TurboKit",
+  "reel_script": "Hook (0-3s): Unleash the beast!\n\nScene 1 | Visual: Close-up shot of a classic Mustang, looking stock. | Voiceover: “This Mustang was… fine.”\n\nScene 2 | Visual: Rapid cuts of the car being modified – wheels being swapped, exhaust system installed, spoiler attached, engine bay work. Fast-paced music plays. | Voiceover: “But we weren’t done. Not by a long shot!”\n\nScene 3 | Visual: The finished Mustang roaring down a road, looking aggressive and powerful. | Voiceover: “Now? This is a force to be reckoned with!”\n\nClosing line: “Subscribe for more wild car builds! 🔥”",
+  "title": "Mustang Beast Unleashed",
+  "thumbnail_text": "Epic Car Build",
+  "analysis": {
+    "platform": "YouTube Shorts",
+    "word_count": 29,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 5,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 90,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 0,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": [
+      "Add a call to action to encourage audience engagement."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 90/100\n\nIssues:\n- Reviewer output could not be parsed.\n\nSuggestions:\n- Add a call to action to encourage audience engagement.",
+  "revisions": 3
+}

@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "tone": "Humorous",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles on data annotation frustrations for LinkedIn."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to amplify your data annotation message."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's tone and adherence to LinkedIn guidelines."
+      }
+    ]
+  },
+  "topic": "Data annotation struggles",
+  "platform": "LinkedIn",
+  "tone": "Humorous",
+  "content_idea": "The ancient myth of data annotation: a tireless scribe eternally chasing the perfect polygon, doomed to never finish.",
+  "hook": "Ever feel like you’re trapped in an endless loop, meticulously drawing polygons for data annotation, only to realize the next task is already looming?",
+  "research": {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "angles": [
+      "I spent three days labeling bounding boxes, and honestly, I think my cat now understands AI better than I do.",
+      "The ancient myth of data annotation: a tireless scribe eternally chasing the perfect polygon, doomed to never finish.",
+      "The biggest lesson I’ve learned is that 'easy' data annotation is a complete fabrication – embrace the chaos!",
+      "A peek behind the curtain reveals a team fueled by lukewarm coffee and the quiet desperation of trying to make millions of objects recognizable.",
+      "If you've ever felt like you're screaming at a dataset, let's talk – are you experiencing 'annotation fatigue'?"
+    ],
+    "best_angle": "The ancient myth of data annotation: a tireless scribe eternally chasing the perfect polygon, doomed to never finish.",
+    "trends": [
+      "I spent three days labeling bounding boxes, and honestly, I think my cat now understands AI better than I do.",
+      "The ancient myth of data annotation: a tireless scribe eternally chasing the perfect polygon, doomed to never finish.",
+      "The biggest lesson I’ve learned is that 'easy' data annotation is a complete fabrication – embrace the chaos!",
+      "A peek behind the curtain reveals a team fueled by lukewarm coffee and the quiet desperation of trying to make millions of objects recognizable.",
+      "If you've ever felt like you're screaming at a dataset, let's talk – are you experiencing 'annotation fatigue'?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#DataAnnotationStruggles",
+      "#DataLabelingPain",
+      "#AnnotationChallenges",
+      "#ModelAccuracy"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Ever feel like you’re trapped in an endless loop, meticulously drawing polygons for data annotation, only to realize the next task is already looming? Let’s be honest: data annotation often feels like the ancient myth of the tireless scribe, eternally chasing the perfect shape, doomed to never finish.\n\nThe key is to prioritize. Not every annotation needs to be flawlessly precise. Focus on the data points that drive the most significant insights – the ones that truly move the needle.\n\nStreamlining your workflow with clear guidelines and efficient tools can drastically reduce wasted time and frustration.\n\nWhat strategies do you find most effective for tackling the monumental task of data annotation, and how do you ensure you're focusing on the most impactful elements?\n\n#DataAnnotationStruggles #DataLabelingPain #AnnotationChallenges #ModelAccuracy",
+  "reel_script": "Hook (0-3s): “Is your data annotation project feeling… eternal?”\n\nScene 1 | Visual: A lone, weary-looking person hunched over a computer, meticulously drawing polygons on a screen with a stylus. Ancient-looking scroll scrolls endlessly behind them. | Voiceover: “For centuries, scribes toiled, endlessly refining shapes, chasing the perfect polygon. A Sisyphean task.”\n\nScene 2 | Visual: Quick cuts of someone intensely drawing polygons, then deleting them, then drawing them again – all with increasing frustration. | Voiceover: “It's the same today. Hours spent on tiny adjustments, feeling like you’re fighting a losing battle.”\n\nScene 3 | Visual: The person from Scene 1 sighs dramatically, then a bright, modern interface appears showing automated annotation tools. | Voiceover: “Don’t be a myth. Let intelligent tools handle the grunt work.”\n\nClosing line: “Ready to break the cycle? Let’s talk about smarter annotation.”",
+  "title": "Data Annotation: The Scribe's Curse",
+  "thumbnail_text": "Polygon pursuit endless",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 123,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook referencing a relatable myth.\n- Clearly identifies the core problem – inefficient data annotation.\n- Includes a relevant call to action, prompting engagement.\n\nIssues:\n- Tone could be pushed further into humorous – the scribe reference is good, but could be amplified.\n- Length is slightly long for optimal LinkedIn engagement.\n- Lacks a specific call to action beyond a question.\n\nSuggestions:\n- Shorten the opening sentence: “Ever feel like you’re trapped in an endless loop…?” to “Data annotation loops? We’ve all been there.”\n- Add a brief, punchy statement about the time-consuming nature of the work: “Seriously, who has time for perfect polygons?”\n- Replace the final question with a more direct prompt: “Share your top data annotation hacks in the comments!”\n- Adjust hashtags: #DataAnnotationStruggles #DataLabelingPain #AnnotationChallenges #ModelAccuracy #DataScience #AIAnnotation",
+  "revisions": 0
+}

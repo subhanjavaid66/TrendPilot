@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "tone": "Funny",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for debugging FastAPI content on X."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags for debugging FastAPI discussions."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing the caption for humor and X-platform suitability."
+      }
+    ]
+  },
+  "topic": "Debugging FastAPI",
+  "platform": "X (Twitter)",
+  "tone": "Funny",
+  "content_idea": "The biggest mistake beginners make with Debugging FastAPI",
+  "hook": "Running a FastAPI app and things go sideways?",
+  "research": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "angles": [
+      "The biggest mistake beginners make with Debugging FastAPI",
+      "What I wish I knew before starting Debugging FastAPI",
+      "Debugging FastAPI: myth vs reality",
+      "Behind the scenes of Debugging FastAPI",
+      "3 lessons Debugging FastAPI taught me"
+    ],
+    "best_angle": "The biggest mistake beginners make with Debugging FastAPI",
+    "trends": [
+      "The biggest mistake beginners make with Debugging FastAPI",
+      "What I wish I knew before starting Debugging FastAPI",
+      "Debugging FastAPI: myth vs reality",
+      "Behind the scenes of Debugging FastAPI",
+      "3 lessons Debugging FastAPI taught me"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Fallback angle templates"
+  },
+  "hashtags": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#DebuggingFastAPI",
+      "#FastAPIdev"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Running a FastAPI app and things go sideways? Beginners often miss the simple step: actually checking the logs! 🤯 Level up your Debugging FastAPI skills. What's your go-to debugging trick?\n\n#DebuggingFastAPI #FastAPIdev",
+  "reel_script": "Hook (0-3s): “Debugging FastAPI? You’re doing it wrong!”\nScene 1 | Visual: Close-up of someone furiously typing in a terminal, looking stressed. | Voiceover: “The #1 mistake beginners make is… blindly hitting ‘Debug.’”\nScene 2 | Visual: Rapid montage of someone repeatedly stepping through code with the debugger, getting increasingly frustrated. | Voiceover: “Seriously, stop! It’s like trying to fix a puzzle by smashing it.”\nScene 3 | Visual: A calm hand carefully adding a print statement to the code, then instantly seeing the problem. | Voiceover: “Just add a simple print statement. See the data! Then, *actually* debug.”\nClosing line: “Don’t smash your FastAPI, inspect it!”",
+  "title": "FastAPI Debugging Fails",
+  "thumbnail_text": "Don't be this guy",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 30,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the 🤯 emoji.\n- Clearly states the topic: Debugging FastAPI.\n- Asks a question to encourage engagement.\n\nIssues:\n- The call to action (\"What's your go-to debugging trick?\") is a bit weak and could be more compelling.\n- The phrase \"beginners often miss\" can feel slightly condescending.\n- Length is borderline for X; could be more concise.\n\nSuggestions:\n- Revise the call to action to be more interactive, e.g., \"Debugging FastAPI driving you nuts? Share your best fix!\"\n- Rephrase the opening to be more approachable, e.g., \"FastAPI acting up? Don't panic!\"\n- Shorten the caption to maximize impact, e.g., \"FastAPI debugging got you down? 🤯 Share your go-to trick!\"",
+  "revisions": 0
+}

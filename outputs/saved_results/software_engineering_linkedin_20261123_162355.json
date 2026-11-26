@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Software Engineering",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identifies five potential content angles related to software engineering."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggests relevant, niche hashtags for software engineering content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluates the caption based on pre-defined professional writing rules."
+      }
+    ]
+  },
+  "topic": "Software Engineering",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "What's the biggest obstacle preventing *you* from consistently delivering high-quality software – and how does software engineering contribute to its solution?",
+  "hook": "Ever felt that “good enough” wasn’t truly good enough when it came to your software?",
+  "research": {
+    "topic": "Software Engineering",
+    "platform": "LinkedIn",
+    "angles": [
+      "A seasoned software engineer recounts the moment they realized 'good enough' wasn't actually good enough – a pivotal shift in their approach to coding.",
+      "Myth-busting: The idea that 'writing tests' is solely the responsibility of testers is a common misunderstanding within software engineering teams.",
+      "The core lesson from debugging a particularly complex legacy codebase: meticulous documentation is your best friend.",
+      "Behind-the-scenes: A glimpse into the collaborative problem-solving process during a critical production outage, showcasing the real-time communication.",
+      "What's the biggest obstacle preventing *you* from consistently delivering high-quality software – and how does software engineering contribute to its solution?"
+    ],
+    "best_angle": "What's the biggest obstacle preventing *you* from consistently delivering high-quality software – and how does software engineering contribute to its solution?",
+    "trends": [
+      "A seasoned software engineer recounts the moment they realized 'good enough' wasn't actually good enough – a pivotal shift in their approach to coding.",
+      "Myth-busting: The idea that 'writing tests' is solely the responsibility of testers is a common misunderstanding within software engineering teams.",
+      "The core lesson from debugging a particularly complex legacy codebase: meticulous documentation is your best friend.",
+      "Behind-the-scenes: A glimpse into the collaborative problem-solving process during a critical production outage, showcasing the real-time communication.",
+      "What's the biggest obstacle preventing *you* from consistently delivering high-quality software – and how does software engineering contribute to its solution?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Software Engineering",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#SoftwareEngineering",
+      "#CodeRefactoring",
+      "#SystemDesign",
+      "#Microservices"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Ever felt that “good enough” wasn’t truly good enough when it came to your software? I know I have. For me, the biggest hurdle has been truly understanding the long-term implications of design choices – a lack of comprehensive documentation and foresight often leads to reactive firefighting.\n\nSoftware engineering, with its emphasis on rigorous testing, modular design, and detailed documentation, directly addresses this. It’s about proactively anticipating potential issues and building systems that are resilient and maintainable. A core lesson I’ve learned is that investing in a well-documented, testable codebase *reduces* the need for frantic debugging later.\n\nWhat strategies do you employ to consistently deliver high-quality software, and how do you ensure your team's long-term success?\n\n#SoftwareEngineering #CodeRefactoring #SystemDesign #Microservices",
+  "reel_script": "Hook (0-3s): “Is your code quality slipping?”\n\nScene 1 | Visual: Close-up of a developer looking frustrated at a screen filled with code. | Voiceover: “For many software engineers, the biggest obstacle isn’t technical complexity – it’s inconsistent processes.”\n\nScene 2 | Visual: Transition to a clean, organized workflow diagram showing stages of development – planning, design, coding, testing, deployment. | Voiceover: “Without structured methodologies like Agile or DevOps, requirements drift, and quality suffers. Software engineering provides the frameworks for predictable, repeatable delivery.”\n\nScene 3 | Visual: Shot of a team collaborating effectively, reviewing code, and celebrating a successful release. | Voiceover: “It’s about building systems that scale, not just writing code.”\n\nClosing line: “Let’s discuss how to prioritize quality in your development workflow. Connect with me to explore this further.”",
+  "title": "Software Delivery Challenges?",
+  "thumbnail_text": "Quality code matters",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 118,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook that resonates with a common pain point for software engineers.\n- Clearly articulates the benefits of rigorous engineering practices.\n- Includes relevant hashtags.\n\nIssues:\n- The tone, while professional, could be slightly more polished and less conversational. Phrases like “I know I have” and “frantic debugging” feel a bit informal for LinkedIn.\n- The call to action (“What strategies do you employ…”) is weak and could be more engaging.\n- Length is acceptable for LinkedIn, but could benefit from tighter phrasing.\n\nSuggestions:\n- Replace “I know I have” with a more professional statement, such as “Many software engineers face this challenge.”\n- Rephrase “frantic debugging” to “reactive problem-solving” for a more formal tone.\n- Strengthen the call to action: “Share your best practices for building resilient and maintainable software systems in the comments below!”\n- Adjust hashtags: #SoftwareEngineering #CodeQuality #SystemDesign #Microservices #SoftwareDevelopment",
+  "revisions": 0
+}

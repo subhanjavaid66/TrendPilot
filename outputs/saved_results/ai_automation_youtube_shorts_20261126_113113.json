@@ -1,0 +1,97 @@
+{
+  "plan": {
+    "topic": "Ai automation",
+    "platform": "YouTube Shorts",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "Ai automation",
+  "platform": "YouTube Shorts",
+  "tone": "Professional",
+  "output_type": "Post",
+  "content_idea": "The myth of robots stealing *all* the jobs is crumbling as AI shifts the skills needed in the workplace.",
+  "hook": "AI isn’t stealing *all* the jobs – it’s changing what you need to do.",
+  "research": {
+    "topic": "Ai automation",
+    "platform": "YouTube Shorts",
+    "angles": [
+      "Imagine a world where repetitive tasks vanish entirely thanks to AI automation – that’s the future unfolding.",
+      "The myth of robots stealing *all* the jobs is crumbling as AI shifts the skills needed in the workplace.",
+      "Learn how streamlining processes with AI automation can dramatically increase efficiency, one step at a time.",
+      "A quick peek into a company’s workflow revealing how AI automation is being implemented in real-time for optimization.",
+      "What if your daily routine could be significantly improved with intelligent automation? Share your thoughts below!"
+    ],
+    "best_angle": "The myth of robots stealing *all* the jobs is crumbling as AI shifts the skills needed in the workplace.",
+    "trends": [
+      "Imagine a world where repetitive tasks vanish entirely thanks to AI automation – that’s the future unfolding.",
+      "The myth of robots stealing *all* the jobs is crumbling as AI shifts the skills needed in the workplace.",
+      "Learn how streamlining processes with AI automation can dramatically increase efficiency, one step at a time.",
+      "A quick peek into a company’s workflow revealing how AI automation is being implemented in real-time for optimization.",
+      "What if your daily routine could be significantly improved with intelligent automation? Share your thoughts below!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Ai automation",
+    "platform": "YouTube Shorts",
+    "hashtags": [
+      "#AiAutomation",
+      "#ArtificialIntelligence",
+      "#AIInnovation",
+      "#MachineLearning",
+      "#FutureOfAI"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "AI isn’t stealing *all* the jobs – it’s changing what you need to do. As automation streamlines workflows, skills like critical thinking and complex problem-solving are becoming *more* valuable. Curious how this looks in practice? Share your thoughts on how AI will reshape *your* work below!\n\n#AiAutomation #ArtificialIntelligence #AIInnovation #MachineLearning #FutureOfAI",
+  "reel_script": null,
+  "title": "The myth of robots stealing *all* the jobs is crumbling as AI...",
+  "thumbnail_text": "AI AUTOMATION",
+  "analysis": {
+    "platform": "YouTube Shorts",
+    "word_count": 47,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 5,
+    "total_hashtag_mentions": 5,
+    "relevant_hashtag_count": 3,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\n\nStrengths:\n- The caption clearly articulates a key shift in the impact of AI – moving beyond job displacement to skill evolution.\n- The call to action (“Share your thoughts…”) is perfectly suited for a YouTube Shorts engagement strategy.\n- The language is professional and accessible, avoiding overly technical jargon.",
+  "revisions": 0
+}

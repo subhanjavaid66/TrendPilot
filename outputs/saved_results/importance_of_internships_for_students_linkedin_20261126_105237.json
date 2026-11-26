@@ -1,0 +1,99 @@
+{
+  "plan": {
+    "topic": "Importance of internships for students",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "Importance of internships for students",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "output_type": "Post",
+  "content_idea": "The biggest lesson I learned from my internship wasn’t in a textbook, but in the value of a supportive mentor.",
+  "hook": "Ever wondered how some careers take off so quickly?",
+  "research": {
+    "topic": "Importance of internships for students",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine starting your dream job – internships are the secret, hands-on training that makes it a reality.",
+      "Myth: Internships are just glorified coffee runs; the truth is they're launching pads for your career trajectory.",
+      "The biggest lesson I learned from my internship wasn’t in a textbook, but in the value of a supportive mentor.",
+      "Take a peek behind the curtain: observing experienced professionals in action is the fastest way to absorb industry knowledge.",
+      "Are you afraid of stepping outside your comfort zone to gain invaluable experience? Internships are designed to challenge you."
+    ],
+    "best_angle": "The biggest lesson I learned from my internship wasn’t in a textbook, but in the value of a supportive mentor.",
+    "trends": [
+      "Imagine starting your dream job – internships are the secret, hands-on training that makes it a reality.",
+      "Myth: Internships are just glorified coffee runs; the truth is they're launching pads for your career trajectory.",
+      "The biggest lesson I learned from my internship wasn’t in a textbook, but in the value of a supportive mentor.",
+      "Take a peek behind the curtain: observing experienced professionals in action is the fastest way to absorb industry knowledge.",
+      "Are you afraid of stepping outside your comfort zone to gain invaluable experience? Internships are designed to challenge you."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Importance of internships for students",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#ImportanceOfInternships",
+      "#ForStudents",
+      "#ImagineStartingYour",
+      "#DreamJob"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Ever wondered how some careers take off so quickly? It’s rarely about innate talent alone. For me, the biggest lesson I learned during my internship wasn’t found in a textbook – it was the profound impact of having a supportive mentor. Observing experienced professionals in action, navigating challenges with guidance, offered a real-time education far more valuable than any lecture.\n\nInternships are designed to push you, and that can be daunting. But a good mentor isn’t just offering advice; they're providing a safe space to learn from mistakes, build confidence, and understand the nuances of a field. This hands-on observation, coupled with the wisdom of someone who’s been there, dramatically accelerated my understanding and shaped my approach.\n\nWhat experiences have you found most valuable in accelerating your professional growth?\n\n#ImportanceOfInternships #ForStudents #ImagineStartingYour #DreamJob",
+  "reel_script": null,
+  "title": "The biggest lesson I learned from my internship wasn’t in a...",
+  "thumbnail_text": "IMPORTANCE OF INTERNSHIPS",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 132,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 2,
+    "relevance_score": 20,
+    "relevance_percent": 80,
+    "quality_score": 85,
+    "checks": {
+      "relevance": 20,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 0,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Make the connection to the requested topic clearer.",
+      "Add a call to action to encourage engagement."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 85/100\n\nStrengths:\n- The personal anecdote effectively conveys the value of mentorship.\n- The writing is generally natural and approachable.\n- The topic of internships is clearly addressed.\n\nIssues:\n- The caption lacks a strong call to action, failing to encourage engagement beyond a simple question.\n- While the connection to the topic is present, it could be more explicitly stated – the core message about internships accelerating professional growth needs to be front and center.\n- The opening sentence, “Ever wondered how some careers take off so quickly?” feels somewhat generic and could be more impactful.\n\nSuggestions:\n- Add a specific call to action, such as “Share your most valuable internship experience in the comments!”\n- Rewrite the opening to directly state the value proposition: “Internships are a critical stepping stone for career growth – and often, the most impactful lessons come from a supportive mentor.”\n- Consider adding a statistic or brief fact about the positive outcomes of internships to strengthen the message.\n- Make the connection to the requested topic clearer.\n- Add a call to action to encourage engagement.",
+  "revisions": 0
+}

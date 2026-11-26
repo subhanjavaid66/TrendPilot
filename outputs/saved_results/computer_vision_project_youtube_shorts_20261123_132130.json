@@ -1,0 +1,94 @@
+{
+  "plan": {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "output_type": "Video script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "We've identified five engaging angles for your computer vision YouTube Shorts."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "This tool suggests relevant hashtags to boost your computer vision reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "This analyzes your caption for clarity and adherence to content guidelines."
+      }
+    ]
+  },
+  "topic": "Computer vision project",
+  "platform": "YouTube Shorts",
+  "tone": "Exciting",
+  "content_idea": "Watch as a simple image transforms into a shockingly detailed reconstruction thanks to computer vision!",
+  "hook": "🤯 Watch as a blurry photo becomes unbelievably detailed with computer vision!",
+  "research": {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "angles": [
+      "Watch as a simple image transforms into a shockingly detailed reconstruction thanks to computer vision!",
+      "Ever wondered how computers *really* 'see'? We're pulling back the curtain on this amazing technology.",
+      "This computer vision project revealed a surprising connection between patterns and understanding – it’s mind-blowing!",
+      "From blurry pixels to a complete picture: see the step-by-step process of this computer vision marvel unfold.",
+      "If a computer could 'look' at anything, what would it notice first – and how would it interpret it?"
+    ],
+    "best_angle": "Watch as a simple image transforms into a shockingly detailed reconstruction thanks to computer vision!",
+    "trends": [
+      "Watch as a simple image transforms into a shockingly detailed reconstruction thanks to computer vision!",
+      "Ever wondered how computers *really* 'see'? We're pulling back the curtain on this amazing technology.",
+      "This computer vision project revealed a surprising connection between patterns and understanding – it’s mind-blowing!",
+      "From blurry pixels to a complete picture: see the step-by-step process of this computer vision marvel unfold.",
+      "If a computer could 'look' at anything, what would it notice first – and how would it interpret it?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "hashtags": [
+      "#ComputerVisionProject",
+      "#ComputerVision",
+      "#DeepLearning",
+      "#ImageAnalysis",
+      "#AIProjects"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "🤯 Watch as a blurry photo becomes unbelievably detailed with computer vision! This project reveals the mind-blowing power of AI reconstruction. What other images could be brought back to life? Let us know in the comments!\n\n#ComputerVisionProject #ComputerVision #DeepLearning #ImageAnalysis #AIProjects",
+  "reel_script": "Hook (0-3s): “See AI rebuild reality!”\n\nScene 1 | Visual: A blurry, low-resolution image of a simple brick wall appears on screen. | Voiceover: “This is all we had to start with…”\n\nScene 2 | Visual: The screen rapidly processes – a subtle glow effect, lines of code briefly flash – and the image smoothly transforms. | Voiceover: “…but computer vision doesn’t just see, it *reconstructs*.”\n\nScene 3 | Visual: The image now displays a remarkably detailed, high-resolution rendering of the brick wall, showcasing texture and individual bricks. | Voiceover: “It’s creating astonishing detail from almost nothing!”\n\nClosing line: “Explore the future of image recognition – like this!”",
+  "title": "Image Magic Unlocked!",
+  "thumbnail_text": "Vision Reconstructed Now",
+  "analysis": {
+    "platform": "YouTube Shorts",
+    "word_count": 36,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 5,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the initial emoji and “unbelievably detailed.”\n- Clearly states the project’s focus – computer vision and AI reconstruction.\n- Includes relevant hashtags.\n\nIssues:\n- The caption could be more specific about the project’s outcome. “Mind-blowing power” is vague.\n- Length is borderline for a YouTube Short; could benefit from tighter wording.\n- Call to action is weak; “Let us know in the comments!” is generic.\n\nSuggestions:\n- Revise the caption to briefly describe the result of the reconstruction (e.g., “Watch a damaged photo become crystal clear!”).\n- Trim unnecessary phrases like “This project reveals…”\n- Replace the call to action with a more engaging question (e.g., “What image will we bring back to life next?”).",
+  "revisions": 0
+}

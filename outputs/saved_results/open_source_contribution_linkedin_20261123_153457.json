@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for open-source contribution content ideas."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to maximize LinkedIn reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for clarity and engagement metrics."
+      }
+    ]
+  },
+  "topic": "Open-source contribution",
+  "platform": "LinkedIn",
+  "tone": "Inspirational",
+  "content_idea": "Imagine a world built collaboratively, brick by digital brick, and open-source contribution is the mortar.",
+  "hook": "Imagine a world built collaboratively, brick by digital brick, and open-source contribution is the mortar.",
+  "research": {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a world built collaboratively, brick by digital brick, and open-source contribution is the mortar.",
+      "Myth: Open-source is only for coding geniuses – it’s about sharing skills and shaping the future.",
+      "The greatest breakthroughs often stem from unexpected connections; open-source fosters exactly that.",
+      "Take a peek behind the scenes of a thriving open-source project, witnessing the power of shared passion and focused effort.",
+      "What problem are *you* uniquely positioned to solve, and could open-source be the vehicle to bring your solution to the world?"
+    ],
+    "best_angle": "Imagine a world built collaboratively, brick by digital brick, and open-source contribution is the mortar.",
+    "trends": [
+      "Imagine a world built collaboratively, brick by digital brick, and open-source contribution is the mortar.",
+      "Myth: Open-source is only for coding geniuses – it’s about sharing skills and shaping the future.",
+      "The greatest breakthroughs often stem from unexpected connections; open-source fosters exactly that.",
+      "Take a peek behind the scenes of a thriving open-source project, witnessing the power of shared passion and focused effort.",
+      "What problem are *you* uniquely positioned to solve, and could open-source be the vehicle to bring your solution to the world?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#OpenSourceContribution",
+      "#OpenSourceDev",
+      "#CodeContribution",
+      "#CommunityDriven"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Imagine a world built collaboratively, brick by digital brick, and open-source contribution is the mortar.\n\nIt’s truly remarkable how much innovation arises from shared knowledge and collective effort. A key lesson within open-source contribution is that every small piece of code, every thoughtful documentation update, strengthens the entire project. Don’t feel overwhelmed by the scale of a large initiative; your initial contribution, however modest, lays a foundational step.\n\nBuilding something meaningful together – whether it's a powerful software library or a helpful tool – demonstrates the power of community and shared purpose.\n\nWhat’s one way you’ve seen collaborative effort drive innovation in your field?\n\n#OpenSourceContribution #OpenSourceDev #CodeContribution #CommunityDriven",
+  "reel_script": "Hook (0-3s): Build the future. Together.\n\nScene 1 | Visual: Fast-paced montage of diverse hands coding, collaborating on screens, lines of code scrolling. | Voiceover: “Imagine a world built collaboratively, brick by digital brick.”\n\nScene 2 | Visual: Close-up shot of code being edited, then a graphic visualizing connections forming between lines of code. | Voiceover: “Open-source contribution is the mortar – connecting ideas, strengthening solutions.”\n\nScene 3 | Visual: Slow-motion shot of someone smiling while reviewing code, transitioning to a group celebrating a successful build. | Voiceover: “It’s about shared knowledge, innovation, and a powerful, unified vision.”\n\nClosing line: “Join the movement. Explore open-source today.”",
+  "title": "Build the Future Together",
+  "thumbnail_text": "Code collaboration matters",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 104,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the “brick by digital brick” analogy.\n- Clearly articulates the value of small contributions within open-source.\n- Relevant hashtags included.\n\nIssues:\n- The call to action (\"What’s one way...\") feels somewhat passive and could be more engaging.\n- The tone, while aiming for inspirational, leans slightly towards generic and could benefit from a more specific, TrendPilot-centric angle.\n- Length is good for LinkedIn, but could benefit from a slightly more concise phrasing.\n\nSuggestions:\n- Revise the call to action to be more interactive, such as “Share your open-source success story in the comments!”\n- Add a brief sentence tying open-source contribution to TrendPilot’s mission (e.g., “TrendPilot is proud to support developers building innovative solutions through open-source collaboration.”)\n- Adjust the hashtags to include #Innovation and #DeveloperCommunity.",
+  "revisions": 0
+}

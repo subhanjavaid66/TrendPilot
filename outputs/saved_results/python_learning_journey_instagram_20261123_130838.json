@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generated five funny angles for a Python learning journey reel."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identified relevant hashtags for a Python learning content theme."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Assessed the caption for humor and engagement suitability."
+      }
+    ]
+  },
+  "topic": "Python learning journey",
+  "platform": "Instagram",
+  "tone": "Funny",
+  "content_idea": "My Python journey is like a really long, slightly confusing maze – send help (and tutorials)!",
+  "hook": "My Python learning journey is like a really long, slightly confusing maze – send help (and tutorials)!",
+  "research": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "angles": [
+      "Turn your coding anxieties into a delightfully chaotic Python flowchart!",
+      "My Python journey is like a really long, slightly confusing maze – send help (and tutorials)!",
+      "Let’s debunk the myth that Python is only for nerds who enjoy spreadsheets.",
+      "A sneak peek into my coding cave: mostly coffee, half-written scripts, and a growing sense of bewilderment.",
+      "If you could only master one Python concept, what would it be and why – let's hear your wild guesses!"
+    ],
+    "best_angle": "My Python journey is like a really long, slightly confusing maze – send help (and tutorials)!",
+    "trends": [
+      "Turn your coding anxieties into a delightfully chaotic Python flowchart!",
+      "My Python journey is like a really long, slightly confusing maze – send help (and tutorials)!",
+      "Let’s debunk the myth that Python is only for nerds who enjoy spreadsheets.",
+      "A sneak peek into my coding cave: mostly coffee, half-written scripts, and a growing sense of bewilderment.",
+      "If you could only master one Python concept, what would it be and why – let's hear your wild guesses!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "hashtags": [
+      "#PythonLearningJourney",
+      "#PythonPath",
+      "#CodeJourney",
+      "#DataSkills",
+      "#ScriptingLife",
+      "#PythonGrowth"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "My Python learning journey is like a really long, slightly confusing maze – send help (and tutorials)!\n\nI thought coding would be easy, you know? Like, instantly becoming a tech wizard.\n\nTurns out, Python is a beast! I’ve spent hours staring at error messages that make absolutely no sense.\n\nSwipe to see the sheer panic in my eyes. 😅\n\nIt’s a lot of loops, variables, and things I don't understand.\n\nSeriously, someone please create a visual flowchart for my brain.\n\nWhat’s your biggest struggle when learning a new programming language?\n\n#PythonLearningJourney #PythonPath #CodeJourney #DataSkills #ScriptingLife #PythonGrowth",
+  "reel_script": "Hook (0-3s): “My Python journey? It’s… intense.”\n\nScene 1 | Visual: Rapid montage of someone frantically typing on a laptop, eyes wide with confusion, interspersed with error messages flashing on the screen. | Voiceover: “I started with ‘Hello, World!’ and now I’m staring into the abyss of indentation errors.”\n\nScene 2 | Visual: Close-up of a hand dramatically throwing a rubber duck at the screen. | Voiceover: “I’ve tried debugging with a rubber duck. It just stares back. Unhelpful duck.”\n\nScene 3 | Visual: The person from Scene 1 slumped in a chair, looking utterly defeated, then a hopeful smile appears as they open a tutorial. | Voiceover: “Seriously, someone please send tutorials… and maybe a therapist.”\n\nClosing line: “Let me know if you’ve conquered the Python maze – I need all the help I can get!”",
+  "title": "Python Maze SOS!",
+  "thumbnail_text": "Lost in Python",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 90,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with relatable analogy (\"maze\").\n- Clearly conveys the frustration and confusion of a beginner.\n- Uses appropriate emojis to reinforce the tone.\n\nIssues:\n- The “tech wizard” statement is a bit cliché and could be rephrased for a fresher feel.\n- The description of the struggles is somewhat generic; adding a specific, humorous example would strengthen it.\n- The call to action (\"What’s your biggest struggle...\") feels tacked on.\n\nSuggestions:\n- Replace “I thought coding would be easy, you know? Like, instantly becoming a tech wizard.” with something like, “I thought coding would be like magic – instantly solving all my problems! Turns out, it’s more like… a really complicated puzzle.”\n- Add a specific, funny example of an error message or concept that’s tripped you up (e.g., “I’m currently wrestling with the concept of ‘scope’ and I’m pretty sure it’s mocking me.”)\n- Replace the call to action with a more engaging question, such as “Tell me your coding struggles in the comments!”",
+  "revisions": 0
+}

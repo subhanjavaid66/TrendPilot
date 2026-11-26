@@ -1,0 +1,102 @@
+{
+  "plan": {
+    "topic": "Software Engineering is dead or not",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles on the 'Software Engineering is dead' debate."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags for a LinkedIn audience discussion."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for motivational tone and clarity."
+      }
+    ]
+  },
+  "topic": "Software Engineering is dead or not",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "Imagine a once-mighty craftsman, now dismissed – is software engineering facing a similar obsolescence?",
+  "hook": "Imagine a once-mighty craftsman, now dismissed – is software engineering facing a similar obsolescence?",
+  "research": {
+    "topic": "Software Engineering is dead or not",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a once-mighty craftsman, now dismissed – is software engineering facing a similar obsolescence?",
+      "Let’s dispel the myth: complex problems still demand deep technical understanding, proving software engineering isn’t dead.",
+      "The core skill of translating human needs into tangible solutions remains vital, a timeless lesson at the heart of software engineering.",
+      "A peek behind the curtain reveals the relentless innovation *within* software engineering, constantly evolving, not disappearing.",
+      "If the tools change, does the fundamental act of building reliable, scalable software also become extinct?"
+    ],
+    "best_angle": "Imagine a once-mighty craftsman, now dismissed – is software engineering facing a similar obsolescence?",
+    "trends": [
+      "Imagine a once-mighty craftsman, now dismissed – is software engineering facing a similar obsolescence?",
+      "Let’s dispel the myth: complex problems still demand deep technical understanding, proving software engineering isn’t dead.",
+      "The core skill of translating human needs into tangible solutions remains vital, a timeless lesson at the heart of software engineering.",
+      "A peek behind the curtain reveals the relentless innovation *within* software engineering, constantly evolving, not disappearing.",
+      "If the tools change, does the fundamental act of building reliable, scalable software also become extinct?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-25",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Software Engineering is dead or not",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#CodeEvolution",
+      "#DevFuture",
+      "#ArchitecturalShift",
+      "#SystemDesign"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Imagine a once-mighty craftsman, now dismissed – is software engineering facing a similar obsolescence?\n\nThe narrative often paints a picture of rapid tool shifts, leading to the belief that the core skills of software engineering are fading. But let’s be clear: complex challenges – from intricate data pipelines to robust, scalable systems – still require deep technical understanding and the ability to translate nuanced human needs into tangible solutions.\n\nSoftware engineering isn’t about specific languages or frameworks; it’s fundamentally about problem-solving. Innovation within the field is relentless, with new methodologies and technologies constantly emerging to *enhance* our capabilities, not replace them.\n\nThe core skill of bridging the gap between what a business *needs* and what a system *delivers* remains timeless.\n\nWhat do you believe is the most critical skill for a software engineer to cultivate today?\n\n#CodeEvolution #DevFuture #ArchitecturalShift #SystemDesign",
+  "reel_script": "Hook (0-3s): “The craftsman is fading.”\n\nScene 1 | Visual: Slow-motion shot of a skilled artisan (woodworker, blacksmith) meticulously working on a complex project – perhaps a detailed clock or intricate furniture. The lighting is warm and focused.\n| Voiceover: “For centuries, mastery demanded deep understanding and precise execution.”\n\nScene 2 | Visual: Transition to a modern software engineer collaborating in a bright, open-plan office – coding on a screen, whiteboard with diagrams.\n| Voiceover: “Today, the tools change rapidly. But the fundamental challenge remains: translating complex needs into robust, scalable solutions.”\n\nScene 3 | Visual: Close-up on the engineer’s face, thoughtful expression.\n| Voiceover: “Software engineering isn’t about the *tool*, it’s about the *skill* – bridging the gap between what’s asked for and what truly works.”\n\nClosing line: “What’s the core skill you’re building today?”",
+  "title": "Is Software Engineering Lost?",
+  "thumbnail_text": "Craftsman’s fading skill",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 136,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 0,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 89,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 10,
+      "readability": 9,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Use hashtags that are more closely related to the topic.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 89/100\n\nStrengths:\n- The topic is highly relevant to current discussions within the software engineering community.\n- The opening hook (\"Imagine a once-mighty craftsman...\") is effective and immediately grabs the reader’s attention.\n- The content clearly articulates the enduring value of software engineering skills beyond specific technologies.\n- The tone is motivational and encourages engagement with the question posed.\n\nSuggestions:\n- Use hashtags that are more closely related to the topic.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 0
+}

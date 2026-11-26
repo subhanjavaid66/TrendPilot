@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Portfolio post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to final year projects for relevance."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to expand your project's reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating your caption for professional tone and clarity."
+      }
+    ]
+  },
+  "topic": "Final year project",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "My final year project felt like scaling a mountain, and the view from the top was worth every agonizing step.",
+  "hook": "My final year project felt like scaling a mountain, and the view from the top was worth every agonizing step.",
+  "research": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "angles": [
+      "My final year project felt like scaling a mountain, and the view from the top was worth every agonizing step.",
+      "The biggest myth about final year projects is that they're solely about the final result – it’s actually about the unexpected detours.",
+      "I learned that meticulous planning is essential, but adaptability is the true superpower needed for a successful final year project.",
+      "A peek behind the scenes reveals the late nights fueled by coffee and the collaborative spirit that truly makes it happen.",
+      "What’s the most challenging aspect of tackling a complex final year project, and how did you overcome it?"
+    ],
+    "best_angle": "My final year project felt like scaling a mountain, and the view from the top was worth every agonizing step.",
+    "trends": [
+      "My final year project felt like scaling a mountain, and the view from the top was worth every agonizing step.",
+      "The biggest myth about final year projects is that they're solely about the final result – it’s actually about the unexpected detours.",
+      "I learned that meticulous planning is essential, but adaptability is the true superpower needed for a successful final year project.",
+      "A peek behind the scenes reveals the late nights fueled by coffee and the collaborative spirit that truly makes it happen.",
+      "What’s the most challenging aspect of tackling a complex final year project, and how did you overcome it?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#FinalYearProject",
+      "#CapstoneProject",
+      "#FinalDesign",
+      "#ResearchOutput"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "My final year project felt like scaling a mountain, and the view from the top was worth every agonizing step.\n\nThe journey to completion was undeniably challenging, demanding sustained focus and pushing beyond perceived limits. I learned a critical lesson during this process: meticulous documentation is not just about ticking a box; it’s the bedrock of any complex undertaking. Detailed records of decisions, iterations, and roadblocks allowed for efficient problem-solving and provided invaluable context when presenting the final outcome.\n\nIt’s easy to get caught up in the immediate demands of a project, but consistently capturing the ‘why’ behind each step ultimately streamlines the entire process.\n\nWhat strategies have you found most effective for maintaining clarity and organization during demanding final year projects?\n\n#FinalYearProject #CapstoneProject #FinalDesign #ResearchOutput",
+  "reel_script": "Hook (0-3s): “It wasn’t pretty.”\n\nScene 1 | Visual: Rapid montage of close-ups – coding, diagrams, late-night study sessions, a frustrated expression. | Voiceover: “My final year project was a relentless challenge. Hours poured into research, countless iterations, and moments of serious doubt.”\n\nScene 2 | Visual: Slow-motion shot of a hand reaching out to grasp a distant, beautiful vista. | Voiceover: “But with each hurdle overcome, the sense of accomplishment grew. Refining the design, testing the functionality… it was demanding, yes, but incredibly rewarding.”\n\nScene 3 | Visual: Clean shot of a completed project – perhaps a prototype or a final presentation slide – with a subtle, satisfied smile. | Voiceover: “The view from the top was worth every agonizing step. A testament to perseverance and problem-solving.”\n\nClosing line: “Let’s connect and discuss the drive to achieve ambitious goals.”",
+  "title": "Scaling the Finish Line",
+  "thumbnail_text": "Project Completion View",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 122,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong opening metaphor effectively conveys the difficulty and reward of the project.\n- Clearly articulates the importance of meticulous documentation and its impact on problem-solving.\n- Includes a relevant question to encourage engagement and discussion.\n\nIssues:\n- The tone, while professional, leans slightly informal due to the use of phrases like \"scaling a mountain\" and \"agonizing steps.\"\n- The call to action (\"What strategies have you found...\") feels somewhat passive.\n- Length is borderline for LinkedIn; could benefit from tighter phrasing.\n\nSuggestions:\n- Replace \"scaling a mountain, and the view from the top was worth every agonizing step\" with a more direct statement about the project’s complexity and successful completion, e.g., \"Completing my final year project required significant dedication and problem-solving, and I’m proud of the outcome.\"\n- Rephrase the documentation section for greater impact: “Meticulous documentation proved crucial, providing a detailed record of decisions, iterations, and roadblocks that significantly enhanced problem-solving and final presentation.”\n- Strengthen the call to action: “What are your top tips for maintaining clarity and organization during demanding final year projects? Share your strategies in the comments!”\n- Adjust hashtags to prioritize relevance: #FinalYearProject #CapstoneProject #ResearchOutput #ProjectManagement",
+  "revisions": 0
+}

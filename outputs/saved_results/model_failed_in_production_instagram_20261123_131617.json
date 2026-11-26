@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to production failures for relevance."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize reach and engagement."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's tone and suitability for the theme."
+      }
+    ]
+  },
+  "topic": "Model failed in production",
+  "platform": "Instagram",
+  "tone": "Meme style",
+  "content_idea": "Let’s debunk the myth that flawless beauty always translates to flawless execution – sometimes things just… go wrong.",
+  "hook": "Reality check: That perfect model face doesn’t magically fix everything.",
+  "research": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "angles": [
+      "A dramatic retelling of the model's 'production stumble' as a tragic hero’s fall from grace.",
+      "Let’s debunk the myth that flawless beauty always translates to flawless execution – sometimes things just… go wrong.",
+      "The hard truth about being a model: even the most prepared face a production breakdown now and then.",
+      "A candid, slightly blurry behind-the-scenes photo of the moment, captioned with a simple ‘Oops’ and a winking emoji.",
+      "Poll: What’s the biggest production nightmare *you’ve* ever witnessed (or heard about)? – let's normalize the chaos."
+    ],
+    "best_angle": "Let’s debunk the myth that flawless beauty always translates to flawless execution – sometimes things just… go wrong.",
+    "trends": [
+      "A dramatic retelling of the model's 'production stumble' as a tragic hero’s fall from grace.",
+      "Let’s debunk the myth that flawless beauty always translates to flawless execution – sometimes things just… go wrong.",
+      "The hard truth about being a model: even the most prepared face a production breakdown now and then.",
+      "A candid, slightly blurry behind-the-scenes photo of the moment, captioned with a simple ‘Oops’ and a winking emoji.",
+      "Poll: What’s the biggest production nightmare *you’ve* ever witnessed (or heard about)? – let's normalize the chaos."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "hashtags": [
+      "#ModelFailedInProduction",
+      "#ProductionFail",
+      "#ModelError",
+      "#SetDebacle",
+      "#FilmMisfire",
+      "#SceneCollapse"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "Reality check: That perfect model face doesn’t magically fix everything. 🤯\n\nWatch till the end to see what happens when a shoot goes sideways.\n\nSometimes, even the most polished campaigns hit a snag. It’s a reminder that perfection is a myth.\n\nIt’s okay to stumble, to have a wardrobe malfunction, or a lighting issue.\n\nLet’s be real – production fails happen.\n\nSwipe to see the chaotic aftermath.\n\nWhat's your biggest production nightmare? Share in the comments!\n\n#ModelFailedInProduction #ProductionFail #ModelError #SetDebacle #FilmMisfire #SceneCollapse",
+  "reel_script": "Hook (0-3s): “Seriously?”\n\nScene 1 | Visual: Close-up shot of a perfectly styled model mid-pose, frozen in a slightly awkward expression. Dramatic, slightly unsettling music plays. | Voiceover: “We’ve all seen it. The ‘effortless’ perfection.”\n\nScene 2 | Visual: Quick cuts of various production fails – a prop falling, a lighting glitch, a wardrobe malfunction – all sped up and slightly chaotic. | Voiceover: “But let’s be real. Beautiful faces don't automatically mean smooth shoots.”\n\nScene 3 | Visual: The original model from Scene 1 now looking exasperated, tilting her head, with a slightly sheepish smile. | Voiceover: “Sometimes, even the most stunning models face… hiccups.”\n\nClosing line: “Don’t let the highlight reel fool you. Let’s celebrate the real process.”",
+  "title": "Model Mishaps Happen",
+  "thumbnail_text": "Reality bites hard",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 76,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the “Reality check” and emoji.\n- Clearly communicates the topic of a production failure.\n- Includes a call to action to engage with comments.\n\nIssues:\n- Tone is slightly too serious; leans more towards informative than meme-style.\n- The phrasing “doesn’t magically fix everything” is a bit cliché.\n- Hashtags are a bit generic and could be more specific to the situation.\n\nSuggestions:\n- Rewrite the opening to be more humorous and meme-like, e.g., \"When you thought the model was going to deliver perfection...\"\n- Replace “It’s a reminder that perfection is a myth” with something punchier, like “Perfection is a lie.”\n- Revise hashtags to include more specific and trending options, e.g., #SetLife #BehindTheScenes #FilmmakingFail",
+  "revisions": 0
+}

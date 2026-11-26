@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to production failures for relevance."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize reach and engagement."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for meme-appropriate tone and clarity."
+      }
+    ]
+  },
+  "topic": "Model failed in production",
+  "platform": "Instagram",
+  "tone": "Meme style",
+  "content_idea": "The biggest stage fright isn't the crowd; it’s a production failing.",
+  "hook": "When the lights dim and the music stops...",
+  "research": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "angles": [
+      "Imagine a runway walk… then just… nope, not so much.",
+      "Turns out even the most perfectly curated feeds have glitches.",
+      "The biggest stage fright isn't the crowd; it’s a production failing.",
+      "POV: You spend months prepping, and the lights just don’t cooperate.",
+      "Is a model’s worth solely defined by a successful show? Let's unpack this."
+    ],
+    "best_angle": "The biggest stage fright isn't the crowd; it’s a production failing.",
+    "trends": [
+      "Imagine a runway walk… then just… nope, not so much.",
+      "Turns out even the most perfectly curated feeds have glitches.",
+      "The biggest stage fright isn't the crowd; it’s a production failing.",
+      "POV: You spend months prepping, and the lights just don’t cooperate.",
+      "Is a model’s worth solely defined by a successful show? Let's unpack this."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "hashtags": [
+      "#ModelFailedInProduction",
+      "#ProductionFail",
+      "#ModelError",
+      "#SetDebacle",
+      "#SceneCollapse",
+      "#FilmMisfire"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "When the lights dim and the music stops...\n\nIt’s not the crowd that’s terrifying.\n\nThe biggest production fails hit you harder than any stage fright.\n\nWatch till the end to see the real panic.\n\nTechnical glitches? Sound issues? Costume malfunctions? 🤯\n\nSeriously, it’s soul-crushing when everything falls apart.\n\nThis Model failed in production and it's a relatable nightmare.\n\nWhat's the worst production mishap *you’ve* ever witnessed? Let us know in the comments!\n\n#ModelFailedInProduction #ProductionFail #ModelError #SetDebacle #SceneCollapse #FilmMisfire",
+  "reel_script": "Hook (0-3s): “Production down? Seriously?”\n\nScene 1 | Visual: Close-up of a model’s panicked face, sweat dripping, staring at a blank screen. Dramatic, slightly distorted music playing. | Voiceover: “You’ve practiced, you’re ready… the lighting’s wrong.”\n\nScene 2 | Visual: Quick cuts – a stressed stage manager frantically pointing, a technician fiddling with cables, a monitor displaying a flashing error message. | Voiceover: “It's not the audience judging you... it’s the tech.”\n\nScene 3 | Visual: The model dramatically throws their hands up in the air, looking utterly defeated. Slow zoom out. | Voiceover: “That’s the *real* stage fright.”\n\nClosing line: “Don’t let a glitch steal your moment. Level up your production prep!”",
+  "title": "Production Meltdown 😱",
+  "thumbnail_text": "Model panic mode",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 72,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with “When the lights dim…” immediately grabs attention.\n- Clearly communicates the topic – a model failing in production – in a relatable way.\n- Includes a relevant call to action, encouraging engagement.\n\nIssues:\n- Tone feels slightly too serious for a meme style. The language is a bit formal (“soul-crushing,” “technical glitches”).\n- The “Watch till the end” feels a little clunky and doesn’t fully lean into the meme aesthetic.\n- Hashtags are a bit generic; could be more specific to enhance discoverability.\n\nSuggestions:\n- Rewrite the caption to be more playful and humorous. Consider adding a short, punchy description of the “real panic.”\n- Replace “Watch till the end” with a more engaging prompt, like “Prepare for the chaos!”\n- Revise hashtags to include more specific and trending terms related to production and comedy (e.g., #SetLifeProblems, #BehindTheScenesFail, #ComedyFail).",
+  "revisions": 0
+}

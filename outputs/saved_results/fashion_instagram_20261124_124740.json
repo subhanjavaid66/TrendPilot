@@ -1,0 +1,104 @@
+{
+  "plan": {
+    "topic": "Fashion",
+    "platform": "Instagram",
+    "tone": "Creative",
+    "output_type": "Social Media Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 fresh fashion trends for Instagram content ideas."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant, niche hashtags to boost your fashion post."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's quality based on established criteria."
+      }
+    ]
+  },
+  "topic": "Fashion",
+  "platform": "Instagram",
+  "tone": "Creative",
+  "content_idea": "What's your ultimate style rule-breaker – share your most daring fashion moment in the comments!",
+  "hook": "Let’s talk about those moments that make you *really* feel alive.",
+  "research": {
+    "topic": "Fashion",
+    "platform": "Instagram",
+    "angles": [
+      "Transform your wardrobe into a mood board, curating a collection that reflects your inner landscape.",
+      "Unravel the ancient myth of 'fast fashion' – is it truly consuming our style, or are we the architects of its cycle?",
+      "Learn the secret: confidence is the best accessory, and a well-chosen outfit is simply the spark.",
+      "A glimpse into the creative process reveals how a single fabric can become a world of possibilities.",
+      "What's your ultimate style rule-breaker – share your most daring fashion moment in the comments!"
+    ],
+    "best_angle": "What's your ultimate style rule-breaker – share your most daring fashion moment in the comments!",
+    "trends": [
+      "Transform your wardrobe into a mood board, curating a collection that reflects your inner landscape.",
+      "Unravel the ancient myth of 'fast fashion' – is it truly consuming our style, or are we the architects of its cycle?",
+      "Learn the secret: confidence is the best accessory, and a well-chosen outfit is simply the spark.",
+      "A glimpse into the creative process reveals how a single fabric can become a world of possibilities.",
+      "What's your ultimate style rule-breaker – share your most daring fashion moment in the comments!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Fashion",
+    "platform": "Instagram",
+    "hashtags": [
+      "#Fashion",
+      "#SilkenStyle",
+      "#TailoredThreads",
+      "#ChromaticWardrobe",
+      "#TexturePlay",
+      "#VintageVibes"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "Let’s talk about those moments that make you *really* feel alive. We’ve all got them – flashes of fearless fashion that scream, “I’m here, and I’m owning it!” It’s about injecting your personality into every outfit, pushing boundaries, and creating a look that’s unapologetically you.\n\nDon’t be afraid to mix patterns, layer textures, or step outside the ‘rules.’ A bold color, an unexpected accessory, or a silhouette you’d never normally choose – that’s where the magic happens. Style is a reflection of your soul, so let your confidence shine through.\n\nWhat’s your ultimate style rule-breaker – share your most daring fashion moment in the comments! Let’s celebrate those unforgettable looks.\n\n#Fashion #SilkenStyle #TailoredThreads #ChromaticWardrobe #TexturePlay #VintageVibes",
+  "reel_script": "Hook (0-3s): “Daring is the new chic.”\n\nScene 1 | Visual: Quick cuts – a person dramatically throws a silk scarf around their neck, then pulls out a bright yellow blazer, then adds chunky boots. The transitions are fast and energetic.\n| Voiceover: “We’ve all had those moments. The ones that felt… electric.”\n\nScene 2 | Visual: Slow-motion shot of someone confidently walking down a street in a layered, unexpected outfit – perhaps a floral dress with a leather jacket and bold accessories.\n| Voiceover: “It’s about injecting your personality, pushing boundaries, and creating a look that’s *you*.”\n\nScene 3 | Visual: Close-up on a smiling face, wearing a playfully mismatched outfit.\n| Voiceover: “So, what’s *your* most daring style moment? Share it in the comments!”\n\nClosing line: “Let’s celebrate the looks that break the rules.”",
+  "title": "Style Rulebreaker Alert 🔥",
+  "thumbnail_text": "Daring Fashion Moments",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 118,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 6,
+    "total_hashtag_mentions": 6,
+    "relevant_hashtag_count": 1,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 89,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 10,
+      "readability": 9,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Use hashtags that are more closely related to the topic.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 89/100\n\nStrengths:\n- The topic is perfectly aligned with fashion.\n- The opening hook is engaging and uses evocative language (\"really feel alive,\" \"owning it!\").\n- The content is clear, readable, and uses accessible language suitable for a broad audience.\n- The length is appropriate for an Instagram caption.\n- The tone is creative and encourages self-expression.\n- The hashtags are relevant and contribute to the overall theme.\n- There is a clear call to action, prompting engagement in the comments.\n\nSuggestions:\n- Use hashtags that are more closely related to the topic.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 0
+}

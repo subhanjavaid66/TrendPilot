@@ -1,0 +1,105 @@
+{
+  "plan": {
+    "topic": "Fashion",
+    "platform": "Instagram",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identifies five potential fashion content angles for Instagram."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggests relevant, niche hashtags for fashion content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluates the caption based on professional writing standards."
+      }
+    ]
+  },
+  "topic": "Fashion",
+  "platform": "Instagram",
+  "tone": "Professional",
+  "content_idea": "Debunk the myth that 'fast fashion' always equates to poor quality or unethical production.",
+  "hook": "Let's face it: “fast fashion” gets a bad rap.",
+  "research": {
+    "topic": "Fashion",
+    "platform": "Instagram",
+    "angles": [
+      "Illustrate the evolution of a key garment silhouette across different decades, showcasing its enduring appeal.",
+      "Debunk the myth that 'fast fashion' always equates to poor quality or unethical production.",
+      "Share a concise styling lesson on how to create a capsule wardrobe for maximum versatility.",
+      "Offer a behind-the-scenes glimpse into the meticulous craftsmanship involved in a garment’s creation – focusing on a single detail.",
+      "Pose a thought-provoking question: ‘Does personal style ultimately reflect a desire for self-expression or a reaction to societal trends?’"
+    ],
+    "best_angle": "Debunk the myth that 'fast fashion' always equates to poor quality or unethical production.",
+    "trends": [
+      "Illustrate the evolution of a key garment silhouette across different decades, showcasing its enduring appeal.",
+      "Debunk the myth that 'fast fashion' always equates to poor quality or unethical production.",
+      "Share a concise styling lesson on how to create a capsule wardrobe for maximum versatility.",
+      "Offer a behind-the-scenes glimpse into the meticulous craftsmanship involved in a garment’s creation – focusing on a single detail.",
+      "Pose a thought-provoking question: ‘Does personal style ultimately reflect a desire for self-expression or a reaction to societal trends?’"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Fashion",
+    "platform": "Instagram",
+    "hashtags": [
+      "#Fashion",
+      "#SilkenThreads",
+      "#TailoredStyle",
+      "#TexturePlay",
+      "#ChromaticWardrobe",
+      "#VintageVibes"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "Let's face it: “fast fashion” gets a bad rap. But is it *always* about cheap quality and questionable ethics? Not necessarily! Many brands are prioritizing sustainable materials and fair labor practices, proving that style doesn’t have to come at a cost.\n\nThe key is understanding the investment. Durable fabrics, thoughtful design, and responsible production can actually *increase* the longevity and value of a garment. It’s about choosing pieces made to last, rather than fleeting trends.\n\nWatch till the end to see how innovative techniques and skilled artisans are transforming materials into beautiful, long-lasting staples. It’s a shift towards conscious consumption – a move that’s redefining what it means to build a stylish wardrobe.\n\nWhat steps do you take to ensure your clothing choices align with your values?\n\n#Fashion #SilkenThreads #TailoredStyle #TexturePlay #ChromaticWardrobe #VintageVibes",
+  "reel_script": "Hook (0-3s): “Fast fashion doesn’t have to mean fast *out*.”\n\nScene 1 | Visual: Close-up shot of a hand gently touching a beautifully textured, durable fabric – perhaps linen or a high-quality cotton.\n| Voiceover: “For too long, ‘fast fashion’ has been linked to poor quality. But that’s changing.”\n\nScene 2 | Visual: Quick montage – skilled artisan working with fabric, a close-up of a garment being meticulously stitched, then a slow pan across a well-made, timeless outfit.\n| Voiceover: “Innovative techniques and skilled artisans are transforming materials into lasting staples.”\n\nScene 3 | Visual: Return to the hand gently touching the fabric, now with a shot of a stylish, confident individual wearing the garment.\n| Voiceover: “It’s about investing in pieces designed to last, redefining a stylish wardrobe.”\n\nClosing line: “Choose consciously. Build enduring style.”",
+  "title": "Fast Fashion Myths Debunked",
+  "thumbnail_text": "Quality Style Truth",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 130,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 6,
+    "total_hashtag_mentions": 6,
+    "relevant_hashtag_count": 1,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 79,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 0,
+      "readability": 9,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Use hashtags that are more closely related to the topic.",
+      "Add a call to action to encourage engagement.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 79/100\n\nStrengths:\n- The content effectively addresses a relevant and timely topic – the shift in the fashion industry towards sustainability.\n- The tone is professional and informative, suitable for a brand like TrendPilot.\n- The message is clear and easy to understand, explaining the concept of conscious consumption.\n- The call to action (\"What steps do you take to ensure your clothing choices align with your values?\") encourages engagement.\n\nSuggestions:\n- Use hashtags that are more closely related to the topic.\n- Add a call to action to encourage engagement.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 0
+}

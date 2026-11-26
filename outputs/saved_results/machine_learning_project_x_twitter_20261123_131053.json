@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "tone": "Short and catchy",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 fresh angles for a machine learning project post."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Discovering relevant hashtags to boost your machine learning content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing your caption for clarity and engagement metrics."
+      }
+    ]
+  },
+  "topic": "Machine learning project",
+  "platform": "X (Twitter)",
+  "tone": "Short and catchy",
+  "content_idea": "The biggest surprise in every machine learning project? Often, it's how intuitive the results become.",
+  "hook": "Machine learning project: The biggest surprise?",
+  "research": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "angles": [
+      "Imagine teaching a computer to dream – that's essentially what a machine learning project does.",
+      "Turns out, building a machine learning project isn’t just coding; it’s like uncovering a hidden pattern.",
+      "The biggest surprise in every machine learning project? Often, it's how intuitive the results become.",
+      "We spent weeks wrestling with this machine learning project, and the data finally *spoke* – it was a wild ride!",
+      "Is your machine learning project struggling? Ask yourself: are you feeding it the right kind of curiosity?"
+    ],
+    "best_angle": "The biggest surprise in every machine learning project? Often, it's how intuitive the results become.",
+    "trends": [
+      "Imagine teaching a computer to dream – that's essentially what a machine learning project does.",
+      "Turns out, building a machine learning project isn’t just coding; it’s like uncovering a hidden pattern.",
+      "The biggest surprise in every machine learning project? Often, it's how intuitive the results become.",
+      "We spent weeks wrestling with this machine learning project, and the data finally *spoke* – it was a wild ride!",
+      "Is your machine learning project struggling? Ask yourself: are you feeding it the right kind of curiosity?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#MachineLearningProject",
+      "#MLModel"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Machine learning project: The biggest surprise? Results are shockingly intuitive. It’s like magic! What’s the biggest surprise you’ve seen? Share your insights!\n\n#MachineLearningProject #MLModel",
+  "reel_script": "Hook (0-3s): “Machine learning… it’s not always a monster.”\n\nScene 1 | Visual: Rapid montage of complex code scrolling, graphs spiking, a confused face. | Voiceover: “You’re building a model, tweaking parameters, stressing about accuracy…”\n\nScene 2 | Visual: A simple, clear line graph showing a predictable trend. A hand points to it in amazement. | Voiceover: “Then, suddenly, it’s *obvious*. The insights just… appear.”\n\nScene 3 | Visual: Close-up of a smiling face looking at a dashboard with clear, understandable data visualizations. | Voiceover: “The biggest surprise? How intuitive the results become.”\n\nClosing line: “Unlock the power – start your machine learning journey today.”",
+  "title": "ML Results? Surprisingly Easy",
+  "thumbnail_text": "Intuitive insights revealed",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 22,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with “shockingly intuitive” and “magic.”\n- Clear question prompting engagement.\n- Relevant hashtags.\n\nIssues:\n- “It’s like magic!” is a cliché and could be perceived as unprofessional.\n- Length is slightly long for optimal X (Twitter) engagement.\n- Call to action is somewhat weak – “Share your insights!” could be more specific.\n\nSuggestions:\n- Replace “It’s like magic!” with a more impactful phrase, e.g., “The results were surprisingly simple.”\n- Shorten the caption to approximately 27 characters or less. Example: “ML Project Surprise? Results are shockingly intuitive! What’s yours? #MachineLearningProject #MLModel”\n- Strengthen the call to action: “Share your ML project surprises! #MachineLearningProject #MLModel”",
+  "revisions": 0
+}

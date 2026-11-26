@@ -1,0 +1,88 @@
+{
+  "plan": {
+    "topic": "bike riding",
+    "platform": "TikTok",
+    "tone": "Exciting",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identify trending bike riding sounds and challenges on TikTok."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate relevant and high-performing hashtags for bike riding content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluate the script for excitement and TikTok engagement potential."
+      }
+    ]
+  },
+  "topic": "bike riding",
+  "platform": "TikTok",
+  "tone": "Exciting",
+  "content_idea": "Legend says the first bike ride unlocked a secret portal to pure joy – are you ready to find it?",
+  "hook": "Legend says the first bike ride unlocked a secret portal to pure joy – are you ready to find it? Let’s chase that feeling! Show us your best bike moment – tag a friend you’d ride with! 🚲✨",
+  "research": {
+    "topic": "bike riding",
+    "platform": "TikTok",
+    "angles": [
+      "Legend says the first bike ride unlocked a secret portal to pure joy – are you ready to find it?",
+      "Myth: biking is just exercise; it's actually a silent conversation with the wind!",
+      "Watch me build my dream bike setup, one awesome part at a time!",
+      "Don’t let fear slow you down – trust your instincts and own the road!",
+      "What's your favorite route to escape the everyday? Share your hidden gems!"
+    ],
+    "best_angle": "Legend says the first bike ride unlocked a secret portal to pure joy – are you ready to find it?",
+    "trends": [
+      "Legend says the first bike ride unlocked a secret portal to pure joy – are you ready to find it?",
+      "Myth: biking is just exercise; it's actually a silent conversation with the wind!",
+      "Watch me build my dream bike setup, one awesome part at a time!",
+      "Don’t let fear slow you down – trust your instincts and own the road!",
+      "What's your favorite route to escape the everyday? Share your hidden gems!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "bike riding",
+    "platform": "TikTok",
+    "hashtags": [
+      "#BikeRiding",
+      "#BikeLife",
+      "#RoadCycling",
+      "#MountainBike",
+      "#BikeCommute"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "Legend says the first bike ride unlocked a secret portal to pure joy – are you ready to find it? Let’s chase that feeling! Show us your best bike moment – tag a friend you’d ride with! 🚲✨\n\n#BikeRiding #BikeLife #RoadCycling #MountainBike #BikeCommute",
+  "reel_script": "Hook (0-3s): Ditch the doom, grab a bike!\n\nScene 1 | Visual: Fast-paced montage of people joyfully riding bikes – sunny streets, trails, cityscapes – vibrant colors. | Voiceover: \"Legend says the first bike ride… unlocked a secret portal.\"\n\nScene 2 | Visual: Close-up shot of someone’s smiling face as they pedal, wind in their hair. Transition to a slightly blurred, dreamlike effect. | Voiceover: \"…to pure joy.\"\n\nScene 3 | Visual: Quick cuts of diverse people laughing while biking – friends, families, solo riders – ending with a shot of someone effortlessly gliding down a hill. | Voiceover: \"Ready to feel the freedom? Let’s ride!”\n\nClosing line: Pedal your way to happiness! #BikeLife #AdventureTime #FindYourJoy",
+  "title": "Ride the Portal Joy",
+  "thumbnail_text": "Unlock Pure Joy",
+  "analysis": {
+    "platform": "TikTok",
+    "word_count": 43,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 5,
+    "relevance_score": 0,
+    "quality_score": 65,
+    "checks": {
+      "relevance": 0,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 0,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": [
+      "Include the main topic more clearly in your content.",
+      "Add a call to action to encourage audience engagement."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 65/100\n\nStrengths:\n- Strong hook with a compelling legend.\n- Clear call to action (tag a friend).\n- Appropriate length and tone for TikTok.\n\nSuggestions:\n- Include the main topic more clearly in your content.\n- Add a call to action to encourage audience engagement.",
+  "revisions": 3
+}

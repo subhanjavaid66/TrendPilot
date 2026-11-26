@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Portfolio post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring trending topics related to final year projects for insights."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to maximize project visibility."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's quality based on established criteria."
+      }
+    ]
+  },
+  "topic": "Final year project",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "What's the one piece of advice you wish someone had given you before starting your final year project?",
+  "hook": "Navigating a final year project can feel like scaling a mountain – exhilarating, but demanding serious preparation.",
+  "research": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine pouring your heart and soul into a final year project – it’s a marathon, not a sprint.",
+      "The biggest fear of a final year project isn’t the complexity, it's often the feeling of being utterly alone; combat that with collaboration.",
+      "I learned the hardest part of a final year project isn’t the technical challenges, but consistently managing your time and priorities.",
+      "A glimpse behind the scenes: the late nights, the frantic debugging, and the small victories that fuel the entire process – it's raw and real.",
+      "What's the one piece of advice you wish someone had given you before starting your final year project?"
+    ],
+    "best_angle": "What's the one piece of advice you wish someone had given you before starting your final year project?",
+    "trends": [
+      "Imagine pouring your heart and soul into a final year project – it’s a marathon, not a sprint.",
+      "The biggest fear of a final year project isn’t the complexity, it's often the feeling of being utterly alone; combat that with collaboration.",
+      "I learned the hardest part of a final year project isn’t the technical challenges, but consistently managing your time and priorities.",
+      "A glimpse behind the scenes: the late nights, the frantic debugging, and the small victories that fuel the entire process – it's raw and real.",
+      "What's the one piece of advice you wish someone had given you before starting your final year project?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#FinalYearProject",
+      "#CapstoneProject",
+      "#FinalDesign",
+      "#ResearchOutput"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Navigating a final year project can feel like scaling a mountain – exhilarating, but demanding serious preparation.\n\nLooking back on my own experience, the single piece of advice I wish someone had hammered home before starting my final year project is this: *Prioritize ruthless scoping.* It’s incredibly tempting to expand your project’s ambitions as you delve deeper, driven by a desire to truly explore the topic. However, this often leads to scope creep, unrealistic timelines, and ultimately, burnout.\n\nInstead, force yourself to identify the *core* question you're trying to answer and build your project around delivering a robust, insightful response to *that* question alone. Focus on quality over quantity – a well-executed, narrowly defined project is infinitely more valuable than a sprawling, half-finished one.\n\nThis discipline wasn’t just about managing time; it was about maintaining a sense of control and achieving a truly satisfying outcome.\n\nWhat’s the most valuable piece of advice you received during your final year project journey?\n\n#FinalYearProject #CapstoneProject #FinalDesign #ResearchOutput",
+  "reel_script": "Hook (0-3s): “Final year projects: the make-or-break.”\n\nScene 1 | Visual: Close-up of a student intensely working on a laptop, surrounded by books and notes. | Voiceover: “Looking back, the biggest challenge wasn't the technical hurdles, it was the feeling of being overwhelmed.”\n\nScene 2 | Visual: Quick cuts of a student sketching, meeting with a supervisor, and struggling with code. | Voiceover: “I wish someone had told me to break the project down into smaller, manageable milestones. Focus on one step at a time.”\n\nScene 3 | Visual: The student from Scene 1 now smiling confidently, presenting a completed project. | Voiceover: “Prioritize clear communication with your supervisor and relentlessly track your progress.”\n\nClosing line: “Don't let the enormity of the task paralyze you. Start small, stay focused, and you'll get there.”",
+  "title": "Final Year Project Advice?",
+  "thumbnail_text": "Share your wisdom",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 160,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook using a relatable metaphor (“scaling a mountain”).\n- Clearly articulates a key piece of advice: ruthless scoping.\n- Provides a practical and actionable takeaway – focus on a core question and quality.\n\nIssues:\n- The tone, while professional, could be slightly more polished and less conversational. Phrases like “hammered home” and “force yourself” feel a bit informal for LinkedIn.\n- The call to action (“What’s the most valuable piece of advice…?”) is weak and could be more engaging.\n- The length is good for LinkedIn, but could benefit from a slightly tighter edit for maximum impact.\n\nSuggestions:\n- Replace “hammered home” with a more professional phrasing, such as “emphasized.”\n- Revise the call to action to be more direct and encourage specific responses, e.g., “Share your top final year project advice in the comments!”\n- Trim redundant phrases like “infinitely more valuable” for conciseness.\n- Hashtags: Consider adding #StudentLife or #Engineering (depending on the project focus) to broaden reach.",
+  "revisions": 0
+}

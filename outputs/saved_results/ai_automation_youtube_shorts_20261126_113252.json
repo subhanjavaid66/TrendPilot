@@ -1,0 +1,99 @@
+{
+  "plan": {
+    "topic": "Ai automation",
+    "platform": "YouTube Shorts",
+    "tone": "Professional",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "Ai automation",
+  "platform": "YouTube Shorts",
+  "tone": "Professional",
+  "output_type": "Post + Reel Script",
+  "content_idea": "The ancient myth of tireless workers is about to get a modern update: AI.",
+  "hook": "The myth of the tireless worker is about to get a serious upgrade.",
+  "research": {
+    "topic": "Ai automation",
+    "platform": "YouTube Shorts",
+    "angles": [
+      "Imagine a world where tasks vanish – that’s the potential of AI automation.",
+      "The ancient myth of tireless workers is about to get a modern update: AI.",
+      "Stop fearing robots taking your job; learn how AI automation can *augment* your skills.",
+      "A quick peek into how businesses are currently using AI to streamline processes – it’s surprisingly accessible.",
+      "If AI automation can handle repetitive tasks, what will *you* be doing instead?"
+    ],
+    "best_angle": "The ancient myth of tireless workers is about to get a modern update: AI.",
+    "trends": [
+      "Imagine a world where tasks vanish – that’s the potential of AI automation.",
+      "The ancient myth of tireless workers is about to get a modern update: AI.",
+      "Stop fearing robots taking your job; learn how AI automation can *augment* your skills.",
+      "A quick peek into how businesses are currently using AI to streamline processes – it’s surprisingly accessible.",
+      "If AI automation can handle repetitive tasks, what will *you* be doing instead?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Ai automation",
+    "platform": "YouTube Shorts",
+    "hashtags": [
+      "#AiAutomation",
+      "#ArtificialIntelligence",
+      "#AIInnovation",
+      "#MachineLearning",
+      "#FutureOfAI"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "The myth of the tireless worker is about to get a serious upgrade. AI automation isn’t about robots stealing jobs – it’s about freeing *you* from the mundane. Businesses are already using AI to streamline everything from customer service to data analysis. What tasks are *you* ready to automate?\n\n---\n\n#AiAutomation #ArtificialIntelligence #AIInnovation #MachineLearning #FutureOfAI",
+  "reel_script": "Hook (0-3s): “Forget Sisyphus.”\n\nScene 1 | Visual: Quick montage of repetitive, tedious tasks – data entry, answering simple customer service emails, sorting spreadsheets. Grainy, slightly desaturated color palette.\n| Voiceover: “The ancient myth of endless toil is about to get a modern update.”\n\nScene 2 | Visual: Transition to a sleek, modern office environment. A screen displays an AI automating a complex data analysis task. Graphics subtly illustrate the AI processing information.\n| Voiceover: “AI automation isn’t about replacing jobs. It’s about freeing *you* from the mundane.”\n\nScene 3 | Visual: Close-up shot of a professional looking at a dashboard showing streamlined processes and increased efficiency.\n| Voiceover: “Businesses are already using AI to optimize everything. What tasks are *you* ready to automate?”\n\nClosing line: “Unlock your potential – explore AI automation today.”",
+  "title": "The ancient myth of tireless workers is about to get a modern...",
+  "thumbnail_text": "AI AUTOMATION",
+  "analysis": {
+    "platform": "YouTube Shorts",
+    "word_count": 50,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 5,
+    "total_hashtag_mentions": 5,
+    "relevant_hashtag_count": 3,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 90,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 0,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Add a call to action to encourage engagement."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 90/100\n\nStrengths:\n- The caption clearly states the core concept of AI automation freeing up human time.\n- The language is generally accessible and avoids overly technical jargon.\n- The question posed (“What tasks are you ready to automate?”) is a good starting point for engagement.\n\nIssues:\n- The caption lacks a strong hook to immediately grab attention within the short format.\n- The call to action is weak and could be more compelling. Simply asking “What tasks…” isn’t enough to drive interaction.\n- The content feels somewhat generic and could benefit from a more specific example or benefit to illustrate the concept.\n\nSuggestions:\n- Replace the opening with a more provocative statement, such as “Stop wasting time on [mundane task] – AI can do it!”\n- Revise the call to action to be more directive, e.g., “Comment below with the one task you’d automate!”\n- Include a brief example of a task that could be automated (e.g., “Scheduling meetings” or “Data entry”).\n- Add a call to action to encourage engagement.",
+  "revisions": 0
+}

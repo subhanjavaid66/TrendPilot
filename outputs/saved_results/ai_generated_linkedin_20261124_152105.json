@@ -1,0 +1,101 @@
+{
+  "plan": {
+    "topic": "AI generated",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 fresh angles on AI-generated content trends."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to amplify your AI content reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for optimal motivational impact and clarity."
+      }
+    ]
+  },
+  "topic": "AI generated",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "The ancient Greeks believed in the power of inspiration; now, AI generated tools offer a new, accessible way to tap into that same creative force.",
+  "hook": "The ancient Greeks revered inspiration, believing it flowed through artists and thinkers.",
+  "research": {
+    "topic": "AI generated",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a sculptor meticulously crafting a masterpiece, only to realize the raw material—AI generated content—could have brought the same vision to life in a fraction of the time.",
+      "The ancient Greeks believed in the power of inspiration; now, AI generated tools offer a new, accessible way to tap into that same creative force.",
+      "Don’t fear the ‘artificial’ – embrace the opportunity for accelerated learning and iteration within the AI generated landscape.",
+      "Take a peek behind the curtain: discovering how a simple prompt can unlock a surprisingly sophisticated and detailed output from AI generated systems, highlighting the artistry of the process.",
+      "What's the biggest misconception you’ve heard about AI generated content, and how can we collectively move beyond the fear and explore its potential?"
+    ],
+    "best_angle": "The ancient Greeks believed in the power of inspiration; now, AI generated tools offer a new, accessible way to tap into that same creative force.",
+    "trends": [
+      "Imagine a sculptor meticulously crafting a masterpiece, only to realize the raw material—AI generated content—could have brought the same vision to life in a fraction of the time.",
+      "The ancient Greeks believed in the power of inspiration; now, AI generated tools offer a new, accessible way to tap into that same creative force.",
+      "Don’t fear the ‘artificial’ – embrace the opportunity for accelerated learning and iteration within the AI generated landscape.",
+      "Take a peek behind the curtain: discovering how a simple prompt can unlock a surprisingly sophisticated and detailed output from AI generated systems, highlighting the artistry of the process.",
+      "What's the biggest misconception you’ve heard about AI generated content, and how can we collectively move beyond the fear and explore its potential?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI generated",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#AIGenerated",
+      "#GenerativeAI",
+      "#AIArtistry",
+      "#SyntheticMedia"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The ancient Greeks revered inspiration, believing it flowed through artists and thinkers. Today, AI-generated tools offer a remarkably accessible pathway to tap into that same creative force.\n\nImagine a sculptor, painstakingly crafting a masterpiece – now, with a well-crafted prompt, you can generate a strikingly similar design in a fraction of the time. This isn’t about replacing human creativity, but about accelerating the iterative process, allowing for rapid exploration and refinement.\n\nDon’t fear the ‘artificial’ – embrace the opportunity for accelerated learning and experimentation within this landscape. A simple prompt can unlock surprisingly sophisticated and detailed outputs, revealing a new kind of artistry.\n\nWhat’s the biggest misconception you’ve heard about AI generated content, and how can we collectively move beyond the fear and explore its potential?\n\n---\n\n**Reel Script:**\n\n**(Visuals: Fast-paced montage of AI-generated images and text appearing on screen – diverse styles and subjects. Upbeat, inspiring music playing.)**\n\n**(0-3 seconds) Text overlay: “Ancient Inspiration, Modern AI”**\n\n**(3-7 seconds) Visual: Close-up of a hand typing a prompt into an AI interface.**\n\n**(7-10 seconds) Voiceover (Energetic, positive tone):** \"The Greeks believed in inspiration... now AI is offering a new way to unlock it!\"\n\n**(10-14 seconds) Visual: Showcase a range of diverse AI-generated outputs – art, text, design elements.**\n\n**(14-17 seconds) Voiceover:** “It’s about accelerating your creative process, not replacing your vision.”\n\n**(17-20 seconds) Visual: End screen with a question prompt: \"What’s your biggest AI-generated insight?\"**\n\n**(Music fades out)**\n\n#AIGenerated #GenerativeAI #AIArtistry #SyntheticMedia",
+  "reel_script": "**Reel Script:**\n\n**(Hook - 0-3s) Text overlay: “Unlock Your Creativity”**\n\nScene 1 | Visual: Close-up of a hand typing a prompt into an AI interface – slow, deliberate typing.\n| Voiceover: \"The ancient Greeks sought inspiration – now AI offers a remarkably accessible way to find it.”\n\nScene 2 | Visual: Rapid montage of diverse AI-generated images and text: landscapes, abstract art, architectural designs, snippets of text.\n| Voiceover: “Imagine a sculptor, crafting a masterpiece. With a simple prompt, you can explore countless variations, rapidly refining your vision.”\n\nScene 3 | Visual: Split screen – one side shows a traditional sculpting process, the other shows the same concept visualized with AI.\n| Voiceover: “Don’t fear the ‘artificial’. Embrace this opportunity for accelerated learning and experimentation.”\n\n**(Closing line - 35-40s) Text overlay: \"What’s your AI-generated insight?”**\n\n**(Music fades out)**",
+  "title": "AI: Ancient Inspiration",
+  "thumbnail_text": "Unlock creative power",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 238,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 91,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 9,
+      "originality": 12
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 91/100\n\nStrengths:\n- Topic Relevance: The content effectively connects the historical concept of inspiration with the modern application of AI-generated tools, aligning perfectly with the topic.\n- Strong Opening Hook: The opening line referencing the ancient Greeks immediately grabs attention and establishes a thought-provoking connection.\n- Appropriate Length for LinkedIn: The text and reel script are well-suited for the platform's typical engagement timeframe.\n- Tone Matching: The motivational and optimistic tone is consistent throughout the content, aligning with the desired tone.\n- Relevant Hashtags: The hashtags are well-chosen and relevant to the topic of AI-generated content.\n\nSuggestions:\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 0
+}

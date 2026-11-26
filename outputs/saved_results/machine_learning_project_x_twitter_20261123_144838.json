@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "tone": "Short and catchy",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 fresh angles for a machine learning project post."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Discovering relevant hashtags to boost your machine learning content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing your caption for clarity and engagement metrics."
+      }
+    ]
+  },
+  "topic": "Machine learning project",
+  "platform": "X (Twitter)",
+  "tone": "Short and catchy",
+  "content_idea": "Turns out, the biggest hurdle in any machine learning project isn't the code, it's the data itself.",
+  "hook": "Turns out, the biggest roadblock in any machine learning project is the data itself.",
+  "research": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "angles": [
+      "Building a machine learning project felt like summoning a digital oracle – it just *worked* sometimes!",
+      "Turns out, the biggest hurdle in any machine learning project isn't the code, it's the data itself.",
+      "Think of training a model as patiently teaching a very, *very* stubborn student.",
+      "A peek behind the curtain: debugging this machine learning project was a surprisingly human experience.",
+      "If your machine learning project isn't learning, are you actually asking the right questions?"
+    ],
+    "best_angle": "Turns out, the biggest hurdle in any machine learning project isn't the code, it's the data itself.",
+    "trends": [
+      "Building a machine learning project felt like summoning a digital oracle – it just *worked* sometimes!",
+      "Turns out, the biggest hurdle in any machine learning project isn't the code, it's the data itself.",
+      "Think of training a model as patiently teaching a very, *very* stubborn student.",
+      "A peek behind the curtain: debugging this machine learning project was a surprisingly human experience.",
+      "If your machine learning project isn't learning, are you actually asking the right questions?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#MachineLearningProject",
+      "#MLModel"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Turns out, the biggest roadblock in any machine learning project is the data itself. 🤯 Spend less time coding, more time cleaning! What’s your biggest data challenge?\n\n#MachineLearningProject #MLModel",
+  "reel_script": "Hook (0-3s): “Spent weeks coding… and failed.”\n\nScene 1 | Visual: Rapid cuts of someone furiously typing code, a frustrated expression. | Voiceover: “Machine learning projects: we build, we build, we build…”\n\nScene 2 | Visual: Close-up of a messy spreadsheet filled with disorganized data. | Voiceover: “...but the biggest problem isn’t the algorithm. It’s the data.”\n\nScene 3 | Visual: Transition to a clean, well-organized dataset being visualized with a graph. | Voiceover: “Garbage in, garbage out. Clean data = success.”\n\nClosing line: “Don’t let bad data derail your project. Learn to clean it!”",
+  "title": "Data's the Real Problem",
+  "thumbnail_text": "Fix your data",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 27,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the 🤯 emoji.\n- Clearly identifies a common problem in ML projects.\n- Concise and relatively short for X.\n\nIssues:\n- Call to action is weak (“What’s your biggest data challenge?”).\n- Could benefit from a more specific or engaging question.\n- Hashtags are generic.\n\nSuggestions:\n- Revise the call to action to be more interactive, e.g., “Data cleaning got you down? Share your biggest challenge below!”\n- Replace #MachineLearningProject with a more targeted hashtag like #DataCleaning or #MLData.\n- Add a secondary hashtag like #AI or #ArtificialIntelligence.",
+  "revisions": 0
+}

@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Post + hashtags",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring five potential angles for content around YOLOv8 helmet detection."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generating relevant hashtags to maximize LinkedIn reach for this topic."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for professional tone and clarity."
+      }
+    ]
+  },
+  "topic": "YOLOv8 helmet detection",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "Imagine a world where every cyclist is automatically protected – that’s the potential unlocked by YOLOv8 helmet detection.",
+  "hook": "Imagine a world where every cyclist is automatically protected – that’s the potential unlocked by YOLOv8 helmet detection.",
+  "research": {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a world where every cyclist is automatically protected – that’s the potential unlocked by YOLOv8 helmet detection.",
+      "The myth of ‘I’ll worry about safety later’ is shattered by the proactive power of AI-driven helmet identification.",
+      "Protecting riders isn’t just a rule, it’s a responsibility, and YOLOv8 offers a critical layer of automated vigilance.",
+      "A peek behind the scenes reveals how innovative computer vision is transforming cyclist safety monitoring.",
+      "Could the future of bike lanes and infrastructure incorporate real-time helmet detection for enhanced risk management?"
+    ],
+    "best_angle": "Imagine a world where every cyclist is automatically protected – that’s the potential unlocked by YOLOv8 helmet detection.",
+    "trends": [
+      "Imagine a world where every cyclist is automatically protected – that’s the potential unlocked by YOLOv8 helmet detection.",
+      "The myth of ‘I’ll worry about safety later’ is shattered by the proactive power of AI-driven helmet identification.",
+      "Protecting riders isn’t just a rule, it’s a responsibility, and YOLOv8 offers a critical layer of automated vigilance.",
+      "A peek behind the scenes reveals how innovative computer vision is transforming cyclist safety monitoring.",
+      "Could the future of bike lanes and infrastructure incorporate real-time helmet detection for enhanced risk management?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#YOLOv8HelmetDetection",
+      "#ObjectDetection",
+      "#YOLOv8",
+      "#HelmetDetection"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Imagine a world where every cyclist is automatically protected – that’s the potential unlocked by YOLOv8 helmet detection.\n\nThis innovative technology offers a powerful new approach to safety, enabling automated detection of helmets in real-time. A key insight is the ability to integrate this detection into smart infrastructure and wearable devices, creating a proactive safety net. By continuously monitoring cyclist behavior and identifying potential risks, we can move beyond reactive safety measures and towards a truly preventative system.\n\nThe implications for urban planning, transportation, and personal safety are significant.\n\nWhat strategies do you envision for effectively deploying YOLOv8 helmet detection to maximize its impact on cyclist safety?\n\n#YOLOv8HelmetDetection #ObjectDetection #YOLOv8 #HelmetDetection",
+  "reel_script": "Hook (0-3s): “Protecting every journey.”\n\nScene 1 | Visual: Close-up of a cyclist riding through a city street, overlaid with a subtle, dynamic heat map highlighting potential hazards. | Voiceover: “Imagine a world where every cyclist is automatically protected.”\n\nScene 2 | Visual: Screen recording of the YOLOv8 software in action – real-time detection of a helmet on a cyclist’s head, with bounding box highlighting and confidence score displayed. | Voiceover: “YOLOv8’s advanced object detection technology identifies helmets with remarkable accuracy.”\n\nScene 3 | Visual: Dynamic graphic showing the core principles of YOLOv8 – speed, precision, and real-time processing. | Voiceover: “This allows for proactive safety measures, minimizing risk and maximizing peace of mind.”\n\nClosing line: “Explore the possibilities of intelligent safety solutions. Contact us to learn more.”",
+  "title": "YOLOv8: Helmet Safety",
+  "thumbnail_text": "Smart helmet detection",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 107,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with a relatable scenario.\n- Clearly explains the core benefit of YOLOv8 for helmet detection.\n- Highlights potential applications (infrastructure, wearables).\n\nIssues:\n- Lacks a specific call to action beyond the question.\n- Could benefit from quantifying the potential impact or providing a brief technical detail.\n- Hashtags could be refined for better reach.\n\nSuggestions:\n- Add a brief statement about the accuracy or speed of the detection (e.g., “Achieving up to 95% accuracy in real-time…”)\n- Replace “significant” with a more concrete benefit (e.g., “reducing cyclist accidents by X%”).\n- Revise hashtags: #YOLOv8HelmetDetection #ObjectDetection #YOLOv8 #HelmetDetection #SmartCities #UrbanPlanning #CyclistSafety",
+  "revisions": 0
+}

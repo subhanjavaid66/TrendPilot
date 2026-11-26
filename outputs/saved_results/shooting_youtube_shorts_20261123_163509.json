@@ -1,0 +1,97 @@
+{
+  "plan": {
+    "topic": "Shooting",
+    "platform": "YouTube Shorts",
+    "tone": "Casual",
+    "output_type": "Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Analyzing trending YouTube Shorts topics related to shooting."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags for a shooting-themed YouTube Short."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for clarity and engagement metrics."
+      }
+    ]
+  },
+  "topic": "Shooting",
+  "platform": "YouTube Shorts",
+  "tone": "Casual",
+  "content_idea": "Myth: Guns don't ‘accidentally’ discharge; it’s always a lapse in safety.",
+  "hook": "**(Video opens with a close-up shot of a hand instinctively pulling back on a gun trigger – quick, impactful.)**",
+  "research": {
+    "topic": "Shooting",
+    "platform": "YouTube Shorts",
+    "angles": [
+      "Imagine the silence after a gunshot – a sound that changes everything.",
+      "Myth: Guns don't ‘accidentally’ discharge; it’s always a lapse in safety.",
+      "A quick reminder: Responsible gun ownership starts with knowing your local laws and safety protocols.",
+      "Behind the scenes: The immediate aftermath of a shooting – a chaotic, heartbreaking reality.",
+      "If you hear a gunshot, freeze, assess, and call for help – it could save a life."
+    ],
+    "best_angle": "Myth: Guns don't ‘accidentally’ discharge; it’s always a lapse in safety.",
+    "trends": [
+      "Imagine the silence after a gunshot – a sound that changes everything.",
+      "Myth: Guns don't ‘accidentally’ discharge; it’s always a lapse in safety.",
+      "A quick reminder: Responsible gun ownership starts with knowing your local laws and safety protocols.",
+      "Behind the scenes: The immediate aftermath of a shooting – a chaotic, heartbreaking reality.",
+      "If you hear a gunshot, freeze, assess, and call for help – it could save a life."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Shooting",
+    "platform": "YouTube Shorts",
+    "hashtags": [
+      "#Shooting",
+      "#ActionShooting",
+      "#GunRangeLife",
+      "#TacticalTraining",
+      "#ShooterSkills"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "**(Video opens with a close-up shot of a hand instinctively pulling back on a gun trigger – quick, impactful.)**\n\n**Voiceover (Casual, slightly concerned tone):** Ever think, \"Guns don't *accidentally* go off?\"\n\nLet’s be real. It’s not about a simple lapse in safety.\n\nIt’s about human error. A moment of distraction, a lapse in focus, a missed step in protocol.\n\nResponsible gun ownership *absolutely* starts with knowing your local laws and, most importantly, practicing constant, meticulous safety.\n\n**(Quick shot of someone demonstrating safe gun handling – proper grip, trigger control.)**\n\n**Voiceover:** If you hear a gunshot, freeze, assess the situation, and immediately call for help.\n\n**(Video ends with a simple graphic: “Safety First”)**\n\n**Voiceover:** What’s one thing you do to prioritize gun safety every time you handle a firearm?\n\n#Shooting #ActionShooting #GunRangeLife #TacticalTraining #ShooterSkills",
+  "reel_script": "Hook (0-3s): “Think guns never ‘accidentally’ go off?”\nScene 1 | Visual: Close-up of a hand carefully checking a firearm’s safety, then a slight fumble. | Voiceover: \"It’s not about mistakes. It’s about layers of safety.”\nScene 2 | Visual: Quick cuts showing various safety procedures: checking the chamber, ensuring the trigger is blocked, muzzle direction. | Voiceover: “Every single action matters. A lapse in focus, a momentary distraction…”\nScene 3 | Visual: Slow-motion shot of a finger pulling the trigger – but the safety is still on. | Voiceover: “...can have serious consequences.”\nClosing line: “Always prioritize safety. Own your responsibility.”",
+  "title": "Guns Don't 'Accidentally' Fire?",
+  "thumbnail_text": "Safety Matters Now",
+  "analysis": {
+    "platform": "YouTube Shorts",
+    "word_count": 130,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 5,
+    "total_hashtag_mentions": 5,
+    "relevance_score": 0,
+    "relevance_percent": 0,
+    "quality_score": 65,
+    "checks": {
+      "relevance": 0,
+      "length": 10,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": [
+      "Include the main topic more clearly.",
+      "Reduce content length to around 80 words for YouTube Shorts."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 65/100\n\nStrengths:\n- Strong opening hook with the immediate trigger pull.\n- Clearly communicates the importance of safety and human error.\n- Includes a practical tip about responding to gunshots.\n\nIssues:\n- The “Let’s be real” phrasing feels slightly confrontational and could be perceived negatively by some viewers.\n- The voiceover tone, while aiming for casual, leans a bit too concerned and potentially alarming.\n- The call to action (“What’s one thing…”) feels tacked on and could be more engaging.\n\nSuggestions:\n- Replace “Let’s be real” with a more neutral opening, such as “It’s a sobering thought…”\n- Adjust the voiceover tone to be more informative and less emotionally charged. Consider phrasing like, “It’s a critical reminder…”\n- Replace the call to action with a question that encourages more specific responses, such as “What’s your go-to safety check?” or “What’s your most important safety habit?”\n- Include the main topic more clearly.\n- Reduce content length to around 80 words for YouTube Shorts.",
+  "revisions": 2
+}

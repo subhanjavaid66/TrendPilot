@@ -1,0 +1,94 @@
+{
+  "plan": {
+    "topic": "Football",
+    "platform": "TikTok",
+    "tone": "Motivational",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Identifies trending football-related content angles for TikTok."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggests relevant hashtags to maximize TikTok reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluates the caption's quality based on defined criteria."
+      }
+    ]
+  },
+  "topic": "Football",
+  "platform": "TikTok",
+  "tone": "Motivational",
+  "content_idea": "Legend says the greatest players aren’t born, but forged in the fires of relentless practice.",
+  "hook": "Forge your legend.",
+  "research": {
+    "topic": "Football",
+    "platform": "TikTok",
+    "angles": [
+      "Imagine the roar of the crowd as you chase down every last second – that’s the spirit of the game.",
+      "Legend says the greatest players aren’t born, but forged in the fires of relentless practice.",
+      "Don’t let mistakes define you; every tackle, every pass, is a chance to learn and grow stronger.",
+      "POV: You’re witnessing the incredible preparation behind every athlete's dedication, revealing the hours of focus.",
+      "What’s the one thing that separates a good team from a legendary one – tell us in the comments!"
+    ],
+    "best_angle": "Legend says the greatest players aren’t born, but forged in the fires of relentless practice.",
+    "trends": [
+      "Imagine the roar of the crowd as you chase down every last second – that’s the spirit of the game.",
+      "Legend says the greatest players aren’t born, but forged in the fires of relentless practice.",
+      "Don’t let mistakes define you; every tackle, every pass, is a chance to learn and grow stronger.",
+      "POV: You’re witnessing the incredible preparation behind every athlete's dedication, revealing the hours of focus.",
+      "What’s the one thing that separates a good team from a legendary one – tell us in the comments!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Football",
+    "platform": "TikTok",
+    "hashtags": [
+      "#Football",
+      "#GridironGoals",
+      "#BlitzMode",
+      "#TouchdownTime",
+      "#PigskinPassion"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "Forge your legend. 🔨 What's one thing you're relentlessly working on today? Let us know in the comments!\n\n#Football #GridironGoals #BlitzMode #TouchdownTime #PigskinPassion",
+  "reel_script": "Hook (0-3s): “Don’t just dream it. Build it.”\n\nScene 1 | Visual: Close-up shot of hands meticulously practicing football drills – passing, catching, kicking – sweat glistening. | Voiceover: “Legend says the greatest players aren’t born. They’re forged.”\n\nScene 2 | Visual: Montage of athletes, young and older, intensely focused on training – running, tackling, studying plays. Fast cuts, energetic music. | Voiceover: “It’s the hours spent perfecting every move, pushing past the limits.”\n\nScene 3 | Visual: Slow-motion shot of a player making a crucial tackle, followed by a determined look. | Voiceover: “It's the relentless pursuit of excellence, the unwavering commitment to the game.”\n\nClosing line: “What are *you* building today?”",
+  "title": "Forge Your Legend",
+  "thumbnail_text": "Practice Makes Great",
+  "analysis": {
+    "platform": "TikTok",
+    "word_count": 18,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 5,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 100/100\n\nStrengths:\n- Strong hook with the “Forge your legend” phrase.\n- Relevant hashtags included.\n- Clear call to action asking for comments.\n\nIssues:\n- Tone feels somewhat generic and lacks specific football motivation.\n- The hammer emoji feels out of place and doesn’t strongly connect to the football theme.\n- Length is appropriate for TikTok but could benefit from a more engaging visual element.\n\nSuggestions:\n- Replace the hammer emoji with a football-related image or animation.\n- Add a brief motivational football-related sentence to strengthen the tone (e.g., “Every rep brings you closer to the win!”).\n- Consider adding a short, dynamic video clip of a football play to enhance visual engagement.",
+  "revisions": 3
+}

@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for open-source contribution content ideas."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to maximize LinkedIn reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for clarity and engagement metrics."
+      }
+    ]
+  },
+  "topic": "Open-source contribution",
+  "platform": "LinkedIn",
+  "tone": "Inspirational",
+  "content_idea": "The greatest inventions aren’t always born in boardrooms; sometimes, they emerge from the collaborative spirit of open-source.",
+  "hook": "The greatest inventions aren’t always born in boardrooms; sometimes, they emerge from the collaborative spirit of open-source.",
+  "research": {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a world where innovation isn’t confined by walls – that’s the power of open-source contribution.",
+      "Like a shared library of brilliant ideas, open-source allows anyone to build upon the work of others, fostering exponential growth.",
+      "The greatest inventions aren’t always born in boardrooms; sometimes, they emerge from the collaborative spirit of open-source.",
+      "A peek behind the code reveals a vibrant community shaping the future, one line of contribution at a time.",
+      "What if your next breakthrough could be fueled by the collective intelligence of thousands – consider the impact of open-source?"
+    ],
+    "best_angle": "The greatest inventions aren’t always born in boardrooms; sometimes, they emerge from the collaborative spirit of open-source.",
+    "trends": [
+      "Imagine a world where innovation isn’t confined by walls – that’s the power of open-source contribution.",
+      "Like a shared library of brilliant ideas, open-source allows anyone to build upon the work of others, fostering exponential growth.",
+      "The greatest inventions aren’t always born in boardrooms; sometimes, they emerge from the collaborative spirit of open-source.",
+      "A peek behind the code reveals a vibrant community shaping the future, one line of contribution at a time.",
+      "What if your next breakthrough could be fueled by the collective intelligence of thousands – consider the impact of open-source?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#OpenSourceContribution",
+      "#OpenSourceDev",
+      "#CodeContribution",
+      "#CommunityImpact"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The greatest inventions aren’t always born in boardrooms; sometimes, they emerge from the collaborative spirit of open-source.\n\nOpen-source contribution is a powerful reminder that innovation thrives on shared knowledge and collective effort. It’s about building something truly remarkable, brick by brick, with the help of a global community.\n\nOne key lesson? Don’t be intimidated! Every contribution, no matter how small – whether it’s testing a new feature, documenting code, or offering a helpful suggestion – adds value.\n\nIt’s truly inspiring to witness how diverse perspectives converge to create solutions we never could have imagined alone.\n\nWhat’s one way you’ve seen collaboration lead to a breakthrough in your field?\n\n#OpenSourceContribution #OpenSourceDev #CodeContribution #CommunityImpact",
+  "reel_script": "Hook (0-3s): “Innovation doesn’t always need a CEO.”\n\nScene 1 | Visual: Rapid montage of diverse hands typing on keyboards, code scrolling on screens, people collaborating around tables. | Voiceover: “The greatest inventions often start with a simple question: ‘How can we make this better?’”\n\nScene 2 | Visual: Close-up shot of a single line of code being edited, then a graphic illustrating interconnected networks. | Voiceover: “Open-source communities are built on shared knowledge, driven by passionate individuals, constantly refining and improving.”\n\nScene 3 | Visual: Slow zoom out from a group of people smiling and discussing ideas. | Voiceover: “It’s a testament to what happens when we build together, without ego, simply focused on progress.”\n\nClosing line: “Explore the power of collaboration. Find an open-source project that inspires you.”",
+  "title": "Open Source: Innovation's Heart",
+  "thumbnail_text": "Code builds futures",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 108,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the opening statement about inventions.\n- Clearly articulates the value of open-source contribution.\n- Positive and encouraging tone.\n\nIssues:\n- The call to action (\"What’s one way you’ve seen collaboration lead to a breakthrough...\") feels a little passive. It could be more engaging.\n- The phrasing \"brick by brick\" is slightly cliché and could be replaced with something more dynamic.\n- The content lacks a specific example to truly ground the inspirational message.\n\nSuggestions:\n- Revise the call to action to be more interactive, e.g., “Share your open-source success story in the comments!”\n- Replace “brick by brick” with a more impactful phrase like “layer by layer” or “together we build.”\n- Consider adding a brief, impactful example of open-source success (e.g., “From Linux to countless apps, open-source drives innovation”).",
+  "revisions": 0
+}

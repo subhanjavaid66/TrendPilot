@@ -1,0 +1,105 @@
+{
+  "plan": {
+    "topic": "Iphone 18 pro max",
+    "platform": "Instagram",
+    "tone": "Exciting",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Analyzing trending topics to identify relevant content angles for the iPhone 18 Pro Max."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting targeted hashtags to maximize Instagram reach for the iPhone 18 Pro Max."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's quality based on pre-defined Instagram content guidelines."
+      }
+    ]
+  },
+  "topic": "Iphone 18 pro max",
+  "platform": "Instagram",
+  "tone": "Exciting",
+  "content_idea": "What's the *one* feature you’re most excited about on the iPhone 18 Pro Max – let us know in the comments!",
+  "hook": "**Instagram Post Caption:**",
+  "research": {
+    "topic": "Iphone 18 pro max",
+    "platform": "Instagram",
+    "angles": [
+      "Unleash a cinematic storm with the iPhone 18 Pro Max – prepare to redefine your mobile storytelling.",
+      "Myth: Bigger camera means blurry photos – discover how the iPhone 18 Pro Max's lens technology delivers unparalleled clarity.",
+      "Learn the art of effortless capture: mastering the iPhone 18 Pro Max’s intuitive controls is a skill worth mastering.",
+      "A glimpse behind the screen reveals the meticulous engineering that powers the iPhone 18 Pro Max’s innovative design.",
+      "What's the *one* feature you’re most excited about on the iPhone 18 Pro Max – let us know in the comments!"
+    ],
+    "best_angle": "What's the *one* feature you’re most excited about on the iPhone 18 Pro Max – let us know in the comments!",
+    "trends": [
+      "Unleash a cinematic storm with the iPhone 18 Pro Max – prepare to redefine your mobile storytelling.",
+      "Myth: Bigger camera means blurry photos – discover how the iPhone 18 Pro Max's lens technology delivers unparalleled clarity.",
+      "Learn the art of effortless capture: mastering the iPhone 18 Pro Max’s intuitive controls is a skill worth mastering.",
+      "A glimpse behind the screen reveals the meticulous engineering that powers the iPhone 18 Pro Max’s innovative design.",
+      "What's the *one* feature you’re most excited about on the iPhone 18 Pro Max – let us know in the comments!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Iphone 18 pro max",
+    "platform": "Instagram",
+    "hashtags": [
+      "#Iphone18ProMax",
+      "#ProCamera",
+      "#DynamicIsland",
+      "#MaxResolution",
+      "#ProMotionDisplay",
+      "#A18Chip"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "**Instagram Post Caption:**\n\nGet ready to witness mobile photography redefined! The iPhone 18 Pro Max is here, and it's packing a serious punch. We’re talking cinematic video quality, a camera system that will blow your mind, and features designed to make you the ultimate storyteller.\n\nThis phone isn’t just about taking pictures; it’s about capturing moments with incredible clarity and detail. The innovative lens technology ensures you'll get sharp, vibrant photos every time, shattering the myth that bigger always means blurrier.\n\nWatch till the end to see just how intuitive the controls are – mastering the iPhone 18 Pro Max is a skill that will elevate your content. It’s a testament to meticulous engineering and a truly groundbreaking design.\n\nWhat’s the *one* feature you’re most excited about on the iPhone 18 Pro Max – let us know in the comments! 👇\n\n**Reel Script:**\n\n**(Intro - 0-3 seconds) – Upbeat, cinematic music starts. Quick cuts of stunning visuals – a vibrant sunset, a fast-moving sports scene, a detailed macro shot.**\n\n**Voiceover (Energetic, enthusiastic):** “Hold up! Are you ready for a mobile photography game-changer?”\n\n**(Shot 1 - 3-7 seconds) – Close-up of the iPhone 18 Pro Max, showcasing the camera lenses.**\n\n**Voiceover:** “The iPhone 18 Pro Max is here, and it’s about to redefine what’s possible.”\n\n**(Shot 2 - 7-12 seconds) – Demonstration of a smooth, cinematic video recording – perhaps a time-lapse of a flower blooming.**\n\n**Voiceover:** “Unleash a cinematic storm with incredible video quality.”\n\n**(Shot 3 - 12-17 seconds) – Quick cuts showcasing different camera features – portrait mode, night mode, zoom capabilities.**\n\n**Voiceover:** “And with its revolutionary lens technology, you’ll capture unparalleled clarity and detail – no more blurry photos!”\n\n**(Shot 4 - 17-22 seconds) – Person casually using the iPhone 18 Pro Max to take a photo, demonstrating the intuitive controls.**\n\n**Voiceover:** “Mastering the iPhone\n\n#Iphone18ProMax #ProCamera #DynamicIsland #MaxResolution #ProMotionDisplay #A18Chip",
+  "reel_script": "Hook (0-3s): “Get ready to level up your photos!”\n\nScene 1 | Visual: Stunning, rapidly changing shots – a vibrant cityscape, a close-up of a flower, a person skateboarding.\n| Voiceover: “The iPhone 18 Pro Max is here, and it’s about to change everything.”\n\nScene 2 | Visual: Slow-motion shot of a person filming a beautiful sunset with the iPhone 18 Pro Max.\n| Voiceover: “Capture cinematic quality like never before.”\n\nScene 3 | Visual: Quick cuts showcasing portrait mode, zoom capabilities, and dynamic focus.\n| Voiceover: “Unrivaled clarity and detail – making every shot a masterpiece.”\n\nClosing line: “What’s *your* favorite feature? Let us know in the comments!”",
+  "title": "iPhone 18 Pro Max!",
+  "thumbnail_text": "Most Excited Feature",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 299,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 6,
+    "total_hashtag_mentions": 6,
+    "relevant_hashtag_count": 0,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 76,
+    "checks": {
+      "relevance": 25,
+      "length": 10,
+      "hashtags": 10,
+      "call_to_action": 10,
+      "readability": 9,
+      "originality": 12
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Reduce content length to around 150 words for Instagram.",
+      "Use hashtags that are more closely related to the topic.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 76/100\n\nStrengths:\n- Topic Relevance: The content is perfectly aligned with the iPhone 18 Pro Max and its capabilities.\n- Exciting Tone: The caption and reel script effectively convey an exciting and enthusiastic tone, using phrases like “game-changer,” “cinematic storm,” and “blow your mind.”\n- Clear Call to Action: The caption includes a clear and direct call to action, prompting users to comment and share their excitement.\n- Relevant Hashtags: The provided hashtags are highly relevant to the iPhone 18 Pro Max and its features.\n\nSuggestions:\n- Reduce content length to around 150 words for Instagram.\n- Use hashtags that are more closely related to the topic.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 0
+}

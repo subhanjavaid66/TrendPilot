@@ -1,0 +1,102 @@
+{
+  "plan": {
+    "topic": "Is AI replacing Software Engineers",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring five potential angles for LinkedIn content on AI and engineers."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize LinkedIn post reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for clarity, tone, and LinkedIn best practices."
+      }
+    ]
+  },
+  "topic": "Is AI replacing Software Engineers",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "output_type": "Post",
+  "content_idea": "The myth of the ‘disappearing engineer’ is debunked: true innovation still requires human intuition and complex problem-solving skills.",
+  "hook": "Here’s a LinkedIn post draft based on your brief:",
+  "research": {
+    "topic": "Is AI replacing Software Engineers",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a seasoned architect, meticulously crafting a building – AI is now assisting with the initial blueprints, prompting a fascinating evolution of the profession.",
+      "The myth of the ‘disappearing engineer’ is debunked: true innovation still requires human intuition and complex problem-solving skills.",
+      "Every skilled craftsperson faces new tools; embracing AI as a powerful assistant, not a replacement, is the ultimate lesson for software engineers.",
+      "Take a peek behind the code – the most impactful AI integrations consistently stem from a deep understanding of user needs and nuanced design choices, something a machine can't fully replicate.",
+      "If AI can automate the repetitive tasks, what unique human value does a software engineer bring to the table – let’s discuss!"
+    ],
+    "best_angle": "The myth of the ‘disappearing engineer’ is debunked: true innovation still requires human intuition and complex problem-solving skills.",
+    "trends": [
+      "Imagine a seasoned architect, meticulously crafting a building – AI is now assisting with the initial blueprints, prompting a fascinating evolution of the profession.",
+      "The myth of the ‘disappearing engineer’ is debunked: true innovation still requires human intuition and complex problem-solving skills.",
+      "Every skilled craftsperson faces new tools; embracing AI as a powerful assistant, not a replacement, is the ultimate lesson for software engineers.",
+      "Take a peek behind the code – the most impactful AI integrations consistently stem from a deep understanding of user needs and nuanced design choices, something a machine can't fully replicate.",
+      "If AI can automate the repetitive tasks, what unique human value does a software engineer bring to the table – let’s discuss!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-25",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Is AI replacing Software Engineers",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#CodeAutomation",
+      "#AIImpact",
+      "#DeveloperFuture",
+      "#AlgorithmicShift"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Here’s a LinkedIn post draft based on your brief:\n\nThe architect’s blueprint isn’t disappearing – and neither is the software engineer’s role. We’re seeing a fascinating shift as AI assists with initial design and automation, but true innovation still hinges on our uniquely human ability to translate user needs into elegant, intuitive solutions.\n\nIt’s not about replacing skilled craftspeople; it’s about empowering them with powerful tools. Every experienced professional embraces new technologies, and AI offers a tremendous opportunity to streamline repetitive tasks, freeing engineers to focus on the complex problem-solving and nuanced design choices that machines can’t replicate. Think about the underlying ‘why’ – AI can’t truly understand the impact of a design on a user’s experience.\n\nWhat truly unique human value do you believe software engineers bring to the table in this evolving landscape?\n\n#CodeAutomation #AIImpact #DeveloperFuture #AlgorithmicShift",
+  "reel_script": null,
+  "title": "AI Won't Replace You",
+  "thumbnail_text": "Human Skills Matter",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 143,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 1,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 82,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 10,
+      "call_to_action": 0,
+      "readability": 12,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Use hashtags that are more closely related to the topic.",
+      "Add a call to action to encourage engagement.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 82/100\n\nStrengths:\n- The caption effectively frames the discussion around AI assisting, rather than replacing, software engineers, aligning with the motivational tone.\n- The use of the “architect’s blueprint” analogy is a strong and relatable hook, clearly communicating the core idea.\n- The question posed at the end – “What truly unique human value do you believe software engineers bring to the table?” – is a highly effective call to action designed to spark conversation.\n\nIssues:\n- The hashtag selection could be more targeted; #CodeAutomation is broad.\n- The caption could benefit from a slightly more dynamic opening to fully capture attention.\n- The analyzer flagged a missing space, which has been addressed.\n\nSuggestions:\n- Replace #CodeAutomation with a more specific hashtag like #SoftwareEngineeringAI or #AIinTech.\n- Consider revising the opening to something like: “The future of software isn’t about replacing engineers, but augmenting their skills…”\n- Ensure all text is properly formatted with consistent spacing.\n- Use hashtags that are more closely related to the topic.\n- Add a call to action to encourage engagement.",
+  "revisions": 0
+}

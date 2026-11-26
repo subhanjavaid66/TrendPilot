@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "tone": "Short and catchy",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 fresh angles for a machine learning project post."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Discovering relevant hashtags to boost your machine learning content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing your caption for optimal engagement and clarity."
+      }
+    ]
+  },
+  "topic": "Machine learning project",
+  "platform": "X (Twitter)",
+  "tone": "Short and catchy",
+  "content_idea": "Turns out, building a machine learning project is less about magic and more about meticulously cleaning your ingredients.",
+  "hook": "Turns out, building a machine learning project is less about magic and more about meticulously cleaning your ingredients.",
+  "research": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "angles": [
+      "Imagine a machine learning project as a digital alchemist – transforming raw data into gold.",
+      "Turns out, building a machine learning project is less about magic and more about meticulously cleaning your ingredients.",
+      "The biggest challenge in a machine learning project isn't the code, it’s convincing your team to embrace the iterative process.",
+      "We peeked behind the curtain of this machine learning project, and it's surprisingly… organized chaos!",
+      "Is your machine learning project stuck? Ask yourself: are you feeding it the *right* questions?"
+    ],
+    "best_angle": "Turns out, building a machine learning project is less about magic and more about meticulously cleaning your ingredients.",
+    "trends": [
+      "Imagine a machine learning project as a digital alchemist – transforming raw data into gold.",
+      "Turns out, building a machine learning project is less about magic and more about meticulously cleaning your ingredients.",
+      "The biggest challenge in a machine learning project isn't the code, it’s convincing your team to embrace the iterative process.",
+      "We peeked behind the curtain of this machine learning project, and it's surprisingly… organized chaos!",
+      "Is your machine learning project stuck? Ask yourself: are you feeding it the *right* questions?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Machine learning project",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#MachineLearningProject",
+      "#MLModel"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Turns out, building a machine learning project is less about magic and more about meticulously cleaning your ingredients. Get ready for some serious data wrangling! What’s your biggest data challenge?\n\n#MachineLearningProject #MLModel",
+  "reel_script": "Hook (0-3s): “Machine learning? It’s not magic.”\n\nScene 1 | Visual: Fast-paced montage of messy data – overflowing spreadsheets, tangled code snippets, a confused-looking person staring at a screen. | Voiceover: “You think it’s about complex algorithms and brilliant insights.”\n\nScene 2 | Visual: Close-up shot of someone meticulously cleaning and organizing data – filtering, correcting errors, transforming columns. | Voiceover: “Turns out, it’s mostly about cleaning your ingredients.” \n\nScene 3 | Visual: Transition to a clean, organized dataset displayed beautifully.  A smiling person reviews it. | Voiceover: “Garbage in, garbage out. Seriously.”\n\nClosing line: “Start building smarter, one clean dataset at a time.”",
+  "title": "ML Projects: It's Prep!",
+  "thumbnail_text": "Clean data now",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 30,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the “less about magic” phrasing.\n- Clearly communicates the core concept of data cleaning.\n- Uses relevant hashtags.\n\nIssues:\n- The call to action (“What’s your biggest data challenge?”) is weak and doesn’t encourage engagement.\n- Length is borderline for X; could benefit from tightening.\n- Tone is slightly informal, which might not align with all TrendPilot audiences.\n\nSuggestions:\n- Revise the call to action to be more specific and engaging, e.g., “Data cleaning got you down? Share your biggest challenge!”\n- Shorten the caption to maximize impact, e.g., “ML projects = clean data. What’s your biggest data wrangling hurdle?”\n- Consider adjusting the tone to be slightly more professional, depending on TrendPilot’s brand.",
+  "revisions": 0
+}

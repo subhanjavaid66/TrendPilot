@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for AI internship experiences on LinkedIn."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags for AI internship content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption's motivational tone and clarity."
+      }
+    ]
+  },
+  "topic": "AI internship experience",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "Rewind to my first day – the sheer volume of learning felt like stepping into a whole new universe.",
+  "hook": "Rewind to my first day at the AI internship experience – the sheer volume of learning felt like stepping into a whole new universe.",
+  "research": {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "angles": [
+      "Rewind to my first day – the sheer volume of learning felt like stepping into a whole new universe.",
+      "I used to believe AI internships were purely theoretical, but I’ve discovered they’re intensely hands-on and surprisingly creative.",
+      "The biggest hurdle in any AI internship isn’t the code, it’s learning to ask the *right* questions.",
+      "A peek behind the curtain: witnessing the collaborative efforts to refine an AI model was more inspiring than any presentation.",
+      "If you're considering an AI internship, what’s the one thing you’re most excited to explore?"
+    ],
+    "best_angle": "Rewind to my first day – the sheer volume of learning felt like stepping into a whole new universe.",
+    "trends": [
+      "Rewind to my first day – the sheer volume of learning felt like stepping into a whole new universe.",
+      "I used to believe AI internships were purely theoretical, but I’ve discovered they’re intensely hands-on and surprisingly creative.",
+      "The biggest hurdle in any AI internship isn’t the code, it’s learning to ask the *right* questions.",
+      "A peek behind the curtain: witnessing the collaborative efforts to refine an AI model was more inspiring than any presentation.",
+      "If you're considering an AI internship, what’s the one thing you’re most excited to explore?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#AIInternshipExperience",
+      "#AIInternship",
+      "#MachineLearning",
+      "#DataScienceJourney"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Rewind to my first day at the AI internship experience – the sheer volume of learning felt like stepping into a whole new universe. Honestly, it was overwhelming in the best possible way!\n\nEarly on, I realized the most crucial skill wasn’t mastering complex algorithms (though that was certainly part of it!). It was the ability to ask *smart* questions. Don’t be afraid to admit what you don’t understand; genuine curiosity is a huge asset in any field, especially one as rapidly evolving as AI.\n\nIt’s amazing to see how quickly you adapt and grow with each new challenge.\n\nWhat's one piece of advice you wish you’d had when starting your first tech role?\n\n#AIInternshipExperience #AIInternship #MachineLearning #DataScienceJourney",
+  "reel_script": "Hook (0-3s): “The feeling when you realize… you’re learning *this*.”\n\nScene 1 | Visual: Fast-forward montage of code scrolling, diagrams appearing, a whiteboard covered in notes. | Voiceover: \"Rewind to my first day at the AI internship. It felt… overwhelming.”\n\nScene 2 | Visual: Close-up shot of someone intently studying a complex algorithm, then a quick shot of a team brainstorming. | Voiceover: “Suddenly, concepts I’d only read about were becoming tangible. Every question sparked a deeper dive.”\n\nScene 3 | Visual: Smiling face of the intern, looking thoughtful and engaged, working on a computer. | Voiceover: “It’s a universe of possibilities, and I’m so grateful for the opportunity to explore it.  Let’s build the future, together.”\n\nClosing line: “Ready to unlock your potential? Invest in your skills today.”",
+  "title": "AI Internship: First Day Wow",
+  "thumbnail_text": "Learning a lot",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 114,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the “Rewind” opening.\n- Clearly communicates a key takeaway – the importance of asking questions.\n- Includes a relevant call to action (“What’s one piece of advice…?”).\n\nIssues:\n- The “overwhelming in the best possible way!” feels slightly cliché and could be strengthened.\n- The phrasing “genuine curiosity is a huge asset” is a bit generic and could be more impactful.\n- Lacks a strong concluding statement to leave the reader with a lasting impression.\n\nSuggestions:\n- Replace “overwhelming in the best possible way!” with something more specific and engaging, such as “I was immediately immersed in a world of possibilities.”\n- Rephrase “genuine curiosity is a huge asset” to something like “Asking thoughtful questions demonstrates a commitment to learning and drives innovation.”\n- Add a brief concluding sentence reinforcing the positive experience and encouraging engagement, e.g., “I’m excited to continue learning and growing in this dynamic field!”",
+  "revisions": 0
+}

@@ -1,0 +1,94 @@
+{
+  "plan": {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "output_type": "Video script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 trending angles for a captivating computer vision YouTube Short."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generating targeted hashtags to maximize visibility for your computer vision content."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing the caption for clarity, engagement, and adherence to guidelines."
+      }
+    ]
+  },
+  "topic": "Computer vision project",
+  "platform": "YouTube Shorts",
+  "tone": "Exciting",
+  "content_idea": "Watch a mundane photo transform into a detailed, AI-generated masterpiece before your eyes!",
+  "hook": "🤯 Watch a boring photo become an incredible AI artwork in seconds!",
+  "research": {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "angles": [
+      "Watch a mundane photo transform into a detailed, AI-generated masterpiece before your eyes!",
+      "Discover the surprising ways computer vision is already predicting your every move online.",
+      "Learn how algorithms are learning to see, and why that’s changing everything.",
+      "Get a sneak peek at the chaotic process of training a computer vision model – it’s wild!",
+      "Can a computer *really* understand what it’s looking at? Let’s explore the blurry line between vision and intelligence."
+    ],
+    "best_angle": "Watch a mundane photo transform into a detailed, AI-generated masterpiece before your eyes!",
+    "trends": [
+      "Watch a mundane photo transform into a detailed, AI-generated masterpiece before your eyes!",
+      "Discover the surprising ways computer vision is already predicting your every move online.",
+      "Learn how algorithms are learning to see, and why that’s changing everything.",
+      "Get a sneak peek at the chaotic process of training a computer vision model – it’s wild!",
+      "Can a computer *really* understand what it’s looking at? Let’s explore the blurry line between vision and intelligence."
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "hashtags": [
+      "#ComputerVisionProject",
+      "#ComputerVision",
+      "#DeepLearning",
+      "#ImageAnalysis",
+      "#AIProjects"
+    ],
+    "total_hashtags": 5
+  },
+  "content": "🤯 Watch a boring photo become an incredible AI artwork in seconds! This computer vision project is blowing my mind! 🤩 Tap the follow button to see more amazing transformations! What do you think it looks like now?\n\n#ComputerVisionProject #ComputerVision #DeepLearning #ImageAnalysis #AIProjects",
+  "reel_script": "Hook (0-3s): “Mind. Blown.”\n\nScene 1 | Visual: Close-up shot of a blurry, slightly out-of-focus photo of a simple grey cat. | Voiceover: “Here’s a picture… completely ordinary.”\n\nScene 2 | Visual: Timelapse – the grey cat photo rapidly transforms, layers of detail appearing, color blooming, the image becoming incredibly realistic and detailed. AI generation is visibly happening. | Voiceover: “But what if it wasn’t?”\n\nScene 3 | Visual: The final, stunning AI-generated image of the cat – vibrant, perfectly lit, in a beautiful outdoor setting, looking directly at the camera. | Voiceover: “Computer vision is changing everything.”\n\nClosing line: “Explore the future of art – watch more!”",
+  "title": "AI Photo Magic Reveal",
+  "thumbnail_text": "Real to Digital",
+  "analysis": {
+    "platform": "YouTube Shorts",
+    "word_count": 38,
+    "hashtag_count": 5,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 5,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong hook with the initial emoji and “blowing my mind!”\n- Clear call to action to follow the channel.\n- Relevant hashtags included.\n\nIssues:\n- The caption could be more specific about the transformation process.\n- The question “What do you think it looks like now?” feels tacked on and doesn’t fully engage the viewer.\n- Tone is somewhat generic; could be more enthusiastic.\n\nSuggestions:\n- Revise caption to briefly describe the AI transformation (e.g., “Watch a photo turn into a stunning digital painting in seconds!”).\n- Replace the question with a more engaging prompt (e.g., “Double tap if you’re amazed!” or “Can you guess the original photo?”).\n- Consider adding a hashtag like #AIArt to broaden reach.",
+  "revisions": 0
+}

@@ -1,0 +1,102 @@
+{
+  "plan": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 potential angles for AI in education content."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Suggesting relevant hashtags to maximize LinkedIn reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for optimal motivational impact."
+      }
+    ]
+  },
+  "topic": "AI in Education",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "For centuries, educators sought methods to reach every learner; now, AI is offering a revolutionary new tool to achieve that goal.",
+  "hook": "For centuries, educators have strived to reach every learner – a noble pursuit!",
+  "research": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a classroom where every student’s learning path is uniquely tailored – that’s the potential of AI in education.",
+      "For centuries, educators sought methods to reach every learner; now, AI is offering a revolutionary new tool to achieve that goal.",
+      "Let’s debunk the myth that AI will replace teachers; instead, it’s poised to empower them with incredible insights and support.",
+      "A peek behind the scenes reveals how AI is being used to personalize feedback and provide immediate support to students, dramatically shifting the learning experience.",
+      "What if we could unlock each student's full potential by leveraging AI’s ability to adapt to individual learning styles – what questions would you ask to make it happen?"
+    ],
+    "best_angle": "For centuries, educators sought methods to reach every learner; now, AI is offering a revolutionary new tool to achieve that goal.",
+    "trends": [
+      "Imagine a classroom where every student’s learning path is uniquely tailored – that’s the potential of AI in education.",
+      "For centuries, educators sought methods to reach every learner; now, AI is offering a revolutionary new tool to achieve that goal.",
+      "Let’s debunk the myth that AI will replace teachers; instead, it’s poised to empower them with incredible insights and support.",
+      "A peek behind the scenes reveals how AI is being used to personalize feedback and provide immediate support to students, dramatically shifting the learning experience.",
+      "What if we could unlock each student's full potential by leveraging AI’s ability to adapt to individual learning styles – what questions would you ask to make it happen?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "AI in Education",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#AIInEducation",
+      "#EdTechAI",
+      "#LearningAI",
+      "#AIpedagogy"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "For centuries, educators have strived to reach every learner – a noble pursuit! Now, Artificial Intelligence is offering a revolutionary tool to finally achieve this goal. Imagine a classroom where each student’s learning path is uniquely tailored to their individual needs and pace.\n\nAI isn’t about replacing teachers; it’s about empowering them with powerful insights, automating administrative tasks, and providing personalized feedback that dramatically shifts the learning experience. We’re seeing AI used to offer immediate support and adapt to diverse learning styles, unlocking each student’s full potential.\n\nWhat questions should we be asking to truly harness the power of AI to transform education and ensure equitable access to knowledge for all?\n\n#AIInEducation #EdTechAI #LearningAI #AIpedagogy",
+  "reel_script": "Hook (0-3s): “The future of learning is here.”\n\nScene 1 | Visual: A diverse group of students engaged in different learning activities – some using tablets, others collaborating on a project, all with focused expressions.\n| Voiceover: “For centuries, educators have strived to reach every learner. Now, Artificial Intelligence is offering a revolutionary tool to finally achieve this goal.”\n\nScene 2 | Visual: Animated graphic illustrating a student’s learning path adapting in real-time based on their performance.\n| Voiceover: “Imagine a classroom where each student’s learning path is uniquely tailored to their individual needs and pace.”\n\nScene 3 | Visual: A teacher smiling, reviewing student progress data on a tablet.\n| Voiceover: “AI isn’t replacing teachers; it’s empowering them with powerful insights and personalized feedback, unlocking each student’s full potential.”\n\nClosing line: “Let’s explore how AI can transform education – one student at a time.”",
+  "title": "AI: Unlock Every Learner",
+  "thumbnail_text": "Future of Learning",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 115,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 84,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 0,
+      "readability": 9,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ],
+    "suggestions": [
+      "Add a call to action to encourage engagement.",
+      "Check for accidentally joined words.",
+      "Check for missing spaces between words."
+    ]
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 84/100\n\nStrengths:\n- The topic of AI in education is highly relevant and timely.\n- The content effectively conveys a motivational message about personalized learning and empowering educators.\n- The overall tone is positive and optimistic, aligning with the desired motivational approach.\n\nSuggestions:\n- Add a call to action to encourage engagement.\n- Check for accidentally joined words.\n- Check for missing spaces between words.",
+  "revisions": 0
+}

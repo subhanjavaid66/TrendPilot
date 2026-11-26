@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "output_type": "Reel script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generated 5 funny angles for a Python learning journey reel."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identified relevant hashtags for a Python learning content post."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Scored the caption for humor and engagement based on rules."
+      }
+    ]
+  },
+  "topic": "Python learning journey",
+  "platform": "Instagram",
+  "tone": "Funny",
+  "content_idea": "Share a relatable meme about staring blankly at a Python tutorial, captioned 'My brain trying to process variables.'",
+  "hook": "My brain trying to process variables.",
+  "research": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "angles": [
+      "Share a relatable meme about staring blankly at a Python tutorial, captioned 'My brain trying to process variables.'",
+      "Present a 'myth-busting' graphic: 'Myth: Python is only for mathematicians; Truth: It's a Swiss Army knife for almost anything!'",
+      "Post a 'lesson' in the style of a quick, illustrated tip – like, 'How to print 'Hello, World!' in Python like a pro (it's easier than you think!).'",
+      "Create a 'behind-the-scenes' reel showing the chaotic but rewarding process of setting up a Python development environment, complete with coffee stains and triumphant expressions.",
+      "Launch a 'question' sticker poll in your story: ‘What’s your biggest Python hurdle right now - syntax, debugging, or just general confusion?’"
+    ],
+    "best_angle": "Share a relatable meme about staring blankly at a Python tutorial, captioned 'My brain trying to process variables.'",
+    "trends": [
+      "Share a relatable meme about staring blankly at a Python tutorial, captioned 'My brain trying to process variables.'",
+      "Present a 'myth-busting' graphic: 'Myth: Python is only for mathematicians; Truth: It's a Swiss Army knife for almost anything!'",
+      "Post a 'lesson' in the style of a quick, illustrated tip – like, 'How to print 'Hello, World!' in Python like a pro (it's easier than you think!).'",
+      "Create a 'behind-the-scenes' reel showing the chaotic but rewarding process of setting up a Python development environment, complete with coffee stains and triumphant expressions.",
+      "Launch a 'question' sticker poll in your story: ‘What’s your biggest Python hurdle right now - syntax, debugging, or just general confusion?’"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "hashtags": [
+      "#PythonLearningJourney",
+      "#PythonPath",
+      "#CodeJourney",
+      "#DataSkills",
+      "#ScriptingLife",
+      "#PythonGrowth"
+    ],
+    "total_hashtags": 6
+  },
+  "content": "My brain trying to process variables. 🤯\n\nSeriously, have you ever stared at a Python tutorial and just…blanked? It’s a universal experience on this Python learning journey!\n\nI’ve spent hours wrestling with loops and functions, feeling like I'm speaking a completely different language.\n\nWatch till the end to see me dramatically contemplate the meaning of “def” and “return”.\n\nWhat’s your biggest Python struggle right now? Let me know in the comments!\n\n#PythonLearningJourney #PythonPath #CodeJourney #DataSkills #ScriptingLife #PythonGrowth",
+  "reel_script": "Hook (0-3s): “Is this… Python?”\nScene 1 | Visual: Close-up of someone staring intensely at a computer screen, eyes wide, a slightly bewildered expression. Overlay text: “My brain trying to process variables.” | Voiceover: \"Okay, so, Python. It's… something. I thought it would be easier.\"\nScene 2 | Visual: Quick montage of scrolling through a dense Python tutorial – code scrolling by rapidly, a confused hand pointing at the screen. | Voiceover: “I’ve spent the last three hours reading about ‘variables’ and I still don’t get it.”\nScene 3 | Visual: Person takes a deep breath, then a small smile appears as they start typing code on the screen. | Voiceover: “But, slowly… it’s starting to click!”\nClosing line: “Don’t give up! Keep learning, one line of code at a time.”",
+  "title": "Python Learner Vibes 🐍",
+  "thumbnail_text": "Brain overload now",
+  "analysis": {
+    "platform": "Instagram",
+    "word_count": 71,
+    "hashtag_count": 6,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 6,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- The opening line with the emoji is a strong hook and relatable to the topic.\n- The caption clearly communicates the feeling of struggling with Python concepts.\n- The call to action (“Let me know in the comments!”) encourages engagement.\n\nIssues:\n- The language is slightly generic and could be more humorous. “Wrestling with loops” is a common phrase.\n- The “dramatically contemplate” line feels a little forced and could be strengthened for comedic effect.\n- Hashtags are relevant but could be more targeted or creative.\n\nSuggestions:\n- Replace “My brain trying to process variables” with something more specific and funny, like “My brain trying to understand why ‘=’ isn’t the same as ‘==’”.\n- Rewrite the “dramatically contemplate” line to be funnier, perhaps “Prepare for a close-up of me staring intensely at the screen, questioning my entire existence.”\n- Replace some of the broader hashtags with more specific ones, such as #PythonNewbie or #CodingStruggles. Consider adding a branded hashtag for TrendPilot.",
+  "revisions": 0
+}

@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "output_type": "Portfolio post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 potential angles for your final year project."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to broaden your project's reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating your caption for professional tone and clarity."
+      }
+    ]
+  },
+  "topic": "Final year project",
+  "platform": "LinkedIn",
+  "tone": "Professional",
+  "content_idea": "The biggest fear of a final year project isn't the code or the design, it’s often the feeling of being utterly lost, and overcoming that is key.",
+  "hook": "The biggest fear of a final year project isn’t the code or the design; it’s often the unsettling feeling of being utterly lost.",
+  "research": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine pouring your heart and soul into a final year project – it’s a marathon, not a sprint.",
+      "The biggest fear of a final year project isn't the code or the design, it’s often the feeling of being utterly lost, and overcoming that is key.",
+      "I spent countless late nights wrestling with this project, and the most valuable lesson I learned was the power of asking for help.",
+      "A peek behind the curtain: the messy iterations, the frantic research, and the moments of pure, creative breakthrough that define a final year project.",
+      "What’s the most challenging aspect of tackling a complex final year project – and how do you manage the pressure?"
+    ],
+    "best_angle": "The biggest fear of a final year project isn't the code or the design, it’s often the feeling of being utterly lost, and overcoming that is key.",
+    "trends": [
+      "Imagine pouring your heart and soul into a final year project – it’s a marathon, not a sprint.",
+      "The biggest fear of a final year project isn't the code or the design, it’s often the feeling of being utterly lost, and overcoming that is key.",
+      "I spent countless late nights wrestling with this project, and the most valuable lesson I learned was the power of asking for help.",
+      "A peek behind the curtain: the messy iterations, the frantic research, and the moments of pure, creative breakthrough that define a final year project.",
+      "What’s the most challenging aspect of tackling a complex final year project – and how do you manage the pressure?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#FinalYearProject",
+      "#CapstoneProject",
+      "#FinalDesign",
+      "#ResearchOutput"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "The biggest fear of a final year project isn’t the code or the design; it’s often the unsettling feeling of being utterly lost.\n\nNavigating the complexities of a large project can quickly lead to a sense of overwhelm. It’s easy to get bogged down in the details and lose sight of the bigger picture. My key takeaway from completing my final year project was to consistently break down the work into smaller, manageable milestones.\n\nThis approach not only provides a clearer roadmap but also delivers a series of small victories that build momentum and confidence. Focusing on these smaller steps dramatically reduces the feeling of being lost and allows for more focused progress.\n\nWhat strategies have you found most effective for tackling large, complex projects – particularly during the final stages?\n\n#FinalYearProject #CapstoneProject #FinalDesign #ResearchOutput",
+  "reel_script": "Hook (0-3s): “That sinking feeling…”\n\nScene 1 | Visual: Close-up shot of a student looking stressed, staring at a laptop screen with complex code. | Voiceover: “The biggest hurdle in a final year project isn’t the technical challenges – it’s the feeling of being completely lost.”\n\nScene 2 | Visual: Quick montage – a student meeting with a mentor, sketching ideas in a notebook, collaborating with a small group. | Voiceover: “It’s about seeking guidance, breaking down the project into manageable steps, and building a support system.”\n\nScene 3 | Visual: Shot of a confident student presenting their project, smiling. | Voiceover: “Overcoming that initial disorientation is the key to not just finishing, but thriving. “\n\nClosing line: “Don’t let the overwhelm win. Take it one step at a time.”",
+  "title": "Lost in the Final Project?",
+  "thumbnail_text": "Overcoming the fear",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 131,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\nAI reviewer verdict: NEEDS IMPROVEMENT (advisory)\n\nStrengths:\n- Strong opening hook that resonates with the target audience.\n- Clearly articulates a key strategy for managing final year projects – breaking down tasks.\n- Includes a relevant call to action, prompting engagement.\n\nIssues:\n- The tone, while professional, could be slightly more polished and less conversational. Phrases like “utterly lost” are a bit informal for LinkedIn.\n- The content is a little repetitive; the benefits of milestones are stated multiple times.\n- Lacks a strong concluding statement.\n\nSuggestions:\n- Rewrite the opening to be more formal: “A common challenge for final year projects is overcoming the initial feeling of being overwhelmed by the scope of the work.”\n- Combine the repetition about milestones into a single, stronger statement: “By consistently breaking down the project into smaller, manageable milestones, you can maintain focus and build momentum.”\n- Add a concluding sentence summarizing the key takeaway: “Prioritizing these smaller steps is crucial for successful completion of your final year project.”\n- Adjust hashtags: #FinalYearProject #CapstoneProject #ResearchOutput #ProjectManagement",
+  "revisions": 0
+}

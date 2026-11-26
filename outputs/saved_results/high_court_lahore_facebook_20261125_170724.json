@@ -1,0 +1,95 @@
+{
+  "plan": {
+    "topic": "High Court Lahore",
+    "platform": "Facebook",
+    "tone": "Professional",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "High Court Lahore",
+  "platform": "Facebook",
+  "tone": "Professional",
+  "output_type": "Post",
+  "content_idea": "Let’s debunk the common misconception that the High Court Lahore only deals with complex legal cases – it's a cornerstone of everyday legal fairness.",
+  "hook": "Here’s a Facebook post draft based on your brief and guidelines:",
+  "research": {
+    "topic": "High Court Lahore",
+    "platform": "Facebook",
+    "angles": [
+      "Imagine the High Court Lahore as a silent guardian, meticulously upholding justice across generations.",
+      "Let’s debunk the common misconception that the High Court Lahore only deals with complex legal cases – it's a cornerstone of everyday legal fairness.",
+      "The High Court Lahore teaches a powerful lesson: true justice demands patience, rigorous examination, and a commitment to truth.",
+      "Take a rare glimpse behind the scenes of the High Court Lahore, showcasing the dedicated individuals shaping Pakistan’s legal landscape.",
+      "If the High Court Lahore could speak, what critical question would it ask to improve the system of justice?"
+    ],
+    "best_angle": "Let’s debunk the common misconception that the High Court Lahore only deals with complex legal cases – it's a cornerstone of everyday legal fairness.",
+    "trends": [
+      "Imagine the High Court Lahore as a silent guardian, meticulously upholding justice across generations.",
+      "Let’s debunk the common misconception that the High Court Lahore only deals with complex legal cases – it's a cornerstone of everyday legal fairness.",
+      "The High Court Lahore teaches a powerful lesson: true justice demands patience, rigorous examination, and a commitment to truth.",
+      "Take a rare glimpse behind the scenes of the High Court Lahore, showcasing the dedicated individuals shaping Pakistan’s legal landscape.",
+      "If the High Court Lahore could speak, what critical question would it ask to improve the system of justice?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-25",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "High Court Lahore",
+    "platform": "Facebook",
+    "hashtags": [
+      "#HighCourtLahore",
+      "#ImagineTheHigh",
+      "#CourtLahoreAs"
+    ],
+    "total_hashtags": 3
+  },
+  "content": "Here’s a Facebook post draft based on your brief and guidelines:\n\n---\n\nEver wondered how justice is actually *made* in Pakistan? The High Court Lahore isn’t just about huge, complex cases – it’s the bedrock of everyday legal fairness, quietly shaping decisions that impact countless lives. Think of it as a patient guardian, meticulously examining every detail to ensure truth prevails.\n\nThe High Court Lahore teaches us that true justice isn’t rushed; it demands careful consideration and a commitment to finding the right outcome. It’s a system built on rigorous examination and a dedication to upholding the law.\n\nWhat critical question do you think the High Court Lahore could ask to truly strengthen our justice system? Let's discuss!\n---\n\n**Notes:**\n\n* I've started with a relatable question to immediately engage the reader.\n* I’ve directly addressed the misconception about the High Court’s role.\n* I’ve used evocative language (\"patient guardian,\" “rigorous examination”) to create a stronger image.\n* I’ve included a clear call to action – asking a question – to encourage engagement.\n* I’ve stuck to the 80-150 word count.\n\n#HighCourtLahore #ImagineTheHigh #CourtLahoreAs",
+  "reel_script": null,
+  "title": "Let’s debunk the common misconception that the High Court...",
+  "thumbnail_text": "HIGH COURT LAHORE",
+  "analysis": {
+    "platform": "Facebook",
+    "word_count": 181,
+    "hashtag_count": 3,
+    "inline_hashtag_count": 3,
+    "total_hashtag_mentions": 3,
+    "relevant_hashtag_count": 3,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 97,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 12
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 97/100\n\nStrengths:\n- The caption effectively uses evocative language (\"patient guardian,\" \"rigorous examination\") to create a compelling image of the High Court Lahore.\n- The question posed at the end (“What critical question do you think the High Court Lahore could ask to truly strengthen our justice system?”) is highly relevant and encourages genuine engagement.\n- The post clearly addresses a common misconception about the High Court’s role, making it more accessible to a wider audience.\n\nIssues:\n- The word count is slightly over the target (181 words), which could benefit from some trimming.\n- While the phrasing is generally good, the “imagine the High Court” opening feels slightly cliché and could be refined for a more impactful start.\n- The hashtags, while relevant, are a little generic and could be strengthened with more specific terms.\n\nSuggestions:\n- Trim the caption by approximately 20-30 words to bring it closer to the 150-word limit. Focus on removing redundant phrases.\n- Consider revising the opening to something more direct and informative, such as “The High Court Lahore plays a vital role in…”\n- Replace the current hashtags with more targeted options, such as #JusticePakistan or #LahoreHighCourt.",
+  "revisions": 0
+}

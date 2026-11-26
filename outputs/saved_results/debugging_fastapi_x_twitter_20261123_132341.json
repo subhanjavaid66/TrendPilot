@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "tone": "Funny",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for debugging FastAPI content on X."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags for debugging FastAPI discussions."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing the caption for humor and X-platform suitability."
+      }
+    ]
+  },
+  "topic": "Debugging FastAPI",
+  "platform": "X (Twitter)",
+  "tone": "Funny",
+  "content_idea": "Debugging FastAPI is like trying to find a single misplaced semicolon in a digital jungle, and trust me, they’re *everywhere*.",
+  "hook": "Debugging FastAPI is like trying to find a single misplaced semicolon in a digital jungle, and trust me, they’re *everywhere*.",
+  "research": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "angles": [
+      "My FastAPI app started screaming '500 Internal Server Error' – turns out it just needed a good debugging session!",
+      "Debugging FastAPI is like trying to find a single misplaced semicolon in a digital jungle, and trust me, they’re *everywhere*.",
+      "The ancient art of debugging FastAPI: patience, a good debugger, and accepting that your code occasionally thinks it's smarter than you.",
+      "Sneak peek behind the scenes of fixing a FastAPI issue – it’s less ‘coding hero’ and more ‘carefully stepping through logs’.",
+      "If your FastAPI app isn’t behaving, are you *really* checking the request body or are you just blaming the server?"
+    ],
+    "best_angle": "Debugging FastAPI is like trying to find a single misplaced semicolon in a digital jungle, and trust me, they’re *everywhere*.",
+    "trends": [
+      "My FastAPI app started screaming '500 Internal Server Error' – turns out it just needed a good debugging session!",
+      "Debugging FastAPI is like trying to find a single misplaced semicolon in a digital jungle, and trust me, they’re *everywhere*.",
+      "The ancient art of debugging FastAPI: patience, a good debugger, and accepting that your code occasionally thinks it's smarter than you.",
+      "Sneak peek behind the scenes of fixing a FastAPI issue – it’s less ‘coding hero’ and more ‘carefully stepping through logs’.",
+      "If your FastAPI app isn’t behaving, are you *really* checking the request body or are you just blaming the server?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#DebuggingFastAPI",
+      "#FastAPIdev"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Debugging FastAPI is like trying to find a single misplaced semicolon in a digital jungle, and trust me, they’re *everywhere*. Send help (and maybe a magnifying glass)! What’s your biggest FastAPI debugging struggle?\n\n#DebuggingFastAPI #FastAPIdev",
+  "reel_script": "Hook (0-3s): “FastAPI debugging? It’s a nightmare.”\n\nScene 1 | Visual: Rapid scrolling code, a confused programmer furiously typing, then a close-up of a single semicolon highlighted in red. | Voiceover: “It’s like you’re wandering through a digital jungle, desperately searching for…this.”\n\nScene 2 | Visual: Animated jungle scene – vines, dense foliage, a tiny programmer battling a giant, blinking semicolon. | Voiceover: “Seriously, misplaced semicolons are *everywhere*. They’re multiplying.”\n\nScene 3 | Visual: The programmer throws their hands up in exasperation, then smiles and confidently fixes the semicolon. | Voiceover: “Don't lose hope! Master your FastAPI debugging.”\n\nClosing line: “Level up your dev game!”",
+  "title": "FastAPI Debugging Woes",
+  "thumbnail_text": "Semicolons Everywhere",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 33,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\n\nStrengths:\n- Strong hook using relatable analogy (“digital jungle”).\n- Clearly communicates the difficulty of debugging FastAPI.\n- Maintains a lighthearted and funny tone.\n\nIssues:\n- Could benefit from a slightly more specific call to action.\n\nSuggestions:\n- Replace “What’s your biggest FastAPI debugging struggle?” with “Share your biggest FastAPI debugging struggle below!”\n- Consider adding one additional hashtag: #Python",
+  "revisions": 0
+}

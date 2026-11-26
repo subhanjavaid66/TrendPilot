@@ -1,0 +1,98 @@
+{
+  "plan": {
+    "topic": "How startups can compete with established companies",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Generate content angles and pick the best one"
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Generate niche hashtags for the platform"
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Score the draft with rule-based quality checks"
+      }
+    ]
+  },
+  "topic": "How startups can compete with established companies",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "output_type": "Post",
+  "content_idea": "The biggest lesson from every successful startup? Don’t try to be everything to everyone; specialize and dominate a niche.",
+  "hook": "Startups, are you getting lost in the noise of “growth at all costs”?",
+  "research": {
+    "topic": "How startups can compete with established companies",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine a David and Goliath story, but instead of a stone, startups wield innovation to disrupt the giants.",
+      "Myth: Scale is the only metric that matters – reality? Agile growth and deep customer connections are the true keys to competitive advantage.",
+      "The biggest lesson from every successful startup? Don’t try to be everything to everyone; specialize and dominate a niche.",
+      "Here’s a peek behind the scenes of a startup that built a thriving business by focusing relentlessly on solving a single, painful problem.",
+      "What’s the one thing established companies *always* overlook when it comes to fighting for market share – and how can startups capitalize on it?"
+    ],
+    "best_angle": "The biggest lesson from every successful startup? Don’t try to be everything to everyone; specialize and dominate a niche.",
+    "trends": [
+      "Imagine a David and Goliath story, but instead of a stone, startups wield innovation to disrupt the giants.",
+      "Myth: Scale is the only metric that matters – reality? Agile growth and deep customer connections are the true keys to competitive advantage.",
+      "The biggest lesson from every successful startup? Don’t try to be everything to everyone; specialize and dominate a niche.",
+      "Here’s a peek behind the scenes of a startup that built a thriving business by focusing relentlessly on solving a single, painful problem.",
+      "What’s the one thing established companies *always* overlook when it comes to fighting for market share – and how can startups capitalize on it?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-26",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "How startups can compete with established companies",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#HowStartupsCan",
+      "#StartupsCanCompete",
+      "#CanCompeteWith",
+      "#CompeteWithEstablished"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Startups, are you getting lost in the noise of “growth at all costs”? The biggest lesson from every successful startup isn’t about scaling – it’s about specialization. Don’t try to be everything to everyone; dominate a niche.\n\nThink of it this way: established companies often chase broad markets, spreading themselves thin. Startups, on the other hand, can laser-focus on solving a single, painful problem for a specific audience. Take a company that built a thriving business by obsessively catering to the unique needs of small, independent coffee shops – offering solutions no one else did.\n\nThis agile approach, combined with deep customer connections, is where true competitive advantage lies. Established companies often overlook this crucial element. So, how can your startup capitalize on this – by relentlessly identifying and serving a passionate, underserved group?\n\n#HowStartupsCan #StartupsCanCompete #CanCompeteWith #CompeteWithEstablished",
+  "reel_script": null,
+  "title": "The biggest lesson from every successful startup? Don’t try to...",
+  "thumbnail_text": "HOW STARTUPS CAN COMPETE",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 134,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevant_hashtag_count": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 90,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 0,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "formatting_issues": [],
+    "suggestions": [
+      "Add a call to action to encourage engagement."
+    ]
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 90/100\n\nStrengths:\n- The core message about specialization being a key competitive advantage for startups is well-articulated and relevant to the topic.\n- The coffee shop example effectively illustrates the concept of laser-focusing on a niche.\n- The tone is motivational and encourages a strategic mindset.\n\nIssues:\n- The caption lacks a clear call to action, failing to encourage engagement or further exploration. The analyzer correctly identifies this as a significant omission.\n- While the writing is generally natural, it leans slightly towards generic startup advice and could benefit from more specific, actionable insights.\n- The phrase “established companies often overlook this crucial element” feels somewhat presumptive and could be phrased more constructively.\n\nSuggestions:\n- Add a CTA such as: “What niche opportunities are you pursuing? Share your thoughts in the comments!”\n- Include a brief, concrete step a startup can take to identify a potential niche (e.g., “Start by mapping out underserved customer segments within your industry”).\n- Rephrase “established companies often overlook this crucial element” to something like: “Many established companies struggle to adapt quickly to emerging niche demands.”\n- Add a call to action to encourage engagement.",
+  "revisions": 0
+}

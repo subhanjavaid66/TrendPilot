@@ -1,0 +1,91 @@
+{
+  "plan": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "tone": "Funny",
+    "output_type": "Short post",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 angles for debugging FastAPI content on X."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags for debugging FastAPI discussions."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Analyzing the caption for humor and X-platform suitability."
+      }
+    ]
+  },
+  "topic": "Debugging FastAPI",
+  "platform": "X (Twitter)",
+  "tone": "Funny",
+  "content_idea": "Debugging FastAPI isn’t about finding a single bug; it’s about mastering the art of politely questioning your code’s every decision.",
+  "hook": "Debugging FastAPI isn’t about finding a single bug; it’s about mastering the art of politely questioning your code’s every decision.",
+  "research": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "angles": [
+      "My FastAPI app was running perfectly... until the unexpected semicolon threw everything into chaos – debugging felt like a mythical quest.",
+      "Debugging FastAPI isn’t about finding a single bug; it’s about mastering the art of politely questioning your code’s every decision.",
+      "The biggest debugging lesson I learned? Trace your requests, not just your errors, to truly understand what's happening under the hood.",
+      "Ever feel like your FastAPI app is silently judging your architecture choices? Let’s talk about debugging those design dilemmas.",
+      "Is your FastAPI debugging process resembling a frantic scavenger hunt for a single misplaced bracket? You’re not alone!"
+    ],
+    "best_angle": "Debugging FastAPI isn’t about finding a single bug; it’s about mastering the art of politely questioning your code’s every decision.",
+    "trends": [
+      "My FastAPI app was running perfectly... until the unexpected semicolon threw everything into chaos – debugging felt like a mythical quest.",
+      "Debugging FastAPI isn’t about finding a single bug; it’s about mastering the art of politely questioning your code’s every decision.",
+      "The biggest debugging lesson I learned? Trace your requests, not just your errors, to truly understand what's happening under the hood.",
+      "Ever feel like your FastAPI app is silently judging your architecture choices? Let’s talk about debugging those design dilemmas.",
+      "Is your FastAPI debugging process resembling a frantic scavenger hunt for a single misplaced bracket? You’re not alone!"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-23",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Debugging FastAPI",
+    "platform": "X (Twitter)",
+    "hashtags": [
+      "#DebuggingFastAPI",
+      "#FastAPIdev"
+    ],
+    "total_hashtags": 2
+  },
+  "content": "Debugging FastAPI isn’t about finding a single bug; it’s about mastering the art of politely questioning your code’s every decision. Seriously, be nice to your functions! What’s your favorite debugging tactic?\n\n#DebuggingFastAPI #FastAPIdev",
+  "reel_script": "Hook (0-3s): “Your FastAPI app is yelling at you?”\n\nScene 1 | Visual: Close-up of a frustrated developer slamming their keyboard. | Voiceover: \"Debugging isn't about finding *the* bug. It’s about politely questioning every single thing your code does.\"\n\nScene 2 | Visual: Animated thought bubble above a line of code, with a tiny question mark popping up repeatedly. | Voiceover: \"Seriously, did you *really* need that nested loop? Was that variable *really* the right type?\"\n\nScene 3 | Visual: The frustrated developer now smiling calmly, sipping coffee, surrounded by code with helpful debugging tools. | Voiceover: “It’s about gentle persuasion. Become a code whisperer.”\n\nClosing line: “Master the art of asking ‘Why?’ – your FastAPI will thank you.”",
+  "title": "FastAPI Debugging: Polite Questions",
+  "thumbnail_text": "Code's Choices",
+  "analysis": {
+    "platform": "X (Twitter)",
+    "word_count": 31,
+    "hashtag_count": 2,
+    "inline_hashtag_count": 0,
+    "total_hashtag_mentions": 2,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: APPROVED\nRule-based quality score: 100/100\n\nStrengths:\n- Strong hook: “Debugging FastAPI isn’t about finding a single bug…” immediately grabs attention.\n- Clarity: The message is easily understood and relatable to FastAPI developers.\n- Tone match: The “politely questioning” and “be nice to your functions!” elements effectively convey a funny and approachable tone.\n\nIssues:\n- Length: The caption is slightly long for optimal X (Twitter) readability.\n- Call to action: While inviting responses is good, it’s subtle.\n\nSuggestions:\n- Caption edit: “Debugging FastAPI isn’t about finding a single bug; it’s about politely questioning every decision your code makes. Be nice to your functions! What’s your favorite debugging tactic?”\n- Hashtag adjustment: Change #FastAPIdev to #FastAPI to align with broader FastAPI community usage.\n- Add a direct question: “What’s your favorite debugging tactic? Share it below!”",
+  "revisions": 0
+}

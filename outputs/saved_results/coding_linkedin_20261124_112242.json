@@ -1,0 +1,93 @@
+{
+  "plan": {
+    "topic": "Coding",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "output_type": "Post + Reel Script",
+    "steps": [
+      {
+        "tool": "trend_research",
+        "purpose": "Exploring 5 trending coding concepts for LinkedIn engagement."
+      },
+      {
+        "tool": "hashtag_tool",
+        "purpose": "Identifying relevant hashtags to maximize coding content reach."
+      },
+      {
+        "tool": "content_analyzer",
+        "purpose": "Evaluating the caption for optimal motivational messaging."
+      }
+    ]
+  },
+  "topic": "Coding",
+  "platform": "LinkedIn",
+  "tone": "Motivational",
+  "content_idea": "Imagine the satisfaction of transforming a blank screen into a fully functional application – it’s a powerful feeling.",
+  "hook": "Imagine the satisfaction of transforming a blank screen into a fully functional application – it’s a powerful feeling.",
+  "research": {
+    "topic": "Coding",
+    "platform": "LinkedIn",
+    "angles": [
+      "Imagine the satisfaction of transforming a blank screen into a fully functional application – it’s a powerful feeling.",
+      "The myth of the 'natural coder' is shattered: consistent practice and a willingness to learn are the true keys to mastery.",
+      "Every successful line of code represents a small victory, building momentum and confidence with each iteration.",
+      "A glimpse into the iterative process – debugging, refining, and celebrating the smallest improvements in a project reveals the heart of coding.",
+      "What's the single most rewarding aspect of learning to code for *you*, and why does it motivate you?"
+    ],
+    "best_angle": "Imagine the satisfaction of transforming a blank screen into a fully functional application – it’s a powerful feeling.",
+    "trends": [
+      "Imagine the satisfaction of transforming a blank screen into a fully functional application – it’s a powerful feeling.",
+      "The myth of the 'natural coder' is shattered: consistent practice and a willingness to learn are the true keys to mastery.",
+      "Every successful line of code represents a small victory, building momentum and confidence with each iteration.",
+      "A glimpse into the iterative process – debugging, refining, and celebrating the smallest improvements in a project reveals the heart of coding.",
+      "What's the single most rewarding aspect of learning to code for *you*, and why does it motivate you?"
+    ],
+    "total_trends": 5,
+    "research_date": "2026-11-24",
+    "source": "Ollama (local LLM)"
+  },
+  "hashtags": {
+    "topic": "Coding",
+    "platform": "LinkedIn",
+    "hashtags": [
+      "#Coding",
+      "#CodeCraft",
+      "#AlgorithmicThinking",
+      "#SoftwareDesign"
+    ],
+    "total_hashtags": 4
+  },
+  "content": "Imagine the satisfaction of transforming a blank screen into a fully functional application – it’s a powerful feeling. Coding isn’t just about writing lines of code; it’s about problem-solving, building something from nothing, and witnessing your ideas come to life. Every successful line represents a small victory, fueling momentum and bolstering your confidence with each iteration. Debugging, refining, and celebrating those tiny improvements – that’s the heart of the process.\n\nThe journey to becoming a skilled coder is built on consistent practice and a genuine desire to learn. Don't believe the myth of the \"natural coder\"—mastery comes from dedication.\n\nWhat’s the single most rewarding aspect of learning to code for *you*, and why does it motivate you?\n\n#Coding #CodeCraft #AlgorithmicThinking #SoftwareDesign",
+  "reel_script": "Hook (0-3s): Unlock your potential.\n\nScene 1 | Visual: Close-up of hands typing rapidly on a keyboard, a blank code editor screen slowly filling with lines of code. | Voiceover: “It starts with a blank screen… a challenge.”\n\nScene 2 | Visual: Time-lapse of the code evolving, transforming into a simple, visually appealing application – a basic calculator, for example. | Voiceover: “But with each line, you build something real, something functional.”\n\nScene 3 | Visual: Slow-motion shot of a smiling person looking at the running application with satisfaction. | Voiceover: “That feeling of creation, of problem-solving… it’s incredibly rewarding.”\n\nClosing line: Start coding today and build your future.",
+  "title": "Code Your Dreams Now",
+  "thumbnail_text": "Build amazing apps",
+  "analysis": {
+    "platform": "LinkedIn",
+    "word_count": 121,
+    "hashtag_count": 4,
+    "inline_hashtag_count": 4,
+    "total_hashtag_mentions": 4,
+    "relevance_score": 25,
+    "relevance_percent": 100,
+    "quality_score": 100,
+    "checks": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "max_scores": {
+      "relevance": 25,
+      "length": 20,
+      "hashtags": 15,
+      "call_to_action": 10,
+      "readability": 15,
+      "originality": 15
+    },
+    "suggestions": []
+  },
+  "review": "Status: NEEDS IMPROVEMENT\nRule-based quality score: 100/100\n\nStrengths:\n- Strong hook that uses relatable imagery and evokes positive emotion.\n- Clearly articulates the rewarding aspects of coding – problem-solving, creation, and confidence building.\n- Uses motivational language (“building something from nothing,” “fueling momentum”).\n\nIssues:\n- The call to action (“What’s the single most rewarding aspect…”) feels somewhat tacked on and could be more integrated into the flow.\n- The statement about “not believing the myth of the natural coder” could be perceived as dismissive and might discourage some beginners.\n- Length is slightly long for optimal LinkedIn engagement; could benefit from tighter phrasing.\n\nSuggestions:\n- Rewrite the call to action to be more engaging and directly tied to the preceding paragraph. Example: “What’s the single most rewarding aspect of bringing your ideas to life through code? Share your motivation in the comments!”\n- Rephrase the “natural coder” statement to be more encouraging and focus on effort. Example: “Don’t let anyone tell you coding is only for the naturally gifted – consistent effort and a passion for learning are the keys to success.”\n- Shorten the paragraph about consistent practice for better readability. Consider combining it with the previous paragraph.",
+  "revisions": 2
+}
